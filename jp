@@ -74,7 +74,7 @@ https://archive.org/download/01_20230602_20230602_2139/01.mp4
 https://archive.org/download/01_20230602_20230602_2101/01.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//2lEyzOq6ILNgBpLLpTRckQhbNNt.jpg" group-title="1-ACCION juanpablo", JP:Sword Art Online, la pelicula 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//2lEyzOq6ILNgBpLLpTRckQhbNNt.jpg" group-title="1-ACCION juanpablo", JP:Sword Art Online la pelicula 
 https://archive.org/download/01_20230602_20230602_1944/01.mp4
 
 
@@ -271,7 +271,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Los%20Caballeros%20del%20Zodiaco-%20Saint%20Seiya%20-%20El%20inicio%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg" group-title="5-AVENTURA juanpablo", JP:Power Rangers: Ayer, hoy y siempre (2023) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg" group-title="5-AVENTURA juanpablo", JP:Power Rangers Ayer hoy y siempre (2023)
 http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
 
 
@@ -351,7 +351,7 @@ https://archive.org/download/01_20230422_20230422_1852/01.mp4
 https://archive.org/download/01_20230422_20230422_1845/01.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg" group-title="5-AVENTURA juanpablo", JP:Power Rangers: Ayer, hoy y siempre (2023) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg" group-title="5-AVENTURA juanpablo", JP:Power Rangers Ayer hoy y siempre (2023) 
 https://archive.org/download/01_20230422_20230422_1858/01.mp4
 
 
@@ -370,8 +370,33 @@ https://archive.org/download/01_20230415_20230415_2331/01.mp4
 https://archive.org/download/01_20230415_20230415_2325/01.mp4
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg" group-title="5-AVENTURA juanpablo", JP:Shazam 2 La furia de los dioses (2023) 
-https://archive.org/download/01_(2023)0409_(2023)0409_2336/01.mp4
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmarz%2FVer%20%C2%A1Shazam!%20La%20furia%20de%20los%20dioses%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" group-title="5-AVENTURA juanpablo", JP:Shazam (2019)
+http://vod.tuxchannel.mx/peliculas/720/shazam%202019.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" group-title="5-AVENTURA juanpablo", JP:Shazam (2019)
+https://archive.org/download/01_20220505_20220505_2130/01.mp4
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:65 Al borde de la extinción (2023) 
@@ -1149,11 +1174,11 @@ https://d1yei2z3i6k35z.cloudfront.net/2102480/639b6cf334ed1_SQNumero4k_A.mp4
 https://d1yei2z3i6k35z.cloudfront.net/2102480/639786c9bb4dd_NVDGP.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon5 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon5 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/63289b0421a7f_1x5LCDDNUMERO4K_a.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon4 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon4 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/631f6bad93e1b_1x4LCDDNUMERO4K_a.mp4
 
 
@@ -1161,36 +1186,34 @@ https://d1yei2z3i6k35z.cloudfront.net/2102480/631f6bad93e1b_1x4LCDDNUMERO4K_a.mp
 https://d1yei2z3i6k35z.cloudfront.net/2102480/631b7efe50c38_96BSTNumero4k_A.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon3 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon3 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6316167893fa6_1x3LCDDNUMERO4K_a.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="17-LA CASA DEL DRAGON juanpablo", JP:LA CASA DEL DRAGON 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon1 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6313eba9b6c00_1x1LCDDNUMERO4K_a.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del DRAGON2 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg" group-title="17-LA CASA DEL DRAGON juanpablo", JP:La Casa del Dragon2 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6313e8e04ce06_1x2LCDDNUMERO4K_a.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="18-STRANGER juanpablo", JP:STRANGER9 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iHszFJHj1LunIXKO43B6o1hIc8.jpg" group-title="18-STRANGER juanpablo", JP:STRANGER9 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62c088abc0a35_4x9STNumero4k_F.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="18-STRANGER juanpablo", JP:STRANGER8 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iHszFJHj1LunIXKO43B6o1hIc8.jpg" group-title="18-STRANGER juanpablo", JP:STRANGER8 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62c088a6c13de_4x8STNumero4k_F.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="19-COREA juanpablo", JP:COREA6 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg" group-title="19-LA CASA DE PAPEL KOREA juanpablo", JP:COREA6 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62b5cedd5e411_1x6LCDPCNumero4k_A.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="19-COREA juanpablo", JP:COREA5 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg" group-title="19-LA CASA DE PAPEL KOREA juanpablo", JP:COREA5 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62b5ced8af7cc_1x5LCDPCNumero4k_A.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="19-COREA juanpablo", JP:COREA4 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg" group-title="19-LA CASA DE PAPEL KOREA juanpablo", JP:COREA4 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62b5ced44738f_1x4LCDPCNumero4k_A.mp4
-
-
 
