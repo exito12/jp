@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500//ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" group-title="4-COMEDIA juanpablo", JP:10 Cosas que Odio de Ti
 https://archive.org/download/10_20210221/01.mp4
 
@@ -20,7 +21,7 @@ https://archive.org/download/01_20220502_20220502_1421/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/hJzYZ2jC5TqzCALiZZRqmqXXRZx.jpg" group-title="12-ANIMACION juanpablo", JP:AINBO la guerrera del amazonas
 https://archive.org/download/01_20211110_20211110_1536/01.mp4
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/4ZmlEn9fBR6syM5JNmiUoiYhXov.jpg" group-title="7-DOCUMENTAL juanpablo", JP:Akelarre 2021
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/4ZmlEn9fBR6syM5JNmiUoiYhXov.jpg" group-title="3-TERROR juanpablo", JP:Akelarre 2021
 https://archive.org/download/03_20210313_20210313_1548/02.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg" group-title="1-ACCION juanpablo", JP:Ambulance Plan de huida 2022
@@ -452,7 +453,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Chupa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c21ON7BZn0jwdNl6ibZ1vhXJmpy.jpg" group-title="7-DOCUMENTAL juanpablo", JP:La historia más grande jamás contada (1965) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zMZ3iFiWS60FlyrsHGVrtWsGeph.jpg" group-title="14-BIBLIA juanpablo", JP:La historia más grande jamás contada (1965) 
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20La%20Historia%20M%C3%A1s%20Grande%20Jam%C3%A1s%20Contada%20(1965)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
 
 
@@ -848,7 +849,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Jaula%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="10-CRIMEN juanpablo", JP:Grim cutty Asesino implacable (2022) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ncK8aTyzkWJ3oFKmYyEHeGphTrA.jpg" group-title="10-CRIMEN juanpablo", JP:Grimcutty Asesino implacable (2022) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20GRIMCUTTY-%20asesino%20implacable%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
 
@@ -900,7 +901,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20Dog.%20Un%20viaje%20salvaje%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="5-AVENTURA juanpablo", JP:Doctor Strange en el multiverso de la locura(2022) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uOnutpXJdDWyWzUCkApkahPSKuy.jpg" group-title="5-AVENTURA juanpablo", JP:Doctor Strange en el multiverso de la locura(2022) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
 
@@ -976,7 +977,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Avatar-%20El%20sentido%20del%20agua%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="1-ACCION juanpablo", JP:COBRA KAI T5 SERIE
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d7wp6viVphKEFmQkSnSONCYTNML.jpg" group-title="1-ACCION juanpablo", JP:COBRA KAI T5 SERIE
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Turno%20de%20d%C3%ADa%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
 
 
@@ -1216,4 +1217,304 @@ https://d1yei2z3i6k35z.cloudfront.net/2102480/62b5ced8af7cc_1x5LCDPCNumero4k_A.m
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg" group-title="19-LA CASA DE PAPEL KOREA juanpablo", JP:COREA4 
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62b5ced44738f_1x4LCDPCNumero4k_A.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/juoinefK6tMbjwJhRpRvbAAmrTB.jpg" group-title="1-ACCION juanpablo", JP:ALERTA EXTREMA 2023
+http://208.88.245.81/nuevo/alerta.extrema.dual.2023.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5Hk4ubepZZNwlNEbyYt2ejzCvr5.jpg" group-title="3-TERROR juanpablo", JP:Sonrisa Smile (2022)
+https://ppss6.tk/Uploads/Terror/Sonr%C3%ADe-2022-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ycj1ReH56364LiubRLLS4mY7hJw.jpg" group-title="5-AVENTURA juanpablo", JP:Teen wolf 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Teen%20Wolf-%20The%20Movie%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3ixVYoqCATZI2mLzIHI9T5Zj2LL.jpg" group-title="1-ACCION juanpablo", JP:BODAS DE PLOMO 2023
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/lvm6yZsdgnM0vJeM4mlOAUVeDES.jpg" group-title="1-ACCION juanpablo", JP:UN PARAISO PELIGROSO 2023
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" group-title="3-TERROR juanpablo", JP:LLAMAN A LA PUERTA 2023
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/byZCKMtAWIVI4iBIEY64Wd1Eh1l.jpg" group-title="4-COMEDIA juanpablo", JP:TENEMOS UN FANTASMA 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20Tenemos%20un%20fantasma%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8bNLrZt9lrmnt6LsaGG8GfDfgYR.jpg" group-title="6-DRAMA juanpablo", JP:OTTO UN VECINO GRUÑON 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20El%20peor%20vecino%20del%20mundo%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg" group-title="1-ACCION juanpablo", JP:CREED I 2015
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisfeb23%2FVer%20Creed-%20Coraz%C3%B3n%20de%20campe%C3%B3n%20(2015)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uJldamB3Le1eELdjqaBd4APGU49.jpg" group-title="7-DOCUMENTAL juanpablo", JP:La Historia de Pornhub 2023
+http://208.88.245.81/nuevo/money.shot.dual2023.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg" group-title="5-AVENTURA juanpablo", JP:AVATAR2 EL CAMINO DEL AGUA 2022
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmarz%2FVer%20Avatar-%20El%20camino%20del%20agua%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg" group-title="7-DOCUMENTAL juanpablo", JP:TETRIS 2023
+https://od.lk/s/OTZfNzc3MTU1MDlf/Tetris%20%282023%29%20Online.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3jce1QvM2sma0TKYckNmIKzjhHC.jpg" group-title="1-ACCION juanpablo", JP:MISTERIO A LA VISTA2 2023
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Murder%20Mystery%202%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg" group-title="2-SUSPENSO juanpablo", JP:CHUPA 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Chupa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/igFLHxab9zG0M89OmEpnOM6TPXn.jpg" group-title="5-AVENTURA juanpablo", JP:SHAZAM2 2023
+http://208.88.245.85/nuevo/shazam.2.2023.dual.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="5-AVENTURA juanpablo", JP:Ant-Man y la Avispa: QUANTUMANIA 2023
+http://208.88.245.85/nuevo/antman.quantumania.dual2023.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uqowwj8oaZdm9MuOvYEkraNudJ4.jpg" group-title="2-SUSPENSO juanpablo", JP:HAMBRE 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Hambre%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vcytE1v9e4RGjdhDYobbkFUNJxB.jpg" group-title="9-MISTERIO juanpablo", JP:EL HIJO 2022
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20El%20hijo%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="1-ACCION juanpablo", JP:CREED III 2023
+https://www.cinedds.online/stuff/creed3.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yRsafxhDPUZIBMnWRTJeAgQf4F8.jpg" group-title="5-AVENTURA juanpablo", JP:65 al borde de la extincion 2023
+https://archive.org/download/65b-0r-65/65b0r65.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg" group-title="6-DRAMA juanpablo", JP:LA BALLENA 2023
+https://www.cinedds.online/stuff/ballena.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/InAsct1iw71Uspf5MPFx9AF133.jpg" group-title="10-CRIMEN juanpablo", JP:EL ANGEL DE LA MUERTE 2023
+https://archive.org/download/01_20221031_20221031_2352/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6RehQHHXOPg6lNiYyVvTWRizXdQ.jpg" group-title="1-ACCION juanpablo", JP:THE ENFORCER 2022
+https://archive.org/download/01_20230112_20230112_2047/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg" group-title="3-TERROR juanpablo", JP:EXTERMINIO 28 Dias Despues 2002
+http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5Q59hQEwqRURySkT9Fc7wznjQ2L.jpg" group-title="9-MISTERIO juanpablo", JP:DESAPARECIDA Missing 2022
+https://archive.org/download/01_20230313_20230313_2059/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3VTOxrrv4xA9ixJESEP8JOllDel.jpg" group-title="11-ROMANCE juanpablo", JP:Eres tu (2023)
+https://archive.org/download/01_20230307_20230307_1529/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:Jung_e (2023)
+https://archive.org/download/01_20230121_20230121/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:Nos Vemos ayer (2019)
+http://vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2aTsJIyw762XO51fcGa7couMygv.jpg" group-title="5-AVENTURA juanpablo", JP:Rampage (2018)
+http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9yLyUpZbEdymZKYQniWfFV7MNvd.jpg" group-title="1-ACCION juanpablo", JP:Riddick2 (2004)
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20riddick%202.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xqkghrcEQsaG7B3f3iYWQFqmfVD.jpg" group-title="1-ACCION juanpablo", JP:Life Vida inteligente (2017)
+http://vod.tuxchannel.mx/peliculas/720/life%20w.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/t6ogdhdjP9KDCLJR9i4HG3bplQL.jpg" group-title="1-ACCION juanpablo", JP:Looper Asesinos del futuro (2012)
+http://vod.tuxchannel.mx/peliculas/720/looper.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hrDbPQkEwkv7NQNpJ9UfwSZ1nC8.jpg" group-title="1-ACCION juanpablo", JP:Cazadora de Gigantes (2017)
+http://vod.tuxchannel.mx/peliculas/720/i%20kill%20giants.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xbrPRC7doDPEoC3z35q6MXqLEBM.jpg" group-title="3-TERROR juanpablo", JP:Hostel1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/hostal.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fvFYsHFyK4KB8MxezR8xUhUyFHL.jpg" group-title="3-TERROR juanpablo", JP:Hostel2 (2007)
+http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%202.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bWMijQjpu09Pq9jrn3SL3qTHMvS.jpg" group-title="3-TERROR juanpablo", JP:Hostel3 (2011)
+http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%203.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xuaGAc03ajytR8SKaWHNBdh84cC.jpg" group-title="1-ACCION juanpablo", JP:Rescate en Nueva York (1981)
+http://vod.tuxchannel.mx/peliculas/720/escape%20from%20new%20york.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2tpTnb6o1LVRn2IDwn7fr6qn27I.jpg" group-title="1-ACCION juanpablo", JP:El cuarto Contacto (2009)
+http://vod.tuxchannel.mx/peliculas/720/el%20cuarto%20contacto.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg" group-title="1-ACCION juanpablo", JP:Dreed (2012)
+http://vod.tuxchannel.mx/peliculas/720/dredd.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/u4K1HSpc0p9VOQCxOTAb0syYDmS.jpg" group-title="6-DRAMA juanpablo", JP:La crucifixion (2017)
+http://vod.tuxchannel.mx/peliculas/720/crucifixion.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vnyDtI6aMZ2TtAjrmNsKBIeoea9.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:Las cronicas de Narnia1 (2005)
+http://vod.tuxchannel.mx/peliculas/720/cronicas%20de%20narnia.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/izGX7npHEopDQvngYcxMJEfcFbj.jpg" group-title="1-ACCION juanpablo", JP:Codigo 8 (2019)
+http://vod.tuxchannel.mx/peliculas/720/code%208%202019.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" group-title="1-ACCION juanpablo", JP:Chilangolandia (2021)
+http://vod.tuxchannel.mx/peliculas/720/chilangolandia%202021.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5yM3xePGxx3vc0bEqvOdZnywjYC.jpg" group-title="1-ACCION juanpablo", JP:La rebelión (2019)
+http://vod.tuxchannel.mx/peliculas/720/captive%20state%202019.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:Automata (2014)
+http://vod.tuxchannel.mx/peliculas/720/automata.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/kWZQIIf4XBJMPAwP79vcIrrUCZW.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:Attraction (2017)
+http://vod.tuxchannel.mx/peliculas/720/attraction.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ihROTaicjrYu6buBqn79M6OHvA6.jpg" group-title="3-TERROR juanpablo", JP:Amityville El Despertar (2017)
+http://vod.tuxchannel.mx/peliculas/720/amityville%20the%20awakening.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/cE0PcwTTQbEgXDUFQHjZ8JRcUTj.jpg" group-title="2-SUSPENSO juanpablo", JP:4 44 El Ultimo Dia En La Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/h4Ny82lizNTdTH2MFLjjyOVDWtk.jpg" group-title="1-ACCION juanpablo", JP:Alien Abduction (2014)
+http://vod.tuxchannel.mx/peliculas/720/alien%20abduction.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uWVEjJ6wIjg6jVR2LtwVRHkpJAn.jpg" group-title="2-SUSPENSO juanpablo", JP:30 Dias de Oscuridad (2007)
+http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg" group-title="5-AVENTURA juanpablo", JP:Aladdin (2019)
+http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jGo25ysEUsCgllSzFhdKHC2a21b.jpg" group-title="2-SUSPENSO juanpablo", JP:Mas allá de la Muerte (2009
+http://vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e6hhVCaCYkrYy6ji8SqtqAfV2xz.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:Despues de la tierra (2013)
+http://vod.tuxchannel.mx/peliculas/720/after%20earth.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg" group-title="2-SUSPENSO juanpablo", JP:Un lugar en Silencio2 (2021)
+http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/h19m4mgoSlkii1PU9mwOffUmkK8.jpg" group-title="2-SUSPENSO juanpablo", JP:Artemis Fowl (2020)
+http://vod.tuxchannel.mx/peliculas/720/artemis%20fowl%202020.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9DRFozlq1IMD7aMLzdRzWEEH6SH.jpg" group-title="1-ACCION juanpablo", JP:Atomic Blonde (2017)
+http://vod.tuxchannel.mx/peliculas/720/atomic%20blonde.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg" group-title="5-AVENTURA juanpablo", JP:101 dalmatas
+http://bgtv.site/play/claro.php?c=accion/Lista-mortal.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2BcXskV3zyySAomN3xObv6O4SUt.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:la huesped (2008)
+http://bgtv.site/play/claro.php?c=accion/La-huesped.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/voAxRv011XHK2qFBXmZKXPj2wWB.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:GUARDIANES DEE LA GALAXIA3
+https://archive.org/download/gxvl_20230505/gxvl.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4A76udAc8XWmLs1T29Kocw5Go3H.jpg" group-title="1-ACCION juanpablo", JP:RAPIDOS Y FURIOSOS X 2023
+https://archive.org/download/fnf_20230521/fnf.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" group-title="1-ACCION juanpablo", JP:SIETE REYES DEBEN MORIR 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Siete%20reyes%20deben%20morir%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="12-ANIMACION juanpablo", JP:SUPER MARIO BROS LA PELICULA 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/kKMvCIE91h4aBot6DDO19QTsVbF.jpg" group-title="3-TERROR juanpablo", JP:SCREAM VI 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Scream%20VI%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="3-TERROR juanpablo", JP:POSESION INFERNAL EL DESPERTAR
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Evil%20Dead-%20El%20despertar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg" group-title="1-ACCION juanpablo", JP:GHOSTED 2023
+http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qj1NrdMSm2xinqchBDD23U83vj8.jpg" group-title="5-AVENTURA juanpablo", JP:Power Rangers Ayer Hoy y Siempre 2023
+http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" group-title="5-AVENTURA juanpablo", JP:PETER PAN Y WENDY
+http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6M4jNQaZrL86KcPqrGHb6BvQut0.jpg" group-title="5-AVENTURA juanpablo", JP:Los caballeros del zodiaco 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Los%20Caballeros%20del%20Zodiaco-%20Saint%20Seiya%20-%20El%20inicio%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6dW83oZuprt6mw1rIJrTJjuSVX3.jpg" group-title="5-AVENTURA juanpablo", JP:Calabozos y Dragones 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Calabozos%20%26%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg" group-title="3-TERROR juanpablo", JP:El exorcista del papa 2023
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20El%20exorcista%20del%20papa%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/IRdFT8ikE5HDWwQjEpZqnY9o7P.jpg" group-title="1-ACCION juanpablo", JP:EL PROTEGIDO 2021
+https://archive.org/download/01_20211017_20211017_2245/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d5CaiTSwVs6arOBltbv2KoQWmXr.jpg" group-title="2-SUSPENSO juanpablo", JP:THE NIGTH HOUSE 2020
+https://archive.org/download/01_20211014_20211014_1511/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" group-title="5-AVENTURA juanpablo", JP:LOS 4 FANTASTICOS
+https://archive.org/download/01_20210721_20210721_1505/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tvFjow9ET16axWcQdXSBqehiFL1.jpg" group-title="5-AVENTURA juanpablo", JP:LOS 4 FANTASTICOS II
+https://archive.org/download/01_20210721_20210721_1514/01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg" group-title="4-COMEDIA juanpablo", JP:MI POBRE ANGELITO
+https://archive.org/download/01_20211222_20211222_0952/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg" group-title="4-COMEDIA juanpablo", JP:MI POBRE ANGELITO II
+https://archive.org/download/01_20211222_20211222_1002/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5K7qxX77PJXWuzkZD8rOBduCEKo.jpg" group-title="4-COMEDIA juanpablo", JP:MI POBRE Y DULCE ANGELITO 2021
+https://archive.org/download/01_20211114_20211114_1735/01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uKaVvOUHdSat4SmHDFknNRx9taY.jpg" group-title="2-SUSPENSO juanpablo", JP:MISFIT ERES O TE HACES
+https://archive.org/download/01_20220502_20220502_1430/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg" group-title="4-COMEDIA juanpablo", JP:MAS BARATO POR DOCENA
+https://archive.org/download/25_20210221/24.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/opXW4EatJeKyEMLJDjMoNG2bUJo.jpg" group-title="4-COMEDIA juanpablo", JP:MAS BARATO POR DOCENA II
+https://archive.org/download/38_20210221/36.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg" group-title="4-COMEDIA juanpablo", JP:MAS BARATO POR DOCENA 2022
+https://archive.org/download/01_20220410_20220410_1514/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s57oup4Cig0DgQMu7p4R2m4ZDUl.jpg" group-title="1-ACCION juanpablo", JP:PLAN DE ESCAPE
+https://archive.org/download/25_20210221/29.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/reJmewTkOUX1he9Wb3uR3xfQshV.jpg" group-title="4-COMEDIA juanpablo", JP:SIN HIJOS 2021
+https://archive.org/download/01_20210329_20210329_1822/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/rDfYClNuplM26KwPbyFAE7CDZo4.jpg" group-title="1-ACCION juanpablo", JP:007 SIN TIEMPO PARA MORIR
+https://archive.org/download/01_20211110_20211110_1444/01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg" group-title="12-ANIMACION juanpablo", JP:SOUL 2021
+https://archive.org/download/04_20210224/03.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hDcBzKYbalSFsmSa04Sen89srX2.jpg" group-title="7-DOCUMENTAL juanpablo", JP:STEVE JOBS
+https://archive.org/download/38_20210221/37.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8clazV2TtAK9CbTG2WPTbuVmx9C.jpg" group-title="6-DRAMA juanpablo", JP:SU ULTIMO DESEO 2020
+https://dl.dropboxusercontent.com/s/8wg55576iitk9cz/Th3.L4st.Th1ng.H3.W4nt3d.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/j0NQsYqnqvhTtBj7vhCa9iKT0NA.jpg" group-title="12-ANIMACION juanpablo", JP:SUEÑOS SA
+https://archive.org/download/10_20210221/10.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nchaDv1TpVNAATnYoW2mrncGsKV.jpg" group-title="5-AVENTURA juanpablo", JP:SUEÑOS DE MARTE 2022
+https://archive.org/download/01_20220411_20220411_1559/01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hwZ0d29xTh7BvJZfolLffRR6iVr.jpg" group-title="2-SUSPENSO juanpablo", JP:TIEMPO OLD VIEJOS 2021
+https://archive.org/download/01_20211031_20211031_1735/01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zadokUC1BdBYQcqrBcSKRzUpELN.jpg" group-title="4-COMEDIA juanpablo", JP:TOY AFICIAO
+https://archive.org/download/01_20220427_20220427_2105/01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p69PQNue1wjVHRLjsNVdjBRv56z.jpg" group-title="6-DRAMA juanpablo", JP:TU ERES MI PROBLEMA
+https://archive.org/download/01_20211222_20211222_1025/01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hJzYZ2jC5TqzCALiZZRqmqXXRZx.jpg" group-title="12-ANIMACION juanpablo", JP:AINBO LA GUERRERA DEL AMAZONAS
+https://archive.org/download/01_20211110_20211110_1536/01.mp4
 
