@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4A76udAc8XWmLs1T29Kocw5Go3H.jpg" group-title="1-ACCION juanpablo", JP:RAPIDOS Y FURIOSOS X 2023
+https://archive.org/download/fnf_20230521/fnf.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg" group-title="12-ANIMACION juanpablo", JP:La sirenita (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg" group-title="4-COMEDIA juanpablo", JP:Bodas de plomo (2023) 
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg" group-title="3-TERROR juanpablo", JP:Llaman a la puerta (2023) 
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+
+
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500//ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" group-title="4-COMEDIA juanpablo", JP:10 Cosas que Odio de Ti
 https://archive.org/download/10_20210221/01.mp4
 
@@ -283,7 +299,7 @@ http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
 https://archive.org/download/01_20230506_20230506_1652/01.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg" group-title="4-COMEDIA juanpablo", JP:Renfield ASISTENTE DE VAMPIRO(2023) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg" group-title="3-TERROR juanpablo", JP:Renfield ASISTENTE DE VAMPIRO(2023) 
 https://archive.org/download/01_20230504_20230504_1831/01.mp4
 
 
@@ -307,7 +323,7 @@ https://archive.org/download/01_20230502_20230502_0257/01.mp4
 https://archive.org/download/01_20230502_20230502_0234/01.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg" group-title="5-SUSPENSO juanpablo", JP:Clock (2023) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg" group-title="2-SUSPENSO juanpablo", JP:Clock (2023) 
 https://archive.org/download/01_20230502_20230502_0224/01.mp4
 
 
@@ -1467,13 +1483,13 @@ https://archive.org/download/01_20211114_20211114_1735/01.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uKaVvOUHdSat4SmHDFknNRx9taY.jpg" group-title="2-SUSPENSO juanpablo", JP:MISFIT ERES O TE HACES
 https://archive.org/download/01_20220502_20220502_1430/01.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg" group-title="4-COMEDIA juanpablo", JP:MAS BARATO POR DOCENA
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/opXW4EatJeKyEMLJDjMoNG2bUJo.jpg" group-title="4-COMEDIA juanpablo", JP:I MAS BARATO POR DOCENA
 https://archive.org/download/25_20210221/24.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/opXW4EatJeKyEMLJDjMoNG2bUJo.jpg" group-title="4-COMEDIA juanpablo", JP:MAS BARATO POR DOCENA II
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gf6xVuCM9lnMP4S6hhye8SC2K8p.jpg" group-title="4-COMEDIA juanpablo", JP:II MAS BARATO POR DOCENA II
 https://archive.org/download/38_20210221/36.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg" group-title="4-COMEDIA juanpablo", JP:MAS BARATO POR DOCENA 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg" group-title="4-COMEDIA juanpablo", JP:III MAS BARATO POR DOCENA 2022
 https://archive.org/download/01_20220410_20220410_1514/01.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s57oup4Cig0DgQMu7p4R2m4ZDUl.jpg" group-title="1-ACCION juanpablo", JP:PLAN DE ESCAPE
@@ -1580,12 +1596,12 @@ http://vod.tuxchannel.mx/peliculas4k/the%20fifth%20wave.mkv
 http://vod.tuxchannel.mx/peliculas4k/clash%20of%20the%20titans.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="1-ACCION juanpablo", JP:TRIPLE xXx 1 (2002) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ewGhwS8dbAfFDJBEpbsWOuwS4Ov.jpg" group-title="1-ACCION juanpablo", JP:TRIPLE xXx 1 (2002) 
 http://vod.tuxchannel.mx/peliculas/720/xxx.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2tQxTAmgNtgKOyjkQS4auFeTscA.jpg" group-title="1-ACCION juanpablo", JP:TRIPLE xXx 2 (2005) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg" group-title="1-ACCION juanpablo", JP:TRIPLE xXx 2 (2005) 
 http://vod.tuxchannel.mx/peliculas/720/xxx%20estado%20de%20emergencia.mkv
 
 
@@ -1765,7 +1781,7 @@ http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="1-ACCION juanpablo", JP:Terremoto la falla de San Andrés (2015) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uC4uhJuyOxZQhMcJoKQWbe667Sx.jpg" group-title="1-ACCION juanpablo", JP:Terremoto la falla de San Andrés (2015) 
 http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
 
 
@@ -1817,11 +1833,11 @@ http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
 http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500",Silent Hill 1 (2006) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg" group-title="3-TERROR juanpablo", JP:Silent Hill 1 (2006) 
 http://vod.tuxchannel.mx/peliculas/720/silent%20hill.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg" group-title="6-DRAMA juanpablo", JP:Silent Hill2 (2012) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg" group-title="3-TERROR juanpablo", JP:Silent Hill 2 (2012) 
 http://vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv
 
 
@@ -2114,7 +2130,7 @@ http://vod.tuxchannel.mx/peliculas/720/hubie%20halloween%202020.mkv
 http://vod.tuxchannel.mx/peliculas/720/how%20it%20ends.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg" group-title="20-INFANTILES juanpablo", JP:Hotel Transylvania 1 (2012) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zvWlwBGQWuJ0wog65q1uS37BApC.jpg" group-title="20-INFANTILES juanpablo", JP:Hotel Transylvania 1 (2012) 
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania.mkv
 
 
@@ -2488,7 +2504,7 @@ http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
 http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="2-SUSPENSO juanpablo", JP:4 44 El ultimo día en la Tierra (2011) 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jt3nbwtDtw3ix2HVeupr05sCcij.jpg" group-title="2-SUSPENSO juanpablo", JP:4 44 El ultimo día en la Tierra (2011) 
 http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
 
 
@@ -2540,10 +2556,6 @@ http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
 http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg" group-title="3-TERROR juanpablo", JP:Llaman a la puerta (2023) 
-http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lwybGlEEJtXZM3ynY19PNwNlPn9.jpg" group-title="9-MISTERIO juanpablo", JP:Historia de Honor (2022) 
 http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
 
@@ -2551,9 +2563,6 @@ http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg" group-title="1-ACCION juanpablo", JP:Bodas de plomo (2023) 
 http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg" group-title="4-COMEDIA juanpablo", JP:Bodas de plomo (2023) 
-http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg" group-title="3-TERROR juanpablo", JP:The Jack in the Box El despertar (2022) 
 http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
