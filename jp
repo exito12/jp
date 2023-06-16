@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3oypSaTizrfBbpIeRs8tTOF2EqV.jpg" group-title="1-ACCION juanpablo", JP:Transformers 3 El despertar de las bestias
-https://archive.org/download/01_20230609_202306/01.mp4
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/325sMn8WmtFsbtROkmqJseBWnAz.jpg" group-title="6-DRAMA juanpablo", JP:Un Año Inolvidable Verano 2023
@@ -53,6 +51,12 @@ https://archive.org/download/02_20210329_20210329_2035/02.mp4
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/kgU2aIuDdPyKtEi8oZ6yzohpfVF.jpg" group-title="1-ACCION juanpablo", JP:Agentes 355
 https://archive.org/download/01_20220206_20220206_2313/01.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3oypSaTizrfBbpIeRs8tTOF2EqV.jpg" group-title="1-ACCION juanpablo", JP:Transformers 3 El despertar de las bestias
+https://archive.org/download/01_20230609_202306/01.mp4
+
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/aarAi6bp8Cl3RYXy2lpeLc1hGS7.jpg" group-title="2-SUSPENSO juanpablo", JP:Aguas Profundas 2022
 https://archive.org/download/01_20220322_20220322_1505/01.mp4
@@ -478,13 +482,6 @@ https://archive.org/download/01_(2023)0408_(2023)0408_1915/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eX6tDFp4RhhjZaa1HUDUzFGPWYk.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:Géminis: El planeta oscuro (2022) 
 https://archive.org/download/01_(2023)0408_(2023)0408_2010/01.mp4
 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/taYgn3RRpCGlTGdaGQvnSIOzXFy.jpg" group-title="1-ACCION juanpablo", JP:Boksoon debe morir (2023) 
-https://archive.org/download/01_(2023)0408_(2023)0408_1920/01.mp4
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/epm87meDcnss6OO8eJfe8xw3lbg.jpg" group-title="1-ACCION juanpablo", JP:Tribus de Europa (2021) 
-https://archive.org/download/01_(2023)0408_(2023)0408/01.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg" group-title="5-AVENTURA juanpablo", JP:Ant-Man y la Avispa: Quantumanía (2023) 
@@ -2109,6 +2106,10 @@ http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv
 http://vod.tuxchannel.mx/peliculas/720/jigsaw.mkv
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uuTYA9LIlIRCFMgFlxWb1KznfEx.jpg" group-title="3-TERROR juanpablo", JP:IT
+https://archive.org/download/01_20211031_20211031_1955/01.mp4
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dabXVfrAFfhDte8XVemom3mTJog.jpg" group-title="3-TERROR juanpablo", JP:IT 2 (2019) 
 http://vod.tuxchannel.mx/peliculas/720/it%20chapter%20two%202019.mkv
 
@@ -3512,6 +3513,10 @@ https://archive.org/download/no-se-aceptan-devoluviones/no%20se%20aceptan%20devo
 https://archive.org/download/no-se-aceptan-devoluviones/no%20se%20aceptan%20devoluviones.mp4
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uuTYA9LIlIRCFMgFlxWb1KznfEx.jpg" group-title="3-TERROR juanpablo", JP:IT
+https://archive.org/download/01_20211031_20211031_1955/01.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="3-TERROR juanpablo", JP:IT 2
 https://archive.org/download/it_20210309/it.mp4
@@ -3714,10 +3719,6 @@ https://archive.org/download/01_20211014_20211014_1505/01.mp4
 https://archive.org/download/02_20210719_20210719/02.mp4
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uuTYA9LIlIRCFMgFlxWb1KznfEx.jpg" group-title="3-TERROR juanpablo", JP:IT
-https://archive.org/download/01_20211031_20211031_1955/01.mp4
-
-
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iuIWl90qCpoxv6g775JB6Kg0m86.jpg" group-title="29-RAPIDOS Y FURIOSOS juanpablo", JP:RAPIDOS Y FURIOSOS
 https://archive.org/download/07_20210717_202107/01.mp4
@@ -3781,8 +3782,14 @@ https://archive.org/download/04_20210224/04.mp4
 https://archive.org/download/01_20210719_20210719_1931/01.mp4
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/87YGfUYwM4mI2ITWzsHxxBDbOiy.jpg" group-title="12-ANIMACION juanpablo", JP:Upsss 2 la aventura continua 2020
 https://download1527.mediafire.com/ixyh2bktsbvgLxyOub9Aiu-ppsSgei_QesRb0NL9gy-mJRlgwlX2BW2kUBYhwIhfCZlg1YAK7x9b9_gdJmx068lFHtK6AsxoZ4We-H3PJ8TqbRXhJ3v5_VVHv3wzdiAfWl-rMl3DAqk_yEQwIO0XvXozeqFW0j3k2A9QJh5nqCdfYSnOpA/o5n9n6sp7sscosw/Ver+%C2%A1Upsss+2%21+%C2%BFY+ahora+d%C3%B3nde+est%C3%A1+No%C3%A9-+%282020%29+Online+-+Supercinepeliculas.net.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg" group-title="9-MISTERIO juanpablo", JP:Peaje Mortal 2021
 https://download2303.mediafire.com/rw9hf1cr39rgRjZT6-0F0JyMJ9Q4WpEzhIeqsMDFH6V3frdpslyUdWCbZHzrsbRjoP749cyI4lqNx25CwRDoknL6xSSxjf9HKMU0674vibOex3jAP7R5fvP_iMc5d8QDxIbKCo9EsyLNLFGQZXFMq_7r0-CS9qmOqI_hHfZCrwK5SHxk0w/utsd7xie61j4vle/Ver+The+Toll+%282021%29+Online+-+Supercinepeliculas.net.mp4
+
