@@ -3,6 +3,35 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="1-ACCION juanpablo", JP:2 EXTRACTION MISION RESCATE 2 TYLER RAKE
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Tyler%20Rake%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="5-AVENTURA juanpablo", JP:FLASH
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Flash%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg" group-title="3-TERROR juanpablo", JP:DEMONIO NEGRO
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="29-RAPIDOS Y FURIOSOS juanpablo", JP:10 RAPIDOS Y FURIOSOS 10
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="5-AVENTURA juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso 
+https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/325sMn8WmtFsbtROkmqJseBWnAz.jpg" group-title="6-DRAMA juanpablo", JP:Un Año Inolvidable Verano 2023
 https://archive.org/download/01_20230609_20230609_2029/01.mp4
 
@@ -3459,7 +3488,7 @@ http://ia601501.us.archive.org/31/items/eddie_son_msn_7/5.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/18lF2eTWAO0tloyBW39fob5ALAW.jpg" group-title="12-ANIMACION juanpablo", JP:EL TIEMPO CONTIGO
 https://ia601803.us.archive.org/6/items/t01_20210206/t01.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/rG1pDArHdcPJspwannvKxlIzERC.jpg" group-title="1-ACCION juanpablo", JP:EXTRACTION MISION RESCATE 1 TYLER RAKE
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/rG1pDArHdcPJspwannvKxlIzERC.jpg" group-title="1-ACCION juanpablo", JP:1 EXTRACTION MISION RESCATE 1 TYLER RAKE
 https://archive.org/download/extrion.-20-dual-lat-cinedad.is_221/Extraction.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 
@@ -3810,9 +3839,10 @@ http://archive.org/download/7_20190824/6.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="30-BYPASS juanpablo", JP:FROZEN 2
-http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/00b214dc797066d465c6cb5c788b9f294358771fb606a2cf66c822145c2f73118804
- 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="30-BYPASS juanpablo", JP:2 EXTRACTION MISION RESCATE 2 TYLER RAKE
-http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/807c35193138e0177f339fe2a8a5f9609ea67a49e18d7cffca45296cce15c9118806
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="30-BYPASS juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso
+http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/f9266707c52d7e965e715bc0bd8f3132b07cf125f816102e80f50670f9d0df519002
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="30-BYPASS juanpablo", JP:FROZEN 2
+http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/00b214dc797066d465c6cb5c788b9f294358771fb606a2cf66c822145c2f73119004
