@@ -1,10 +1,19 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/87YGfUYwM4mI2ITWzsHxxBDbOiy.jpg" group-title="12-ANIMACION juanpablo", JP:Upsss 2 la aventura continua 2020
+https://bgtv.site/mf.php?o5n9n6sp7sscosw/Ver_%25C2%25A1Upsss_2%2521_%25C2%25BFY_ahora_d%25C3%25B3nde_est%25C3%25A1_No%25C3%25A9-_%25282020%2529_Online_-_Supercinepeliculas.net.mp4/file
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg" group-title="9-MISTERIO juanpablo", JP:Peaje Mortal 2021
+https://bgtv.site/mf.php?utsd7xie61j4vle/Ver_The_Toll_%25282021%2529_Online_-_Supercinepeliculas.net.mp4/file
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="5-AVENTURA juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso 
 https://archive.org/download/01_20230602_20230602/01.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="5-AVENTURA juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="12-ANIMACION juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso 
 https://ia802705.us.archive.org/5/items/01_20230602_20230602/01.mp4
+
 
 
 
@@ -23,6 +32,14 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="29-RAPIDOS Y FURIOSOS juanpablo", JP:10 RAPIDOS Y FURIOSOS 10
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+
+
+
+
+
+
+
+
 
 
 
@@ -3811,12 +3828,6 @@ https://archive.org/download/01_20210719_20210719_1931/01.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/87YGfUYwM4mI2ITWzsHxxBDbOiy.jpg" group-title="12-ANIMACION juanpablo", JP:Upsss 2 la aventura continua 2020
-https://download1527.mediafire.com/ixyh2bktsbvgLxyOub9Aiu-ppsSgei_QesRb0NL9gy-mJRlgwlX2BW2kUBYhwIhfCZlg1YAK7x9b9_gdJmx068lFHtK6AsxoZ4We-H3PJ8TqbRXhJ3v5_VVHv3wzdiAfWl-rMl3DAqk_yEQwIO0XvXozeqFW0j3k2A9QJh5nqCdfYSnOpA/o5n9n6sp7sscosw/Ver+%C2%A1Upsss+2%21+%C2%BFY+ahora+d%C3%B3nde+est%C3%A1+No%C3%A9-+%282020%29+Online+-+Supercinepeliculas.net.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg" group-title="9-MISTERIO juanpablo", JP:Peaje Mortal 2021
-https://download2303.mediafire.com/rw9hf1cr39rgRjZT6-0F0JyMJ9Q4WpEzhIeqsMDFH6V3frdpslyUdWCbZHzrsbRjoP749cyI4lqNx25CwRDoknL6xSSxjf9HKMU0674vibOex3jAP7R5fvP_iMc5d8QDxIbKCo9EsyLNLFGQZXFMq_7r0-CS9qmOqI_hHfZCrwK5SHxk0w/utsd7xie61j4vle/Ver+The+Toll+%282021%29+Online+-+Supercinepeliculas.net.mp4
-
 
 
 #EXTINF:-1 tvg-logo="Logo: https://www.themoviedb.org/t/p/w260_and_h390_bestv2/4JeejGugONWpJkbnvL12hVoYEDa.jpg" group-title="12-ANIMACION juanpablo", JP:MOANA
@@ -3828,8 +3839,12 @@ http://archive.org/download/7_20190824/6.mp4
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="30-BYPASS juanpablo", JP:FROZEN 2
-http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/00b214dc797066d465c6cb5c788b9f294358771fb606a2cf66c822145c2f73118804
-
-
-
+http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/00b214dc797066d465c6cb5c788b9f294358771fb606a2cf66c822145c2f73119372
