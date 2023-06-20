@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="5-AVENTURA juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso 
+https://archive.org/download/01_20230602_20230602/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="5-AVENTURA juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso 
+https://ia802705.us.archive.org/5/items/01_20230602_20230602/01.mp4
 
 
 
@@ -3822,18 +3827,9 @@ http://archive.org/download/7_20190824/6.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="5-AVENTURA juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso 
-https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="30-BYPASS juanpablo", JP:SPIDER MAN A TRAVEZ DEL SPIDER VERSO cruzando el multiverso
-http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/f9266707c52d7e965e715bc0bd8f3132b07cf125f816102e80f50670f9d0df519002
-
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="30-BYPASS juanpablo", JP:FROZEN 2
-http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/00b214dc797066d465c6cb5c788b9f294358771fb606a2cf66c822145c2f73119004
+http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/00b214dc797066d465c6cb5c788b9f294358771fb606a2cf66c822145c2f73118804
+
+
+
