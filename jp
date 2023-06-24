@@ -1010,7 +1010,44 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg" group-title="12-ANIMACION juanpablo", JP:LEGO FRIENDS
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//9aYflMUqFZo5zEbquNmVSQpFfby.jpg" group-title="4-COMEDIA juanpablo", JP:LOS BLANCOS NO SABEN SALTAR
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//40UPlmnQcG71KSmjijksZjbsH2q.jpg" group-title="4-COMEDIA juanpablo", JP:LA USURPADORA
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//kL4GDXHnwknt5oyD9eyyi693gbB.jpg" group-title="12-ANIMACION juanpablo", JP:TAZ ODISEA POR LAS HAMBURGUESAS
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//uYxrWr9o44yO0HvVfFFHGu01gfX.jpg" group-title="9-MISTERIO juanpablo", JP:LA NINA DE LA COMUNION
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+ 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/byoUP3ah4JhpIEMZ34CDyvecsKi.jpg" group-title="3-TERROR juanpablo", JP:MONSTRUOS
+http://208.88.245.85:80/nuevo/monstruos.2023dual.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg" group-title="5-AVENTURA juanpablo", JP:FLAMINHOT
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg" group-title="7-DOCUMENTAL juanpablo", JP:FLAMINHOT
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+
+#EXTINF:-1 tvg-logo="https://www.videoflix.website/uploads/cache/poster_thumb_web/uploads/jpg/8ca453951404dced04b0f325a637e743.jpg" group-title="12-ANIMACION juanpablo", JP:LA FAMILIA ADDAMS
+https://archive.org/download/infantilesmonoegg46ghji6hjGhjj6ghj/La%20familia%20Adams.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.videoflix.website/uploads/cache/poster_thumb_web/uploads/jpg/8ca453951404dced04b0f325a637e743.jpg" group-title="12-ANIMACION juanpablo", JP:LA FAMILIA ADDAMS 
+https://ia804605.us.archive.org/17/items/infantilesmonoegg46ghji6hjGhjj6ghj/La%20familia%20Adams.mp4
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="12-ANIMACION juanpablo", JP:SPIDER MAN ATRAVES DEL SPIDER VERSO
+http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv
+
+#EXTINF:-1 tvg-logo="https://www.videoflix.website/uploads/cache/poster_thumb_web/uploads/jpg/985d3a57e4a9a3a665e821a6ccfce89d.jpg" group-title="16-NAVIDAD juanpablo", JP:REYES CONTRA SANTA
+https://archive.org/download/peliculasnavidenas/r3Y3%24.C0HTX4.%244HT4.%28Esp-HD-1080p%29.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.videoflix.website/uploads/cache/poster_thumb_web/uploads/jpg/985d3a57e4a9a3a665e821a6ccfce89d.jpg" group-title="16-NAVIDAD juanpablo", JP:REYES CONTRA SANTA 
+https://ia804708.us.archive.org/35/items/peliculasnavidenas/r3Y3%24.C0HTX4.%244HT4.%28Esp-HD-1080p%29.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/vgdoS9ZK46J8YwPjblMSdMK3QBn.jpg" group-title="2-SUSPENSO juanpablo", JP:LA EXTORSION THE EXTORTION
 https://nqvx.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5IuqlwauL35A0N7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
