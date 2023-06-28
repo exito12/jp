@@ -224,8 +224,6 @@ http://181.189.243.254:8000/play/a0q5/index.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28069
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN
 http://181.189.243.254:8000/play/a0se/index.m3u8
 
@@ -268,8 +266,6 @@ http://181.189.243.254:8000/play/a0rb/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t5.png" group-title="07-DEPORTES juanpablo", JP:ESPN 3 HD
 http://181.189.243.254:8000/play/a0t5/index.m3u8
-
-
 
 
 
@@ -577,10 +573,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28035
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pj.png" group-title="01-TV PREMIUM juanpablo", JP:TBS
-http://181.189.243.254:8000/play/a0pj/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="01-TV PREMIUM juanpablo", JP:TCM
 http://181.189.243.254:8000/play/a0ri/index.m3u8
 
@@ -689,10 +681,8 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
 http://animezonetv.net/hls/stream.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6tQVjH8/bodspo.jpg" group-title="09-PUBLICOS juanpablo", JP:BOB ESPONJA PTV
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJwhTWRV/cnetwork.jpg" group-title="05-TV INFANTIL juanpablo", JP:CARTOON NETWORK
@@ -707,13 +697,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LMQrLq4/fmfusion.jpg" group-title="09-PUBLICOS juanpablo", JP:FM FUSION
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2
@@ -1026,6 +1011,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="01-TV PREMIUM juanpablo", JP:STAR CHANNEL
 http://redima.pro:8880/5555/5555/343
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156" group-title="01-TV PREMIUM juanpablo", JP:TNT NOVELAS
+http://181.189.243.254:8000/play/a0pj/index.m3u8
 
 
 
