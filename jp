@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest/scale-to-width-down/300?cb=20091209212832" group-title="06-NOTICIAS juanpablo", JP:EURONEWS
@@ -500,6 +499,9 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28026
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pk.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO
 http://181.189.243.254:8000/play/a0pk/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiynU5XOyS9w6QOE-z_bS2zDPZ86uLaEkJWQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO WILD
+http://181.78.4.186:8000/play/a0qo/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0p9.png" group-title="05-TV INFANTIL juanpablo", JP:NICK JR
 http://181.189.243.254:8000/play/a0p9/index.m3u8
@@ -653,149 +655,98 @@ http://181.189.243.254:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t0.png" group-title="01-TV PREMIUM juanpablo", JP:UNIVERSAL CRIME HD
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sz.png" group-title="01-TV PREMIUM juanpablo", JP:UNIVERSAL REALITY HD
 http://181.189.243.254:8000/play/a0sz/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0v0.png" group-title="06-NOTICIAS juanpablo", JP:UNIVISION
 http://181.189.243.254:8000/play/a0v0/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYDbqPf5/WARNER.jpg" group-title="01-TV PREMIUM juanpablo", JP:WARNER HD
 http://181.189.243.254:8000/play/a0tk/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYDbqPf5/WARNER.jpg" group-title="01-TV PREMIUM juanpablo", JP:WARNER
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Aztv_2019.svg/revision/latest/scale-to-width-down/250?cb=20200514234409" group-title="011-MEXICO juanpablo", JP:AZTV
 http://animezonetv.net/hls/stream.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6tQVjH8/bodspo.jpg" group-title="09-PUBLICOS juanpablo", JP:BOB ESPONJA PTV
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJwhTWRV/cnetwork.jpg" group-title="05-TV INFANTIL juanpablo", JP:CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Cartoonito_2018.svg/revision/latest/scale-to-width-down/300?cb=20220502110359" group-title="05-TV INFANTIL juanpablo", JP:CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLptVZjL/dreiko.jpg" group-title="09-PUBLICOS juanpablo", JP:DREIKO TV
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LMQrLq4/fmfusion.jpg" group-title="09-PUBLICOS juanpablo", JP:FM FUSION
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2 CL
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34633
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2 ARG
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34642
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyJjy67B/loco.jpg" group-title="09-PUBLICOS juanpablo", JP:LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tzdL2nc/platv-kids.jpg" group-title="05-TV INFANTIL juanpablo", JP:PLANETA TV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1239999572.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLttgSLD/pjunior.jpg" group-title="05-TV INFANTIL juanpablo", JP:PLANETA TV JUNIOR
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Planeta_New_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20201123062209" group-title="09-PUBLICOS juanpablo", JP:PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R26D0P8/PLAMOBIES.jpg" group-title="09-PUBLICOS juanpablo", JP:PLANETA TV
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Primal_logo.jpeg/revision/latest/scale-to-width-down/300?cb=20190520202116" group-title="09-PUBLICOS juanpablo", JP:PRIMAL
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rSM7WB3/MADRID.jpg" group-title="07-DEPORTES juanpablo", JP:REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1920x1080.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66dhswFH/souparkpluto.jpg" group-title="09-PUBLICOS juanpablo", JP:SOUTH PARK PTV
 https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtLb0vHr/TELEATLA.jpg" group-title="011-MEXICO juanpablo", JP:TELEMUNDO ATA
 https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2Z91VYw/Toonami.jpg" group-title="05-TV INFANTIL juanpablo", JP:TOONAMI
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq1VpQS7/photo1679420110.jpg" group-title="09-PUBLICOS juanpablo", JP:TV MAX (PAN)
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQyJPxgm/TVN.jpg" group-title="09-PUBLICOS juanpablo", JP:TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMHgpbH/TVS.jpg" group-title="09-PUBLICOS juanpablo", JP:TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfKmjYGG/VTV.jpg" group-title="09-PUBLICOS juanpablo", JP:VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="07-DEPORTES juanpablo", JP:TUDN MX
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/304510
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/FilmRise.svg/revision/latest/scale-to-width-down/250?cb=20200925212753" group-title="09-PUBLICOS juanpablo", JP:FILMRISE ESPAÑOL
 https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884070
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Times_Prime.jpg/revision/latest/scale-to-width-down/300?cb=20210624153517" group-title="09-PUBLICOS juanpablo", JP:MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="09-PUBLICOS juanpablo", JP:NOSEY ESCANDALOS
 https://nosey-3-us.plex.wurl.tv:443/4300.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Rakuten_logo.svg/revision/latest/scale-to-width-down/300?cb=20191017031407" group-title="09-PUBLICOS juanpablo", JP:RAKUTEN TV
 https://rakuten-romance-2-es.xiaomi.wurl.tv:443/4300.m3u8
@@ -858,13 +809,11 @@ https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/02-Pluto_TV_App_Logo_Color.png/revision/latest/scale-to-width-down/150?cb=20200318034320" group-title="09-PUBLICOS juanpablo", JP:CINE ACCION PLUTO TV
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Minuto_para_Ganar.jpg/revision/latest/scale-to-width-down/250?cb=20161101081639" group-title="09-PUBLICOS juanpablo", JP:MINUTO PARA GANAR PLUTO TV
 https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="09-PUBLICOS juanpablo", JP:COMPETENCIAS PLUTO TV
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/303687
@@ -872,15 +821,11 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/303687
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/chunklist_b2700000_vo.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/303969
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14020
-
-
-
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" #EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:TELEVEN
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43561
@@ -896,7 +841,6 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43430
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT2 CO
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43431
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/907c1rQm/WIN-SPORTS.jpg" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
@@ -1011,8 +955,14 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="01-TV PREMIUM juanpablo", JP:STAR CHANNEL
 http://redima.pro:8880/5555/5555/343
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="01-TV PREMIUM juanpablo", JP:STAR CHANNEL
+http://181.78.4.186:8000/play/a0dt/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156" group-title="01-TV PREMIUM juanpablo", JP:TNT NOVELAS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
+
+https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156TNT NOVELAS
+http://181.78.4.186:8000/play/a0fn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WLQPiC8RwtsyVRMuWaOHkPg6N3mxrgLEgbcmU59fWw&s" group-title="03-ESPAÑA juanpablo", JP:A3SERIES
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/chunklist_b2628000_vo.m3u8
@@ -1041,6 +991,17 @@ http://tv.nstvlatino.com:8080/yuk@xxx/z3cy936OG9/1156036
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14002
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="09-PUBLICOS juanpablo", JP:VTV
+http://181.78.4.186:8000/play/a0r2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/184316_139025649498714_129204227147523_255123_5334064_n.jpg/revision/latest/scale-to-width-down/200?cb=20120513215506" group-title="09-PUBLICOS juanpablo", JP:VENEVISION
+http://181.78.4.186:8000/play/a0r0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVes_%282010%29.svg/revision/latest/scale-to-width-down/200?cb=20220415124146" group-title="09-PUBLICOS juanpablo", JP:TVES
+http://181.78.4.186:8000/play/a0r1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Logo_de_meridiano_television_comienzos_2000.png/revision/latest/scale-to-width-down/200?cb=20170217021013" group-title="09-PUBLICOS juanpablo", JP:MERIDIANO
+http://181.78.4.186:8000/play/a0r3/index.m3u8
 
 
 
@@ -1051,6 +1012,52 @@ http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14002
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//w46Vw536HwNnEzOa7J24YH9DPRS.jpg" group-title="6-DRAMA juanpablo", JP:CULPA MIA
+https://archive.org/download/01_20230623_20230623_2005/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//w46Vw536HwNnEzOa7J24YH9DPRS.jpg" group-title="6-DRAMA juanpablo", JP:CULPA MIA
+https://ia802608.us.archive.org/27/items/01_20230623_20230623_2005/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//dAyJqJ8KoglZysttC6BfVmDFQUt.jpg" group-title="11-ROMANCE juanpablo", JP:A TRAVES DEL MAR 2023
+https://archive.org/download/01_20230623_20230623_1813/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//dAyJqJ8KoglZysttC6BfVmDFQUt.jpg" group-title="11-ROMANCE juanpablo", JP:A TRAVES DEL MAR 2023
+https://ia902700.us.archive.org/5/items/01_20230623_20230623_1813/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8fk4l8PvGGjHYCUpA4gGbyIoS3S.jpg" group-title="5-AVENTURA juanpablo", JP:SÉ TU MISMA 2023
+https://archive.org/download/01_20230623_20230623_2021/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8fk4l8PvGGjHYCUpA4gGbyIoS3S.jpg" group-title="5-AVENTURA juanpablo", JP:SÉ TU MISMA 2023
+https://ia802600.us.archive.org/10/items/01_20230623_20230623_2021/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//9YEGawvjaRgnyW6QVcUhFJPFDco.jpg" group-title="25-ANIME juanpablo", JP:BLACK CLOVER LA ESPADA DEL REY MAGO
+https://archive.org/download/01_20230623_20230623_1910/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//9YEGawvjaRgnyW6QVcUhFJPFDco.jpg" group-title="25-ANIME juanpablo", JP:BLACK CLOVER LA ESPADA DEL REY MAGO
+https://ia902701.us.archive.org/31/items/01_20230623_20230623_1910/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//9YEGawvjaRgnyW6QVcUhFJPFDco.jpg" group-title="25-ANIME juanpablo", JP:BLACK CLOVER LA ESPADA DEL REY MAGO
+http://208.88.245.81/nuevo/blacklover.espadadelreymago.2023dual.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="5-AVENTURA juanpablo", JP:FLASH
+https://archive.org/download/01_20230623_20230623_1636/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="5-AVENTURA juanpablo", JP:FLASH
+https://ia802602.us.archive.org/13/items/01_20230623_20230623_1636/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//ktpoqsz2O5xz8SPxc358YXmmzHU.jpg" group-title="7-DOCUMENTAL juanpablo", JP:CUIDEN A MAYA
+http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg" group-title="1-ACCION juanpablo", JP:EL PACTO THE COVENANT EN ESPAÑOL
+http://208.88.245.81/nuevo/el.pacto.2023dual.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg" group-title="15-GUERRA juanpablo", JP:EL PACTO THE COVENANT EN ESPAÑOL
+http://208.88.245.81/nuevo/el.pacto.2023dual.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8riWcADI1ekEiBguVB9vkilhiQm.jpg" group-title="20-INFANTILES juanpablo", JP:ELEMENTAL
+http://208.88.245.81/nuevo/elemental.dual2023.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/dqyzHNor7wEYhWRzVRrEuvqbCkU.jpg" group-title="7-DOCUMENTAL juanpablo", JP:THE POPE ANSWERS
 https://pkek.vizcloud.co/simple/EqPFIfkQWADtjDlGha7rC8Yu_FwVvvbtTB57rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
@@ -1066,8 +1073,6 @@ https://znpd.vizcloud.co/simple/EqPFIfsQWADtjDlGha7rC8cu_FwCuvnpQxl7rqk+wYMnU94U
  
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/tc2qLtrrNDftlf3WXbznM7l8Mds.jpg" group-title="7-DOCUMENTAL juanpablo", JP:PAPA FRANCISCO
 https://znpd.vizcloud.co/simple/EqPFIfsQWADtjDlGha7rC8cu_FwCuvnpQxl7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg" group-title="12-ANIMACION juanpablo", JP:LEGO FRIENDS
 http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
