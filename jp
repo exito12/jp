@@ -1013,6 +1013,40 @@ http://181.78.4.186:8000/play/a0r3/index.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="5-AVENTURA juanpablo", JP:INDIANA JONES Y EL DIAL DEL DESTINO
+https://planetaweb.xyz/movs/junio06/indiana.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/neV35lK7em4rIY9QIoH1cruErPA.jpg" group-title="7-DOCUMENTAL juanpablo", JP:BLACKBERRY
+https://planetaweb.xyz/movs/junio06/bb.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBs0W4W2dWYXQ0BYZZFEFFkx4A9_2VP0TBdw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AMAZONIA DESCONOCIDA
+http://archive.org/download/009_20200823/009.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBs0W4W2dWYXQ0BYZZFEFFkx4A9_2VP0TBdw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AMAZONIA DESCONOCIDA
+http://ia801906.us.archive.org/6/items/009_20200823/009.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlE2ViidU0KDhjCzflDad0WYqxyJxerBnbQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ALBANIA SALVAJE
+http://ia801906.us.archive.org/6/items/009_20200823/007.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlE2ViidU0KDhjCzflDad0WYqxyJxerBnbQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ALBANIA SALVAJE
+http://archive.org/download/009_20200823/007.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ooSXekSYeZ0o2AB4pKZI6eMdZRr.jpg" group-title="5-AVENTURA juanpablo", JP:ÉRASE UNA VEZ EN CHINA
+http://archive.org/download/w-17-fl-1-x-1/0nc3Up0n471m31nCh1n4.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ooSXekSYeZ0o2AB4pKZI6eMdZRr.jpg" group-title="5-AVENTURA juanpablo", JP:ÉRASE UNA VEZ EN CHINA
+http://ia801706.us.archive.org/34/items/w-17-fl-1-x-1/0nc3Up0n471m31nCh1n4.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//8riWcADI1ekEiBguVB9vkilhiQm.jpg" group-title="20-INFANTILES juanpablo", JP:ELEMENTAL
+https://planetaweb.xyz/movs/junio06/elemental.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//w46Vw536HwNnEzOa7J24YH9DPRS.jpg" group-title="6-DRAMA juanpablo", JP:CULPA MIA
 https://archive.org/download/01_20230623_20230623_2005/01.mp4
 
@@ -1073,6 +1107,8 @@ https://znpd.vizcloud.co/simple/EqPFIfsQWADtjDlGha7rC8cu_FwCuvnpQxl7rqk+wYMnU94U
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/tc2qLtrrNDftlf3WXbznM7l8Mds.jpg" group-title="7-DOCUMENTAL juanpablo", JP:PAPA FRANCISCO
 https://znpd.vizcloud.co/simple/EqPFIfsQWADtjDlGha7rC8cu_FwCuvnpQxl7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg" group-title="12-ANIMACION juanpablo", JP:LEGO FRIENDS
 http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
  
@@ -1124,8 +1160,7 @@ https://www.alianzajuridicainteramericana.com/movies/foreman.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/polimor.club/wp-content/uploads/2023/06/nq7NbZtNfIHyL1NXPV1EiG4XQ7u.jpg?ssl=1" group-title="1-ACCION juanpablo", JP:THE COVENANT EL PACTO
 https://polimorclub.space/stuff/covenant.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="1-ACCION juanpablo", JP:SISU
-https://casiano.store/stuff/sisu.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/polimor.club/wp-content/uploads/2023/04/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg?ssl=1" group-title="4-COMEDIA juanpablo", JP:INFELICES POR SIEMPRE
 https://juancortes.com.mx/stuff/infelices.mp4
@@ -1364,8 +1399,7 @@ http://208.88.245.85/nuevo/nadakver.latino2023.mkv
 http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//vjAMj81oYBryzGBhJk4gcK0M636.jpg" group-title="10-CRIMEN juanpablo", JP:Sombras de un crimen 
-http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
+
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg" group-title="10-CRIMEN juanpablo", JP:Uno para morir 
@@ -1535,11 +1569,6 @@ https://archive.org/download/01_20230504_20230504_1804/01.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2NBxSwARcPi4wwpLH1wyFWKXeJo.jpg" group-title="6-DRAMA juanpablo", JP:Citadel 
 https://archive.org/download/01_20230502_20230502_0257/01.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uUeLr12fYHvVPyjI3Hjr2fZ7NaK.jpg" group-title="1-ACCION juanpablo", JP:Poker Face (2023) 
-https://archive.org/download/01_20230502_20230502_0234/01.mp4
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m6Yt77C9u7Aume9dTJMCSRzWDED.jpg" group-title="2-SUSPENSO juanpablo", JP:Clock (2023) 
 https://archive.org/download/01_20230502_20230502_0224/01.mp4
@@ -2844,8 +2873,7 @@ http://vod.tuxchannel.mx/peliculas/720/van%20helsing.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg" group-title="1-ACCION juanpablo", JP:Triple Frontier (2019) 
-http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv 
+ 
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rs6P8hg1BTf6AdpGlRnGE4DFlYF.jpg" group-title="5-AVENTURA juanpablo", JP:Transformers1 (2007) 
@@ -5033,53 +5061,19 @@ https://archive.org/download/bulldozer-2022/Bulldozer%20%282022%29.mp4
 https://ia902508.us.archive.org/5/items/bulldozer-2022/Bulldozer%20%282022%29.mp4
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="1-ACCION juanpablo", JP:SISU
-https://casiano.store/stuff/sisu.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//vjAMj81oYBryzGBhJk4gcK0M636.jpg" group-title="10-CRIMEN juanpablo", JP:SOMBRAS DE UN CRIMEN MARLOWE 
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/polimor.club/wp-content/uploads/2023/05/ktNXxtwxC67BR6ZW2VJM4tyqWSd.jpg?ssl=1" group-title="1-ACCION juanpablo", JP:MARLOWE
+#EXTINF:-1 tvg-logo="https://i0.wp.com/polimor.club/wp-content/uploads/2023/05/ktNXxtwxC67BR6ZW2VJM4tyqWSd.jpg?ssl=1" group-title="1-ACCION juanpablo", JP:SOMBRAS DE UN CRIMEN MARLOWE
 https://www.cinedds.online/stuff/marlowe.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/polimor.club/wp-content/uploads/2023/04/cqzjGwruSa3EihTDYHXtSv4mi6g.jpg?ssl=1" group-title="1-ACCION juanpablo", JP:POKER FACE
-https://casiano.store/stuff/poker.mp4
+http://archive.org/download/01_20230502_20230502_0234/01.mp4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uUeLr12fYHvVPyjI3Hjr2fZ7NaK.jpg" group-title="1-ACCION juanpablo", JP:Poker Face (2023) 
+http://ia601605.us.archive.org/35/items/01_20230502_20230502_0234/01.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqBeKurpfqoV5msTH5XttGLwFUv.jpg" group-title="1-ACCION juanpablo", JP:NOCHE SIN PAZ
@@ -5233,6 +5227,9 @@ http://d1yei2z3i6k35z.cloudfront.net/2102480/631b7efe50c38_96BSTNumero4k_A.mp4
 http://vod.tuxchannel.mx/peliculas/720/van%20helsing.mkv
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg" group-title="1-ACCION juanpablo", JP:TRIPLE FRONTERA
+http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg" group-title="1-ACCION juanpablo", JP:TRIPLE FONTERA (2019) 
 http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
 
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:EL UNICO
@@ -5423,3 +5420,10 @@ http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" group-title="10-CRIMEN juanpablo", JP:EMBAUCADORES   2023
 http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="1-ACCION juanpablo", JP:SISU
+https://casiano.store/stuff/sisu.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="1-ACCION juanpablo", JP:SISU
+https://casiano.store/stuff/sisu.mp4
