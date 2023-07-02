@@ -1016,8 +1016,11 @@ http://181.78.4.186:8000/play/a0r3/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/vPXfVqa27Y2eVGHponsGmGiXjH1.jpg" group-title="30-BYPASS juanpablo", JP:NO ME DIGAS SOLTERONA
+http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/14d8c1cbeb133472754f2331bb8acc587d49a7ef03c0596ff65fe5ce6c5a12e21872
+ 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/xcxNoGYKSS0mNNFPA16yJwRd0pe.jpg" group-title="30-BYPASS juanpablo", JP:NO ME DIGAS SOLTERONA 2
+http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/f58199218ff7abdc45059bbc85141e812f6565d61edf12a974370545af2263b21870
 
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="5-AVENTURA juanpablo", JP:INDIANA JONES Y EL DIAL DEL DESTINO
