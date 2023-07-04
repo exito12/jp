@@ -1016,12 +1016,536 @@ http://181.78.4.186:8000/play/a0r3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/vPXfVqa27Y2eVGHponsGmGiXjH1.jpg" group-title="30-BYPASS juanpablo", JP:NO ME DIGAS SOLTERONA
-http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/14d8c1cbeb133472754f2331bb8acc587d49a7ef03c0596ff65fe5ce6c5a12e21872
- 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/xcxNoGYKSS0mNNFPA16yJwRd0pe.jpg" group-title="30-BYPASS juanpablo", JP:NO ME DIGAS SOLTERONA 2
-http://a.aaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/f58199218ff7abdc45059bbc85141e812f6565d61edf12a974370545af2263b21870
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/30YacPAcxpNemhhwX0PVUl9pVA3.jpg" group-title="12-ANIMACION juanpablo", JP:ESPIAS CON DISFRAZ
+http://ia601507.us.archive.org/7/items/000_20200301_202003/03.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/78czzq4yOr3yN2znedu0kWyv2Um.jpg" group-title="20-INFANTILES juanpablo", JP:LO QUE EL AGUA SE LLEVO
+http://archive.org/download/ag04l13bowalp1e12rijl1pewix920/AG04L13BOwaLp1E12rij.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQLsvQb24FuEw4-7YratOLirRly_hG_GZpTQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:COREA DEL NORTE
+http://archive.org/download/20200206210101/NoreDo360X360.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/iwDmsffJ5qYBxiGTPdwgIKTscKu.jpg" group-title="2-SUSPENSO juanpablo", JP:LA NIEBLA
+http://archive.org/download/LaNiebla2007694185146148415/La%20niebla%202007694185146148415.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIF5NTH-ITOeipc9VMlX5FAziegl6gNHn-g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUAS TRANQUILAS
+http://archive.org/download/009_20200823/003.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIF5NTH-ITOeipc9VMlX5FAziegl6gNHn-g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUAS TRANQUILAS
+http://ia601906.us.archive.org/6/items/009_20200823/003.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPjWcEIDgz4thaU9ZQpN1RVxGOXalWfqByQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUAS TROPICALES
+http://archive.org/download/009_20200823/004.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPjWcEIDgz4thaU9ZQpN1RVxGOXalWfqByQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUAS TROPICALES
+http://ia801906.us.archive.org/6/items/009_20200823/004.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXNUQ8NcR_ksmVZSoiUkeWOg2UtFRdoCy-g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUILAS REINAS DE LOS CIELOS
+http://archive.org/download/009_20200823/005.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXNUQ8NcR_ksmVZSoiUkeWOg2UtFRdoCy-g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUILAS REINAS DE LOS CIELOS
+http://ia801906.us.archive.org/6/items/009_20200823/005.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuHQ1Whes_rtSW5hUUO4WZC9IT7UVgv7hLQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ALASKA SALVAJE
+http://archive.org/download/009_20200823/006.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuHQ1Whes_rtSW5hUUO4WZC9IT7UVgv7hLQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ALASKA SALVAJE
+http://ia801906.us.archive.org/6/items/009_20200823/006.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLeTKRhgPLu8089Fec-pnfKWGtkZjr6vtrA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ALMA DE ELEFANTE
+http://archive.org/download/009_20200823/008.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLeTKRhgPLu8089Fec-pnfKWGtkZjr6vtrA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ALMA DE ELEFANTE
+http://ia801906.us.archive.org/6/items/009_20200823/008.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/aPbR3auoJJ7cvOofQGw4NWm7OTf.jpg" group-title="2-SUSPENSO juanpablo", JP:ALMAS CONDENADAS
+http://archive.org/download/0_20200418/2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/aPbR3auoJJ7cvOofQGw4NWm7OTf.jpg" group-title="2-SUSPENSO juanpablo", JP:ALMAS CONDENADAS
+http://ia801901.us.archive.org/28/items/0_20200418/2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg" group-title="5-AVENTURA juanpablo", JP:AMADRINADAS
+http://archive.org/download/j-1_20201207/4M4DR1N4D4S.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg" group-title="5-AVENTURA juanpablo", JP:AMADRINADAS
+http://ia801806.us.archive.org/4/items/j-1_20201207/4M4DR1N4D4S.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLkxnFAl4z2VXdVtaYiX5ad0o5Iqp4uKIog&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ASI SE HIZO LA TIERRA ASTEROIDES
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn9jcbdkfjbfhfdncn.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLkxnFAl4z2VXdVtaYiX5ad0o5Iqp4uKIog&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ASI SE HIZO LA TIERRA ASTEROIDES
+http://ia600702.us.archive.org/28/items/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn9jcbdkfjbfhfdncn.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvPsD-8ftHZC6sN3i16uF-pH_H224IpNHkg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUAS INVISIBLES
+http://archive.org/download/009_20200823/002.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvPsD-8ftHZC6sN3i16uF-pH_H224IpNHkg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:AGUAS INVISIBLES
+http://ia601906.us.archive.org/6/items/009_20200823/002.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBchbPBRVuIqkdkbyo3QHcx4znjVSsRKBcUQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ASIA
+http://archive.org/download/009_20200823/010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBchbPBRVuIqkdkbyo3QHcx4znjVSsRKBcUQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ASIA
+http://ia601906.us.archive.org/6/items/009_20200823/010.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/oKH8hvs6aNT3SH0brcgepUNokny.jpg" group-title="4-COMEDIA juanpablo", JP:ASU MARE 1
+http://archive.org/download/asm-1hdude/Asm1hdude.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/lhIpa49R57KxWJYc98f99n1bpFf.jpg" group-title="4-COMEDIA juanpablo", JP:ASU MARE 2
+http://archive.org/download/trastornos-psicologicos/asm2yeujsiw.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/fykOg72qCnDjXhgomFaudRtYzsg.jpg" group-title="4-COMEDIA juanpablo", JP:ASU MARE 3
+http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1l-wBtFi5d8WwbAaqwBWM7URIzJqZnaBcdA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ATLANTICO
+http://archive.org/download/009_20200823/011.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1l-wBtFi5d8WwbAaqwBWM7URIzJqZnaBcdA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ATLANTICO
+http://ia801906.us.archive.org/6/items/009_20200823/011.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/tHMeiOknadwJjpF9oUzx5stGrIX.jpg" group-title="12-ANIMACION juanpablo", JP:ATLANTIS
+http://archive.org/download/atlas_202009/atlas.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/tHMeiOknadwJjpF9oUzx5stGrIX.jpg" group-title="12-ANIMACION juanpablo", JP:ATLANTIS
+http://ia601907.us.archive.org/34/items/atlas_202009/atlas.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1C_mG7EQzsv16IfjHqj0D602NJf9ok-mDHA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:BEBÉ BABUINO
+http://archive.org/download/009_20200823/014.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1C_mG7EQzsv16IfjHqj0D602NJf9ok-mDHA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:BEBÉ BABUINO
+http://ia601906.us.archive.org/6/items/009_20200823/014.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRwJG8qRd3Kdd5Ov1aIZl_5B_UQfiVlWvTA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:BRASIL SALVAJE
+http://archive.org/download/009_20200823/015.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRwJG8qRd3Kdd5Ov1aIZl_5B_UQfiVlWvTA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:BRASIL SALVAJE
+http://ia601906.us.archive.org/6/items/009_20200823/015.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm03iH4u0tykjWe9OiY8gwvrVcVDoUxfH92A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CARIBE SALVAJE
+http://archive.org/download/009_20200823/017.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm03iH4u0tykjWe9OiY8gwvrVcVDoUxfH92A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CARIBE SALVAJE
+http://ia601906.us.archive.org/6/items/009_20200823/017.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2-cmnVUpZR3AsbEIhHdQowe6MvLZMIKk1w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CAZADORES CREATIVOS
+http://archive.org/download/009_20200823/018.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2-cmnVUpZR3AsbEIhHdQowe6MvLZMIKk1w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CAZADORES CREATIVOS
+http://ia801906.us.archive.org/6/items/009_20200823/018.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJ8UJ5WNUd_yGwdi3gpqZfQp7YuXLMLbTEA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CAZADORES DE AFRICA
+http://archive.org/download/009_20200823/020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJ8UJ5WNUd_yGwdi3gpqZfQp7YuXLMLbTEA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CAZADORES DE AFRICA
+http://ia601906.us.archive.org/6/items/009_20200823/020.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/bhHhTCh43aT3kAeknSd5T5BcZcJ.jpg" group-title="12-ANIMACION juanpablo", JP:CAZADORES DE DRAGONES
+http://archive.org/download/7cbacdaecc-91b-396cf-30cd-4528bfc-0c-4/kekcnc4z4d0r35d3dr460n35.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/bhHhTCh43aT3kAeknSd5T5BcZcJ.jpg" group-title="12-ANIMACION juanpablo", JP:CAZADORES DE DRAGONES
+http://ia802908.us.archive.org/32/items/7cbacdaecc-91b-396cf-30cd-4528bfc-0c-4/kekcnc4z4d0r35d3dr460n35.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrL6DJjRolLXleOtTMkUhOnC5PWaSPLfWTfg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CERDENA SALVAJE
+http://archive.org/download/009_20200823/023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrL6DJjRolLXleOtTMkUhOnC5PWaSPLfWTfg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CERDENA SALVAJE
+http://ia801906.us.archive.org/6/items/009_20200823/023.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/A83V8w29m7vCfpOwYsAh22lrTjJ.jpg" group-title="6-DRAMA juanpablo", JP:CICATRICES
+http://archive.org/download/unknown_202003/c1c47r1c35m0v13.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLJjqTT01eM7o-rTTIRS5pscEJOeJkyfWAQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CLUB DE LA PELEA
+http://archive.org/download/009_20200823/024.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLJjqTT01eM7o-rTTIRS5pscEJOeJkyfWAQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CLUB DE LA PELEA
+http://ia601906.us.archive.org/6/items/009_20200823/024.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2_Y1SudNQ5OWaMdIgu_WEV0ImglAffPRKg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:COLOSSUS EL GRAN TIBURÓN BLANCO
+http://archive.org/download/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb5qpdkfjcjcjcbfjcjfbcbdb.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2_Y1SudNQ5OWaMdIgu_WEV0ImglAffPRKg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:COLOSSUS EL GRAN TIBURÓN BLANCO
+http://ia600702.us.archive.org/6/items/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb5qpdkfjcjcjcbfjcjfbcbdb.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v7tgtHjf0AJY3NHcJqT9v58cJYa.jpg" group-title="2-SUSPENSO juanpablo", JP:TUSK COLMILLO
+http://archive.org/download/cmgururjfuf2ydjejxmf/cmgururjfuf2ydjejxmf.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v7tgtHjf0AJY3NHcJqT9v58cJYa.jpg" group-title="2-SUSPENSO juanpablo", JP:TUSK COLMILLO
+http://ia801909.us.archive.org/21/items/cmgururjfuf2ydjejxmf/cmgururjfuf2ydjejxmf.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpd7rvpRgofisnhA61kEEbQuwr9Fcz3impg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CONGO SALVAJE
+http://archive.org/download/009_20200823/025.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpd7rvpRgofisnhA61kEEbQuwr9Fcz3impg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CONGO SALVAJE
+http://ia601906.us.archive.org/6/items/009_20200823/025.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauax6CLksvAR98zf7fu0hpsPv8S1gk-5JWQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CONGO SALVAJE RÍO DE MONSTRUOS
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn2jcbdkfjbfhfdncn.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauax6CLksvAR98zf7fu0hpsPv8S1gk-5JWQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CONGO SALVAJE RÍO DE MONSTRUOS
+http://ia800702.us.archive.org/28/items/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn2jcbdkfjbfhfdncn.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_hYP4z_sW9we1G8DuKbZADi4Etu07USrQvQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:UN RIO DE MONSTRUOS
+http://archive.org/download/009_20200823/026.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_hYP4z_sW9we1G8DuKbZADi4Etu07USrQvQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:UN RIO DE MONSTRUOS
+http://ia801906.us.archive.org/6/items/009_20200823/026.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3ngZR2FU9d65aE99U4_bn3tpdqcgqlFRdg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:RUSIA EL MAR SECRETO Y SALVAJE DE RUSIA
+http://archive.org/download/009_20200823/027.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3ngZR2FU9d65aE99U4_bn3tpdqcgqlFRdg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:RUSIA EL MAR SECRETO Y SALVAJE DE RUSIA
+http://ia801906.us.archive.org/6/items/009_20200823/027.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEO-GouDGY-O-RK1kDpXJyCmkXiREuEADWBw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ISIMANGALISO THE MIRACLE GRANDES PARQUES NATURALES DE ÁFRICA
+http://archive.org/download/009_20200823/028.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEO-GouDGY-O-RK1kDpXJyCmkXiREuEADWBw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ISIMANGALISO THE MIRACLE GRANDES PARQUES NATURALES DE ÁFRICA
+http://ia801906.us.archive.org/6/items/009_20200823/028.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKc1P09SGLjImWL4KZhfZsBRduCbvdoqt7Gw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:DEPREDADORES MARINOS DE IRLANDA MARES AL ESTE DE IRLANDA
+http://archive.org/download/009_20200823/032.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKc1P09SGLjImWL4KZhfZsBRduCbvdoqt7Gw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:DEPREDADORES MARINOS DE IRLANDA MARES AL ESTE DE IRLANDA
+http://ia801906.us.archive.org/6/items/009_20200823/032.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKjLZghmKwfEHpI71UBZP4lpdx8au-yjtBA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:DESAFIO A LOS GIGANTES FACING THE GIANTS
+http://archive.org/download/freeda_2/subid0_par4_stre4ming_a85/3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3qGZXg03rIs8J_RNF7eSsPGMtyCMwRTWAw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:DIVERSIDAD EN PELIGRO WATER LIFE
+http://archive.org/download/009_20200823/033.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3qGZXg03rIs8J_RNF7eSsPGMtyCMwRTWAw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:DIVERSIDAD EN PELIGRO WATER LIFE
+http://ia801906.us.archive.org/6/items/009_20200823/033.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW44cHurB6JixaFBoCfs3nWGKunCDbVam-XA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:SHABA EN EL PAIS KENYA
+http://archive.org/download/009_20200823/034.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW44cHurB6JixaFBoCfs3nWGKunCDbVam-XA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:SHABA EN EL PAIS KENYA
+http://ia801906.us.archive.org/6/items/009_20200823/034.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpBXRZCG4WIbnmg_ydwmaW-gfPNuO49oQ5g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EDEN SALVAJE DE RUSIA WILD EDENS RUSSIA
+http://archive.org/download/009_20200823/035.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpBXRZCG4WIbnmg_ydwmaW-gfPNuO49oQ5g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EDEN SALVAJE DE RUSIA WILD EDENS RUSSIA
+http://ia801906.us.archive.org/6/items/009_20200823/035.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANDOI6abX8EkoT7H64pUu0NCRIlL-LoFI8w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL AMAZONAS DE ORIENTE
+http://archive.org/download/009_20200823/036.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANDOI6abX8EkoT7H64pUu0NCRIlL-LoFI8w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL AMAZONAS DE ORIENTE
+http://ia801906.us.archive.org/6/items/009_20200823/036.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgGNAm1pkJma3irtceYjVk2oCq1XL9o2bUuA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL AMAZONAS SALVAJE DE ALEMANIA
+http://archive.org/download/009_20200823/037.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgGNAm1pkJma3irtceYjVk2oCq1XL9o2bUuA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL AMAZONAS SALVAJE DE ALEMANIA
+http://ia601906.us.archive.org/6/items/009_20200823/037.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5SShE21dJniIjW5l7K7M3o5Dxgn8qNwVqw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL ATAQUE DE LOS TIBURONES
+http://archive.org/download/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5SShE21dJniIjW5l7K7M3o5Dxgn8qNwVqw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL ATAQUE DE LOS TIBURONES
+http://ia800702.us.archive.org/6/items/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/3CF743g2BpC8r3mCVV9gSX2yQBj.jpg" group-title="6-DRAMA juanpablo", JP:EL ATRAPA SUENOS
+http://archive.org/download/trap_20200831/trap.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/3CF743g2BpC8r3mCVV9gSX2yQBj.jpg" group-title="6-DRAMA juanpablo", JP:EL ATRAPA SUENOS
+http://ia801704.us.archive.org/14/items/trap_20200831/trap.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgnlO7RdlHpXGek9ro0fpoT_aT9T4_1lkIUA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL AVESTRUZ
+http://archive.org/download/009_20200823/038.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgnlO7RdlHpXGek9ro0fpoT_aT9T4_1lkIUA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL AVESTRUZ
+http://ia801906.us.archive.org/6/items/009_20200823/038.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrokA07Gz19m9owB-WiTXG16YXx_bA7_Q04w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL CAMINO AL EL DORADO
+http://archive.org/download/img-20200422-204938/31Ic4mU1n0h4Ic143K1d0r4d0h4ck570r3n37.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrokA07Gz19m9owB-WiTXG16YXx_bA7_Q04w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL CAMINO AL EL DORADO
+http://ia802902.us.archive.org/14/items/img-20200422-204938/31Ic4mU1n0h4Ic143K1d0r4d0h4ck570r3n37.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfc83FaGyZyYo3fCBeN1S1_kXReYzNZGfdQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL CARIBE SALVAJE
+http://archive.org/download/009_20200823/040.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfc83FaGyZyYo3fCBeN1S1_kXReYzNZGfdQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL CARIBE SALVAJE
+http://ia801906.us.archive.org/6/items/009_20200823/040.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4J11I0qSwvGFu7Yhp7JKYpYMtyPeT_VLOg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL CLUB DE LA LUCHA DE LOS LEOPARDOS
+http://archive.org/download/009_20200823/041.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4J11I0qSwvGFu7Yhp7JKYpYMtyPeT_VLOg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL CLUB DE LA LUCHA DE LOS LEOPARDOS
+http://ia801906.us.archive.org/6/items/009_20200823/041.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwxLdW1fWeuotmmCaFvC_uIEid5Sv-rqXjQ&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:EL EVANGELIO DE JUAN THE GOSPEL OF JOHN
+http://archive.org/download/freeda_2/subid0_par4_stre4ming_a85/6.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwxLdW1fWeuotmmCaFvC_uIEid5Sv-rqXjQ&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:EL EVANGELIO DE JUAN THE GOSPEL OF JOHN
+http://ia600907.us.archive.org/27/items/freeda_2/subid0_par4_stre4ming_a85/6.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauVLafvR6jiTHmjt8c7CBjXBp60kbmXhk2Q&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL GUEPARDO
+http://archive.org/download/009_20200823/046.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauVLafvR6jiTHmjt8c7CBjXBp60kbmXhk2Q&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL GUEPARDO
+http://ia801906.us.archive.org/6/items/009_20200823/046.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg" group-title="6-DRAMA juanpablo", JP:EL HOYO
+http://archive.org/download/1_20200420_20200420_1947/h1/1.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg" group-title="6-DRAMA juanpablo", JP:EL HOYO
+http://ia802906.us.archive.org/30/items/1_20200420_20200420_1947/h1/1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9LuDrdzu2-USPWo0QB8oYlx22yChYjrEgw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL LEJANO ORIENTE WILD FAR EAST
+http://archive.org/download/049_20200824/001.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9LuDrdzu2-USPWo0QB8oYlx22yChYjrEgw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL LEJANO ORIENTE WILD FAR EAST
+http://ia601700.us.archive.org/6/items/049_20200824/001.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRf-BtxrGg3-2Q3HarIqI2c_E7i8kUHwUwg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL LEOPARDO HAMBRIENTO  CAZADORES DE ÁFRICA THE HUNGRY LEOPARD
+http://archive.org/download/049_20200824/002.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRf-BtxrGg3-2Q3HarIqI2c_E7i8kUHwUwg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL LEOPARDO HAMBRIENTO  CAZADORES DE ÁFRICA THE HUNGRY LEOPARD
+http://ia601700.us.archive.org/6/items/049_20200824/002.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg" group-title="5-AVENTURA juanpablo", JP:EL LLAMADO SALVAJE
+http://archive.org/download/vector-cartoon-red-tv-shadow-and-glare/myvideo1.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg" group-title="5-AVENTURA juanpablo", JP:EL LLAMADO SALVAJE
+http://ia803203.us.archive.org/17/items/vector-cartoon-red-tv-shadow-and-glare/myvideo1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwst7iwijkIoDQG_DA9vNzgEKwtPiX0y5yHQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:TORTUGA EL MAR ARÁBIGO
+http://archive.org/download/049_20200824/003.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwst7iwijkIoDQG_DA9vNzgEKwtPiX0y5yHQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:TORTUGA EL MAR ARÁBIGO
+http://ia601700.us.archive.org/6/items/049_20200824/003.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnJbmvyKpioE5UdpiOugDs6v-2yNv-a7IQA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOS CARNÍVOROS DEL ARRECIFE DE CORAL EL MAR ARÁBIGO
+http://archive.org/download/049_20200824/004.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnJbmvyKpioE5UdpiOugDs6v-2yNv-a7IQA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOS CARNÍVOROS DEL ARRECIFE DE CORAL EL MAR ARÁBIGO
+http://ia801700.us.archive.org/6/items/049_20200824/004.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8RZx1e3XpjTSLAxChj9CdppwORqZ9xf0BHg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOS DEFENSORES DEL ARRECIFE EL MAR ARÁBIGO
+http://archive.org/download/049_20200824/005.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8RZx1e3XpjTSLAxChj9CdppwORqZ9xf0BHg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOS DEFENSORES DEL ARRECIFE EL MAR ARÁBIGO
+http://ia601700.us.archive.org/6/items/049_20200824/005.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPV7YPXp31hEMvHISQp0EupYgdzWQ-q2VSkw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL MAR ROJO
+http://archive.org/download/049_20200824/006.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPV7YPXp31hEMvHISQp0EupYgdzWQ-q2VSkw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL MAR ROJO
+http://ia801700.us.archive.org/6/items/049_20200824/006.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTconR-OveoPV3_61KlSZSwZzMe1KTFXsnW9A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CRUSTÁCEOS EL MARAVILLOSO MUNDO DE LOS CRUSTÁCEOS
+http://archive.org/download/049_20200824/007.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTconR-OveoPV3_61KlSZSwZzMe1KTFXsnW9A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CRUSTÁCEOS EL MARAVILLOSO MUNDO DE LOS CRUSTÁCEOS
+http://ia801700.us.archive.org/6/items/049_20200824/007.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LVUuN0QxwvfN6kIC0jpPPPWk38OqOspgbg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CUMBRES ANDINAS EL MEJOR DE LOS MUNDOS LA VIDA EN LAS CUMBRES ALPINAS
+http://archive.org/download/049_20200824/008.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LVUuN0QxwvfN6kIC0jpPPPWk38OqOspgbg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:CUMBRES ANDINAS EL MEJOR DE LOS MUNDOS LA VIDA EN LAS CUMBRES ALPINAS
+http://ia801700.us.archive.org/6/items/049_20200824/008.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGb1tWm8tj2kquIDu6RSAT3le_02NdS-s5KQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL DESIERTO BAJO EL AGUA EL PLANETA BAJO EL AGUA
+http://archive.org/download/049_20200824/011.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGb1tWm8tj2kquIDu6RSAT3le_02NdS-s5KQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL DESIERTO BAJO EL AGUA EL PLANETA BAJO EL AGUA
+http://ia801700.us.archive.org/6/items/049_20200824/011.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCgK_Iw-mzG2NBeO1DxiwDEKwXdFEn-saow&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOS GIGANTES DEL MAR EL PLANETA BAJO EL AGUA
+http://archive.org/download/049_20200824/012.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCgK_Iw-mzG2NBeO1DxiwDEKwXdFEn-saow&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOS GIGANTES DEL MAR EL PLANETA BAJO EL AGUA
+http://ia801700.us.archive.org/6/items/049_20200824/012.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHFqp5t-Z_nL1x6IEa-OeS2zGubwrwmTeCA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:TIERRA ADENTRO EL PLANETA BAJO EL AGUA
+http://archive.org/download/049_20200824/009.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHFqp5t-Z_nL1x6IEa-OeS2zGubwrwmTeCA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:TIERRA ADENTRO EL PLANETA BAJO EL AGUA
+http://ia801700.us.archive.org/6/items/049_20200824/009.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmp-xufD3K_2TPypq8toYm4UA_wf-DWW6__Q&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL MICROMUNDO UNDERWATER EL PLANETA BAJO EL AGUA OCEAN TROPICAL FISH
+http://archive.org/download/049_20200824/010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmp-xufD3K_2TPypq8toYm4UA_wf-DWW6__Q&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL MICROMUNDO UNDERWATER EL PLANETA BAJO EL AGUA OCEAN TROPICAL FISH
+http://ia801700.us.archive.org/6/items/049_20200824/010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmM23gRdYwkSWQkw-9Tj7fgYH0ZD4Rvwgew&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL REY DE LA SABANA
+http://archive.org/download/049_20200824/013.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmM23gRdYwkSWQkw-9Tj7fgYH0ZD4Rvwgew&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL REY DE LA SABANA
+http://ia601700.us.archive.org/6/items/049_20200824/013.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTCGZztWPzGr7IH3H4Ddb_HIZKQkSVd9k3A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LEONES GUEPARDOS Y HIENAS EL REY DE LA SABANA
+http://archive.org/download/049_20200824/014.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTCGZztWPzGr7IH3H4Ddb_HIZKQkSVd9k3A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LEONES GUEPARDOS Y HIENAS EL REY DE LA SABANA
+http://ia601700.us.archive.org/6/items/049_20200824/014.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4b4Pri-xo8aveV0ErlyaKfUGWkPys6OSWg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL REY DE LOS BABUINOS DE MONTANA
+http://archive.org/download/049_20200824/015.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4b4Pri-xo8aveV0ErlyaKfUGWkPys6OSWg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL REY DE LOS BABUINOS DE MONTANA
+http://ia601700.us.archive.org/6/items/049_20200824/015.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViiOf6Op8IwyDku6zF6Bl9vl0kN7ATc8RwA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL REY DEL BOSQUE
+http://archive.org/download/049_20200824/016.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViiOf6Op8IwyDku6zF6Bl9vl0kN7ATc8RwA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL REY DEL BOSQUE
+http://ia801700.us.archive.org/6/items/049_20200824/016.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzL6NxQ-ES6c1y0ERWRl7t5MopX5VzXMNSw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:COCODRILE EL RÍO CAMPO DE BATALLA
+http://archive.org/download/049_20200824/017.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzL6NxQ-ES6c1y0ERWRl7t5MopX5VzXMNSw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:COCODRILE EL RÍO CAMPO DE BATALLA
+http://ia801700.us.archive.org/6/items/049_20200824/017.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjpSP2lh50XGTB0NHOqMuR7Dbg4OI9yGU4g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL RÍO BOTETI  EL REGRESO DEL AGUA 
+http://archive.org/download/049_20200824/018.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjpSP2lh50XGTB0NHOqMuR7Dbg4OI9yGU4g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL RÍO BOTETI  EL REGRESO DEL AGUA
+http://ia601700.us.archive.org/6/items/049_20200824/018.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTok1CABhQkuc2CxYheFciP_vPqZ4qEZotjw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ENTRE ESTONIA Y FINLANDIA EL SALVAJE MAR BÁLTICO
+http://archive.org/download/049_20200824/020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTok1CABhQkuc2CxYheFciP_vPqZ4qEZotjw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ENTRE ESTONIA Y FINLANDIA EL SALVAJE MAR BÁLTICO
+http://ia601700.us.archive.org/6/items/049_20200824/020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMlftY0hz-NODUhaeT5qG8XuJO75rHyifIQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ENTRE FINLANDIA Y SUECIA EL SALVAJE MAR BÁLTICO
+http://archive.org/download/049_20200824/019.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMlftY0hz-NODUhaeT5qG8XuJO75rHyifIQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ENTRE FINLANDIA Y SUECIA EL SALVAJE MAR BÁLTICO
+http://ia801700.us.archive.org/6/items/049_20200824/019.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFTLv7X6Yw2lQdiy9a2vVS19Pq3iUeqD_NA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ZAMBIA SALVAJE EL TERRITORIO DE LA MANADA
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn7jcbdkfjbfhfdncn.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFTLv7X6Yw2lQdiy9a2vVS19Pq3iUeqD_NA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ZAMBIA SALVAJE EL TERRITORIO DE LA MANADA
+http://ia800702.us.archive.org/28/items/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn7jcbdkfjbfhfdncn.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUzlj6k_o1EJCN32Ii2bv6-9JE12BbIOKkag&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL TIBURÓN DE LAS PROFUNDIDADES
+http://archive.org/download/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb2qpdkfjcjcjcbfjcjfbcbdb.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUzlj6k_o1EJCN32Ii2bv6-9JE12BbIOKkag&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL TIBURÓN DE LAS PROFUNDIDADES
+http://ia600702.us.archive.org/6/items/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb1qpdkfjcjcjcbfjcjfbcbdb/qpdkfjcjcjcbfjcjfbcbdb0qpdkfjcjcjcbfjcjfbcbdb2qpdkfjcjcjcbfjcjfbcbdb.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjDEoKGo1Ty4guqBqrUHqSbIlKOyegUImnOQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL VAIVEN DE LAS OLAS
+http://archive.org/download/049_20200824/021.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9VjJnANFmt9Xbme9j7CwKCtB5WVOh3ndHyg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:VALLE DE ELEFANTES
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn5jcbdkfjbfhfdncn.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2grHUWdi8nbgQIR8-jd8beYkQxUCuYW-BTA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ZAMBIA RELATOS EL VALLE DE LOS ELEFANTES
+http://archive.org/download/049_20200824/022.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg" group-title="25-ANIME juanpablo", JP:EL VIAJE DE CHIHIRO
+http://archive.org/download/3_20200510/3.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/1382VHxqZDXu2t8i46zf4fP71JG.jpg" group-title="20-INFANTILES juanpablo", JP:EL ZORRO Y EL SABUESO
+http://archive.org/download/pasantiayofrin/3l20rr0y3l54bu350.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlEPW6JrGIvh2IFmFBbVqpMc7SK7A0ofWEw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ELEFANTES AFRICANOS AMBOSELI EL DILEMA DE LOS ELEFANTES
+http://archive.org/download/049_20200824/023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6X7wsW9TM_67HJeQJsRI6D6Vz55qJaKg6A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOBO ESLOVAQUIA LOS MONTES DEL LOBO
+http://archive.org/download/049_20200824/025.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JLmEvFdOc1nyzqOMZddLZ9YRDqem-nfF-A&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ESPANA TIERRA PROMETIDA UN PAÍS ENTRE DOS MUNDOS
+http://archive.org/download/049_20200824/027.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79JZ_jIUFvcvPH7JxzivR2LDMl9X2BOhp_g&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ESPANA SALVAJE EL SUR MEDITERRÁNEO
+http://archive.org/download/049_20200824/026.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt26bti4wz8F3renBcaF32qr3R7Pop1O3H5A&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:ET EL EXTRATERRESTRE
+http://archive.org/download/img20200212wa0138/0054433529.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfzzUPosNtSKTqGb6WFhWUzmhTRA6naJkalA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOS 7 CONTINENTES EUROPA LA MAGIA DEL GRAN AZUL
+http://archive.org/download/049_20200824/028.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDKQP2JcLXbvo4nFS53kJkm0x_JTFutyeXQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:RÍOS LAGOS Y OCÉANOS EUROPA MÁS SALVAJE
+http://archive.org/download/049_20200824/029.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLJVkvLwygsPjQBomh6A5XOZ6RfZrJjL3Ucw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ARMAS QUÍMICAS EXTRANAS CRIATURAS
+http://archive.org/download/049_20200824/030.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMR1-15uatXybYN-EbrbYUxF_lDtvz3ukf8Q&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EXCÉNTRICOS DEL OCÉANO EXTRANAS CRIATURAS
+http://archive.org/download/049_20200824/031.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCot4sH6ptSygxb7qNt7R-P0WgOwECj48uA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:PODERES EXTRANOS EXTRANAS CRIATURAS
+http://archive.org/download/049_20200824/032.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg" group-title="20-INFANTILES juanpablo", JP:FROZEN
+http://archive.org/download/fn_20200823/FN.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="20-INFANTILES juanpablo", JP:FROZEN 2
+http://archive.org/download/fro_20200823/fro.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="20-INFANTILES juanpablo", JP:FROZEN 2
+http://ia601506.us.archive.org/27/items/0_20200218_20200218/301.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/5vePsmbekQ1ysXS6f0lhzgCwvc4.jpg" group-title="2-SUSPENSO juanpablo", JP:FUGA DE PRETORIA
+http://archive.org/download/whats-app-image-2020-08-23-at-19.52.08/001.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHH9YTv2CSXwmo4RwTik6Zj31AkukJbd4sg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:GIR ULTIMO REFUGIO DEL LEÓN ASIÁTICO
+http://archive.org/download/049_20200824/033.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0O1qczdv4SJ6qfzHOOTSyr6xpj-Su9bdzFw&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:MAGOS DEL ARRECIFE EL MAR ARÁBIGO
+http://archive.org/download/049_20200824/034.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqIVlY79-WjkJ0HOYFWrlS0TzZnoBQ_KhCg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LÉMURES LEGENDARIOS DE MADAGASCAR
+http://archive.org/download/049_20200824/035.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsyEMqgDdjCKCoxAgVpoDY2Cui7ltuo8G2BQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ÁFRICA GRANDES PARQUES NATURALES DE ÁFRICA   
+http://archive.org/download/049_20200824/036.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIqKb1yJ-Lh0Wz7XDBEwbQnZvf1p39ok09Wg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ADDO ELEFANTES DE ADDO DE ÁFRICA
+http://archive.org/download/049_20200824/037.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS4jbA8Dcs4Zc2EWDySGpcg--n0AyHkfYvg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:HOANIB LOS SECRETOS DE LOS ELEFANTES DEL DESIERTO
+http://archive.org/download/049_20200824/039.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxm6AMJwohpDkEql9an2Nith2qvg83N2VatQ&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:EL DELTA VIVIENTE HOLANDA SALVAJE
+http://archive.org/download/049_20200824/041.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc8YK_3NNbGEHqs_d4yBHYspbl2KkEehp6nA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:BAJO EL NIVEL DEL MAR HOLANDA SALVAJE
+http://archive.org/download/049_20200824/040.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZbeeXEF9mOjaLrtPbHcYp0SnE5R9apcajg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:JIRAFA UNA MIRADA ÍNTIMA DESDE LAS ALTURAS
+http://archive.org/download/049_20200824/042.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_PX26Bn1WM29MYCak387n9qb9HRzIZZO5w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LA ANTARTIDA LA MAGIA DEL GRAN AZUL  LOS 7 CONTINENTES
+http://archive.org/download/049_20200824/043.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NTE1wzIgANfAaZzpHFBZ3Cv0DRTcEcUxmg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LA ANTARTIDA SALVAJE
+http://archive.org/download/049_20200824/044.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmopRVxATKDmJNp71jd920We1ymQlq9ZeI8w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:BOSQUES Y TIERRAS BOSCOSAS LA EUROPA MÁS SALVAJE
+http://archive.org/download/049_20200824/045.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzp4pncYoCtF2PJASqWcJg5wINPnQLmtjwA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:OSA NEGRA EN EL CONFÍN DEL MUNDO
+http://archive.org/download/049_20200824/048.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT72n2dL8RUhnjL7f-31W2D_Q3LLhUHP1isLA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:ISLAS ESMERALDA DE MALASIA
+http://archive.org/download/049_20200824/049.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/mwBsg7cFE7GwDPKP4Pv26w2Txmp.jpg" group-title="6-DRAMA juanpablo", JP:LO QUE DE VERDAD IMPORTA
+http://archive.org/download/qu-13-r-0-c-0-m-3-rm-37-up-4-ncr-3-as/R0M4NC3/10QU3D3V3RD4D1MP0R74.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmsP517kzyV-JFVMMNlcWEsA28zZSKcfvVA&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:NACIÓN DE VOLCANES LAS ISLAS MAS SALVAJES DE INDONESIA
+http://archive.org/download/049_20200824/050.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvt9hAi3Gvb4ZWyFizJL1whyexyBvjHmlIg&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:REINO DE DRAGONES LAS ISLAS MÁS SALVAJES DE INDONESIA
+http://archive.org/download/049_20200824/051.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyN2tApxu4R_-r_jZ94Bv_Scdams79B5Ce2w&usqp=CAU" group-title="7-DOCUMENTAL juanpablo", JP:LOBA BLANCA DE LA MANADA DEL GRAN CANÓN
+http://archive.org/download/049_20200824/052.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/rcfZPWcj5pE1CHeIrcUlqFkmeOw.jpg" group-title="25-ANIME juanpablo", JP:LOS CONQUISTADORES DE SHAMBALLA
+http://archive.org/download/icon_20190814/3.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="5-AVENTURA juanpablo", JP:INDIANA JONES Y EL DIAL DEL DESTINO
 https://planetaweb.xyz/movs/junio06/indiana.mp4
