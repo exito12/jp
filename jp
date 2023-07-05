@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
+http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4280
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
+http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34881
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
+http://redima.pro:8880/5555/5555/334
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest/scale-to-width-down/300?cb=20091209212832" group-title="06-NOTICIAS juanpablo", JP:EURONEWS
 https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
 
@@ -105,10 +117,6 @@ http://191.97.55.241:8000/play/a03k/index.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 
@@ -129,10 +137,6 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBM89UIo3IvG83flxRBuZTBU-h9YAS1eiyg&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY WORLD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27991
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRd8pU-84KsMoJlu5FsGwmPyYBKW_WmPUx-g&usqp=CAU" group-title="012-ENTRETENIMIENTO juanpablo", JP:E ENTRETENIMIENTO
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28069
@@ -164,19 +168,8 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34625
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3 CL
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34636
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWs11MsUwR3E9-VJ9-WZbULJbAweHyK24TEQ&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:FX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_cinema.jpg/revision/latest?cb=20120104013215" group-title="01-TV PREMIUM juanpablo", JP:GOLDEN EDGE
@@ -190,27 +183,6 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_cinema.jpg/revision/latest?cb=20120104013215" group-title="01-TV PREMIUM juanpablo", JP:GOLDEN PLUS
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28016
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/ppvcine/hbo.png" group-title="0-HBO juanpablo", JP:HBO HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4280
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/ppvcine/hbo.png" group-title="0-HBO juanpablo", JP:HBO HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/ppvcine/hbo.png" group-title="0-HBO juanpablo", JP:HBO HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34881
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/ppvcine/hbo.png" group-title="0-HBO juanpablo", JP:HBO HD
-http://redima.pro:8880/5555/5555/334
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
@@ -320,19 +292,11 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28035
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmZtNrKHlYNOGgf4CxXUj-_qfMkwUa5SYOA&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:SYFY
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="01-TV PREMIUM juanpablo", JP:TCM
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28036
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="01-TV PREMIUM juanpablo", JP:TCM
 http://redima.pro:8880/5555/5555/371
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest/scale-to-width-down/249?cb=20220703193228" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:TLC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28037
@@ -340,10 +304,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28037
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest/scale-to-width-down/249?cb=20220703193228" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:TLC
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdHwdGRwVpqpd2r6Eobw_TfiTc47fIIhghQ&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:TNT
