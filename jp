@@ -1,6 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
+http://latinchannel.tv:8080/anual050221/08521489412778/5415
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
+http://latinchannel.tv:8080/anual050221/08521489412778/181
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
@@ -120,6 +126,12 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
+http://latinchannel.tv:8080/anual050221/08521489412778/59
+
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
+http://latinchannel.tv:8080/anual050221/08521489412778/3539
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/LOGOID2016.png/revision/latest/scale-to-width-down/200?cb=20191225135753&path-prefix=es" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY ID
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27987
@@ -214,6 +226,9 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
+http://latinchannel.tv:8080/anual050221/08521489412778/378
+
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313098
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
@@ -249,8 +264,23 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302672
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
+http://latinchannel.tv:8080/anual050221/08521489412778/16957
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJWlyGurgGOtGL-tT5-u8GSzH68qOrnLlvw&usqp=CAU" group-title="08-MUSICA juanpablo", JP:HTV
+http://latinchannel.tv:8080/anual050221/08521489412778/15744
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqhqjDEtFXS3nwzItBU4OePeQljd2KrhmsQ&usqp=CAU" group-title="08-MUSICA juanpablo", JP:BANDAMAX
+http://latinchannel.tv:8080/anual050221/08521489412778/109
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanbJojQSC5Ikbuo1bQfBXD28Z2JKO7QxZ2w&usqp=CAU" group-title="08-MUSICA juanpablo", JP:CONCERT CHANNEL
+http://latinchannel.tv:8080/anual050221/08521489412778/16000
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Zbq1R1R_M4ohU0DYicN_4KmPlK3iVTUQew&usqp=CAU" group-title="08-MUSICA juanpablo", JP:TELEHIT
+http://latinchannel.tv:8080/anual050221/08521489412778/103
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9yGAm0VFtuNoP3Mj5psdOQ9IlSjtg9ySWg&usqp=CAU" group-title="08-MUSICA juanpablo", JP:TOP LATINO
+http://latinchannel.tv:8080/anual050221/08521489412778/18035
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE PTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
@@ -263,6 +293,12 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOu0UBCGLRBlSFipEnQCQTGeZMJlv3DdBbHQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28026
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOu0UBCGLRBlSFipEnQCQTGeZMJlv3DdBbHQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO
+http://latinchannel.tv:8080/anual050221/08521489412778/62
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOu0UBCGLRBlSFipEnQCQTGeZMJlv3DdBbHQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO
+http://latinchannel.tv:8080/anual050221/08521489412778/687
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiynU5XOyS9w6QOE-z_bS2zDPZ86uLaEkJWQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO WILD
 http://181.78.4.186:8000/play/a0qo/index.m3u8
@@ -318,7 +354,8 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2G8iX6zqpzg57i0K3fphkxJ5Kp0odnZf_A&usqp=CAU" group-title="011-MEXICO juanpablo", JP:TELEMUNDO
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2G8iX6zqpzg57i0K3fphkxJ5Kp0odnZf_A&usqp=CAU" group-title="011-MEXICO juanpablo", JP:TELEMUNDO
+http://latinchannel.tv:8080/anual050221/08521489412778/111
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="012-ENTRETENIMIENTO juanpablo", JP:TRU TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28041
@@ -478,6 +515,9 @@ https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/303687
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
+http://latinchannel.tv:8080/anual050221/08521489412778/13120
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/chunklist_b2700000_vo.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
@@ -630,9 +670,33 @@ http://redima.pro:8880/5555/5555/343
 http://181.78.4.186:8000/play/a0dt/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156" group-title="01-TV PREMIUM juanpablo", JP:TNT NOVELAS
 http://181.78.4.186:8000/play/a0fn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8rTtN7MnBLQ3PTYGRgpfFj4aOWiJefiLOQ&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 1
+http://latinchannel.tv:8080/anual050221/08521489412778/38751
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR916lv6Q6_5tehV9f0ug2fY0YEyJNAnNVw&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 2
+http://latinchannel.tv:8080/anual050221/08521489412778/39305
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThKGyi_RTRApuucUWMXcJh83383AKADUyHsg&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 3
+http://latinchannel.tv:8080/anual050221/08521489412778/38755
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8rTtN7MnBLQ3PTYGRgpfFj4aOWiJefiLOQ&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 4
+http://latinchannel.tv:8080/anual050221/08521489412778/39307
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR916lv6Q6_5tehV9f0ug2fY0YEyJNAnNVw&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 5
+http://latinchannel.tv:8080/anual050221/08521489412778/38752
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThKGyi_RTRApuucUWMXcJh83383AKADUyHsg&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 6
+http://latinchannel.tv:8080/anual050221/08521489412778/38754
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8rTtN7MnBLQ3PTYGRgpfFj4aOWiJefiLOQ&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 7
+http://latinchannel.tv:8080/anual050221/08521489412778/39306
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR916lv6Q6_5tehV9f0ug2fY0YEyJNAnNVw&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 8
+http://latinchannel.tv:8080/anual050221/08521489412778/38753
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WLQPiC8RwtsyVRMuWaOHkPg6N3mxrgLEgbcmU59fWw&s" group-title="03-ESPAÑA juanpablo", JP:A3SERIES
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/chunklist_b2628000_vo.m3u8
@@ -649,6 +713,15 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manif
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiynU5XOyS9w6QOE-z_bS2zDPZ86uLaEkJWQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:NAT GEO WILD ESPANA
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14073
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiynU5XOyS9w6QOE-z_bS2zDPZ86uLaEkJWQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:NAT GEO WILD ESPANA
+http://latinchannel.tv:8080/anual050221/08521489412778/429
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logo-de-discovery-channel-en-una-ilustraci%C3%B3n-vectorial-pantalla-tv-bucarest-rumania-enero-208153116.jpg" group-title="03-ESPAÑA juanpablo", JP:DISCOVERY CHANNEL ESPANA
+http://latinchannel.tv:8080/anual050221/08521489412778/437
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest/scale-to-width-down/220?cb=20161008171111" group-title="03-ESPAÑA juanpablo", JP:CAZA Y PESCA
+http://latinchannel.tv:8080/anual050221/08521489412778/3675
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0UEQJoJFXMm1mo5CsQfJNeShMqw7YVn2Qw&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:ENERGY
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
 
@@ -660,6 +733,9 @@ http://tv.nstvlatino.com:8080/yuk@xxx/z3cy936OG9/1156036
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14002
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
+http://latinchannel.tv:8080/anual050221/08521489412778/465
 
 
 
