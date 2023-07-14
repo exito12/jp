@@ -1,11 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
-http://latinchannel.tv:8080/anual050221/08521489412778/5415
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
-http://latinchannel.tv:8080/anual050221/08521489412778/181
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
 http://181.189.243.254:8000/play/a0or/index.m3u8
 
@@ -749,7 +742,35 @@ http://latinchannel.tv:8080/anual050221/08521489412778/465
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNljhadR6TJPTqPzdYCzpvXfAcSYC1Z6Ozw&usqp=CAU" group-title="5-AVENTURA juanpablo", JP:TRANSFORMER EL DESPERTAR DE LAS BESTIAS
+https://taraturismo.com/stuff/trans.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUIMCF18e7Uht1n4ea2etP6JeBddVd5xFRxg&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:MI PAPA ES UN PELIGRO
+https://taraturismo.com/stuff/papapeligro.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjzcnGl6FtGushaMVgRLtsGDhGZosLGWfxw&usqp=CAU" group-title="25-ANIME juanpablo", JP:SUZUME
+https://taraturismo.com/stuff/susume.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87kH18sGXC5j3nX7cg8eCHIgArt9ttP0kjg&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:3GUARDIANES DE LA GALAXIA3
+https://juancortes.com.mx/stuff/guardianes.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSP4zzXCkKSCklP4DPZQfjJ5QcIPQ9DTW__Q&usqp=CAU" group-title="9-MISTERIO juanpablo", JP:HEX SD
+https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/55b60db3fa1ce55fd38c9d08a8e8235d/EP.0.0.v0.1689040449.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSP4zzXCkKSCklP4DPZQfjJ5QcIPQ9DTW__Q&usqp=CAU" group-title="9-MISTERIO juanpablo", JP:HEX HD
+https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/55b60db3fa1ce55fd38c9d08a8e8235d/EP.0.0.v0.1689040449.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMiGZ3y8pgkXG3IPA_ijs885GwJ9_1jEpvQ&usqp=CAU" group-title="9-MISTERIO juanpablo", JP:NUMBER NUMBER JOZI GOLD SD
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4773f915277a386212bfc5d7a0a4d60a/EP.0.1.v0.1689051882.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMiGZ3y8pgkXG3IPA_ijs885GwJ9_1jEpvQ&usqp=CAU" group-title="9-MISTERIO juanpablo", JP:NUMBER NUMBER JOZI GOLD HD
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4773f915277a386212bfc5d7a0a4d60a/EP.0.1.v0.1689051882.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwLeT3hQM_akUVhUJ_Wd7jlX5y7TR1JWl_g&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:UNOS SUEGROS DE ARMAS TOMAR
+https://s04.ll1.lat/0:/p/unos_suegros_de_armas_tomar_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmOSs1NnK4VoKICuxOmXDdEOWJrLqFfu8now&usqp=CAU" group-title="9-MISTERIO juanpablo", JP:EL MUNDO DE LOS OLVIDADOS
+https://s00.ll1.lat/0:/p/el_mundo_de_los_olvidados_espanol_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOOcZEwY0bWMMiJNFVlShwyPyR4Y_RegFUg&usqp=CAU" group-title="1-ACCION juanpablo", JP:SISU
 https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/968e2a5ed4caf08f1886d4e3059a6544/EP.0.2.v1.1684463046.360.m3u8
