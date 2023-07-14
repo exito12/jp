@@ -263,6 +263,12 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
 http://latinchannel.tv:8080/anual050221/08521489412778/16957
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE PTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="08-MUSICA juanpablo", JP:MTV
+http://redima.pro:8880/5555/5555/400
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJWlyGurgGOtGL-tT5-u8GSzH68qOrnLlvw&usqp=CAU" group-title="08-MUSICA juanpablo", JP:HTV
 http://latinchannel.tv:8080/anual050221/08521489412778/15744
 
@@ -277,12 +283,6 @@ http://latinchannel.tv:8080/anual050221/08521489412778/103
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9yGAm0VFtuNoP3Mj5psdOQ9IlSjtg9ySWg&usqp=CAU" group-title="08-MUSICA juanpablo", JP:TOP LATINO
 http://latinchannel.tv:8080/anual050221/08521489412778/18035
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE PTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="08-MUSICA juanpablo", JP:MTV
-http://redima.pro:8880/5555/5555/400
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/210?cb=20191030180306" group-title="012-ENTRETENIMIENTO juanpablo", JP:MAS CHIC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
@@ -732,7 +732,6 @@ http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14002
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
 http://latinchannel.tv:8080/anual050221/08521489412778/465
-
 
 
 
