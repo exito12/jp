@@ -2,11 +2,11 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
-http://181.189.243.254:8000/play/a0or/index.m3u8
-
+http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
+http://atenea.gotv.vip:8880/Marisa123/Marisa123/87
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4280
@@ -838,76 +838,9 @@ http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/164931
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbwRYNNYVhUJtl4gzhaFGZo0aqEavxeHavw&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:LA PASION DE CRISTO
-https://s00.ll1.lat/0:/p/la_pasion_de_cristo_espanol_2004.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbwRYNNYVhUJtl4gzhaFGZo0aqEavxeHavw&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:LA PASION DE CRISTO
-https://s00.ll2.lat/0:/p/la_pasion_de_cristo_espanol_2004.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YkhH0v6u298/mqdefault.jpg" group-title="14-BIBLIA juanpablo", JP:UN AMOR INQUEBRANTABLE
-https://s00.ll1.lat/0:/p/un_amor_inquebrantable_2019.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YkhH0v6u298/mqdefault.jpg" group-title="14-BIBLIA juanpablo", JP:UN AMOR INQUEBRANTABLE
-https://s00.ll2.lat/0:/p/un_amor_inquebrantable_2019.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Ia-L9YoH0c_oz3_b26k8NkEUPOD0ceDDA&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:VENCEDORES
-https://s00.ll1.lat/0:/p/vencedores_2019.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Ia-L9YoH0c_oz3_b26k8NkEUPOD0ceDDA&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:VENCEDORES
-https://s00.ll2.lat/0:/p/vencedores_2019.mp4
-
-#EXTINF:-1 tvg-logo="https://latino.tubarco.news/wp-content/uploads/2023/06/dos-corazones.jpg" group-title="14-BIBLIA juanpablo", JP:2 CORAZONES
-https://s00.ll1.lat/0:/p/2_corazones_2020.mp4
-
-#EXTINF:-1 tvg-logo="https://latino.tubarco.news/wp-content/uploads/2023/06/dos-corazones.jpg" group-title="14-BIBLIA juanpablo", JP:2 CORAZONES
-https://s00.ll2.lat/0:/p/2_corazones_2020.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4a3TYINF1dcVQe_87PR5Kl9inhmAMepA0g&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:CARTAS AL CIELO
-https://s00.ll1.lat/0:/p/cartas_al_cielo_2010.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4a3TYINF1dcVQe_87PR5Kl9inhmAMepA0g&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:CARTAS AL CIELO
-https://s00.ll2.lat/0:/p/cartas_al_cielo_2010.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbD5g-7yrOCtPgcI5zHYCr54asJGyUjXEQmg&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:JESUS REVOLUTION
-https://s00.ll1.lat/0:/p/jesus_revolution_espanol_2023.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbD5g-7yrOCtPgcI5zHYCr54asJGyUjXEQmg&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:JESUS REVOLUTION
-https://s00.ll2.lat/0:/p/jesus_revolution_espanol_2023.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y_Dj-OWx1-k/maxresdefault.jpg" group-title="14-BIBLIA juanpablo", JP:NOE
-https://s00.ll1.lat/0:/p/noe_espanol_2014.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y_Dj-OWx1-k/maxresdefault.jpg" group-title="14-BIBLIA juanpablo", JP:NOE
-https://s00.ll2.lat/0:/p/noe_espanol_2014.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9x7Vgz_Va5jly8wpEfqKQ9FpapURpljy1A&usqp=CAU" group-title="2-SUSPENSO juanpablo", JP:THE RENTAL VIGILADOS
-https://s00.ll1.lat/0:/p/vigilados_2020.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9x7Vgz_Va5jly8wpEfqKQ9FpapURpljy1A&usqp=CAU" group-title="2-SUSPENSO juanpablo", JP:THE RENTAL VIGILADOS
-https://s00.ll2.lat/0:/p/vigilados_2020.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4kYyaFIlitVytVlb3OuC9DGuoOv.jpg" group-title="6-DRAMA juanpablo", JP:1976
-https://s00.ll1.lat/0:/p/1976_espanol_2016.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4kYyaFIlitVytVlb3OuC9DGuoOv.jpg" group-title="6-DRAMA juanpablo", JP:1976
-https://s00.ll2.lat/0:/p/1976_espanol_2016.mp4
-
-#EXTINF:-1 tvg-logo="https://pluralidadz.com/wp-content/uploads/2021/02/El-Tigre-Blanco-Netflix.jpg" group-title="10-CRIMEN juanpablo", JP:TIGRE BLANCO
-https://s00.ll1.lat/0:/p/tigre_blanco_espanol_2021.mp4
-
-#EXTINF:-1 tvg-logo="https://pluralidadz.com/wp-content/uploads/2021/02/El-Tigre-Blanco-Netflix.jpg" group-title="10-CRIMEN juanpablo", JP:TIGRE BLANCO
-https://s00.ll2.lat/0:/p/tigre_blanco_espanol_2021.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ApKp0WuL3oM/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:EL CATACLISMO
-https://s00.ll1.lat/0:/p/el_cataclismo_espanol_2022.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ApKp0WuL3oM/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:EL CATACLISMO
-https://s00.ll2.lat/0:/p/el_cataclismo_espanol_2022.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt26bti4wz8F3renBcaF32qr3R7Pop1O3H5A&usqp=CAU" group-title="8-CIENCIA FICCION juanpablo", JP:ET EL EXTRATERRESTRE
 http://archive.org/download/img20200212wa0138/0054433529.mp4
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9gCWMHqXgurONh7EjFVxgyFX4aiLpTHRJIQ&usqp=CAU" group-title="3-TERROR juanpablo", JP:CURVE LA CURVA DE LA MUERTE SD
 https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6248566ad6d107ef9a98d656e3c4d042/EP.0.2.v0.1675975457.360.m3u8
@@ -7034,6 +6967,86 @@ http://archive.org/download/049_20200824/052.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/rcfZPWcj5pE1CHeIrcUlqFkmeOw.jpg" group-title="25-ANIME juanpablo", JP:LOS CONQUISTADORES DE SHAMBALLA
 http://archive.org/download/icon_20190814/3.mp4
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbwRYNNYVhUJtl4gzhaFGZo0aqEavxeHavw&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:LA PASION DE CRISTO
+https://s00.ll1.lat/0:/p/la_pasion_de_cristo_espanol_2004.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbwRYNNYVhUJtl4gzhaFGZo0aqEavxeHavw&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:LA PASION DE CRISTO
+https://s00.ll2.lat/0:/p/la_pasion_de_cristo_espanol_2004.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YkhH0v6u298/mqdefault.jpg" group-title="14-BIBLIA juanpablo", JP:UN AMOR INQUEBRANTABLE
+https://s00.ll1.lat/0:/p/un_amor_inquebrantable_2019.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YkhH0v6u298/mqdefault.jpg" group-title="14-BIBLIA juanpablo", JP:UN AMOR INQUEBRANTABLE
+https://s00.ll2.lat/0:/p/un_amor_inquebrantable_2019.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Ia-L9YoH0c_oz3_b26k8NkEUPOD0ceDDA&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:VENCEDORES
+https://s00.ll1.lat/0:/p/vencedores_2019.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Ia-L9YoH0c_oz3_b26k8NkEUPOD0ceDDA&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:VENCEDORES
+https://s00.ll2.lat/0:/p/vencedores_2019.mp4
+
+#EXTINF:-1 tvg-logo="https://latino.tubarco.news/wp-content/uploads/2023/06/dos-corazones.jpg" group-title="14-BIBLIA juanpablo", JP:2 CORAZONES
+https://s00.ll1.lat/0:/p/2_corazones_2020.mp4
+
+#EXTINF:-1 tvg-logo="https://latino.tubarco.news/wp-content/uploads/2023/06/dos-corazones.jpg" group-title="14-BIBLIA juanpablo", JP:2 CORAZONES
+https://s00.ll2.lat/0:/p/2_corazones_2020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4a3TYINF1dcVQe_87PR5Kl9inhmAMepA0g&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:CARTAS AL CIELO
+https://s00.ll1.lat/0:/p/cartas_al_cielo_2010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4a3TYINF1dcVQe_87PR5Kl9inhmAMepA0g&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:CARTAS AL CIELO
+https://s00.ll2.lat/0:/p/cartas_al_cielo_2010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbD5g-7yrOCtPgcI5zHYCr54asJGyUjXEQmg&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:JESUS REVOLUTION
+https://s00.ll1.lat/0:/p/jesus_revolution_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbD5g-7yrOCtPgcI5zHYCr54asJGyUjXEQmg&usqp=CAU" group-title="14-BIBLIA juanpablo", JP:JESUS REVOLUTION
+https://s00.ll2.lat/0:/p/jesus_revolution_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y_Dj-OWx1-k/maxresdefault.jpg" group-title="14-BIBLIA juanpablo", JP:NOE
+https://s00.ll1.lat/0:/p/noe_espanol_2014.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y_Dj-OWx1-k/maxresdefault.jpg" group-title="14-BIBLIA juanpablo", JP:NOE
+https://s00.ll2.lat/0:/p/noe_espanol_2014.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9x7Vgz_Va5jly8wpEfqKQ9FpapURpljy1A&usqp=CAU" group-title="2-SUSPENSO juanpablo", JP:THE RENTAL VIGILADOS
+https://s00.ll1.lat/0:/p/vigilados_2020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9x7Vgz_Va5jly8wpEfqKQ9FpapURpljy1A&usqp=CAU" group-title="2-SUSPENSO juanpablo", JP:THE RENTAL VIGILADOS
+https://s00.ll2.lat/0:/p/vigilados_2020.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4kYyaFIlitVytVlb3OuC9DGuoOv.jpg" group-title="6-DRAMA juanpablo", JP:1976
+https://s00.ll1.lat/0:/p/1976_espanol_2016.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4kYyaFIlitVytVlb3OuC9DGuoOv.jpg" group-title="6-DRAMA juanpablo", JP:1976
+https://s00.ll2.lat/0:/p/1976_espanol_2016.mp4
+
+#EXTINF:-1 tvg-logo="https://pluralidadz.com/wp-content/uploads/2021/02/El-Tigre-Blanco-Netflix.jpg" group-title="10-CRIMEN juanpablo", JP:TIGRE BLANCO
+https://s00.ll1.lat/0:/p/tigre_blanco_espanol_2021.mp4
+
+#EXTINF:-1 tvg-logo="https://pluralidadz.com/wp-content/uploads/2021/02/El-Tigre-Blanco-Netflix.jpg" group-title="10-CRIMEN juanpablo", JP:TIGRE BLANCO
+https://s00.ll2.lat/0:/p/tigre_blanco_espanol_2021.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ApKp0WuL3oM/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:EL CATACLISMO
+https://s00.ll1.lat/0:/p/el_cataclismo_espanol_2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ApKp0WuL3oM/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:EL CATACLISMO
+https://s00.ll2.lat/0:/p/el_cataclismo_espanol_2022.mp4
+
+
+
+
+
+
+
+
 
 
 
