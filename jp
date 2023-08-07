@@ -19,6 +19,9 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34881
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
 http://redima.pro:8880/5555/5555/334
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313095
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest/scale-to-width-down/300?cb=20091209212832" group-title="06-NOTICIAS juanpablo", JP:EURONEWS
 https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
 
@@ -43,7 +46,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/271
 
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboxtreme.png" group-title="0-HBO juanpablo", JP:HBO XTREME
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4183
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313116
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboxtreme.png" group-title="0-HBO juanpablo", JP:HBO XTREME
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4281
@@ -108,10 +111,11 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302608
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3 INT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
 http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/3574
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327603
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzHnjNmh/CINECANAL.jpg" group-title="01-TV PREMIUM juanpablo", JP:CINECANAL HD
@@ -127,11 +131,9 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
-http://latinchannel.tv:8080/anual050221/08521489412778/59
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
-http://latinchannel.tv:8080/anual050221/08521489412778/3539
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313129
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/LOGOID2016.png/revision/latest/scale-to-width-down/200?cb=20191225135753&path-prefix=es" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY ID
@@ -160,20 +162,14 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN ARG
 http://latintvec.com:43201/pedroperez/vBe949SYAY/166827
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN CL
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/157048
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN MX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://laguia.tv/_nuxt/img/espn2_256.08d6401.png" group-title="07-DEPORTES juanpablo", JP:ESPN 2 MX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
@@ -181,22 +177,17 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34625
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3 CL
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34636
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWs11MsUwR3E9-VJ9-WZbULJbAweHyK24TEQ&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:FX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_cinema.jpg/revision/latest?cb=20120104013215" group-title="01-TV PREMIUM juanpablo", JP:GOLDEN EDGE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28015
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_cinema.jpg/revision/latest?cb=20120104013215" group-title="01-TV PREMIUM juanpablo", JP:GOLDEN EDGE
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_cinema.jpg/revision/latest?cb=20120104013215" group-title="01-TV PREMIUM juanpablo", JP:GOLDEN PLUS
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28016
@@ -208,30 +199,25 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/270
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4349
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313109
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313109
 
-
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34892
-
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/215.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
-
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://latinchannel.tv:8080/anual050221/08521489412778/378
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34890
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313098
@@ -245,53 +231,44 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302665
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://redima.pro:8880/5555/5555/335
 
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/250?cb=20200601164432" group-title="012-ENTRETENIMIENTO juanpablo", JP:HOLA TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28064
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_7igv1vCWtjVSDZNAxJyy-M7hRc_bu28NA&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HISTORY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28022
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g6-d243XbQPSFEUODbKG1ZAvVSFKk3JoKw&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY HOME AND HEALTH
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27986
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302672
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
-http://latinchannel.tv:8080/anual050221/08521489412778/16957
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302672
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE PTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="08-MUSICA juanpablo", JP:MTV
-http://redima.pro:8880/5555/5555/400
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35033
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJWlyGurgGOtGL-tT5-u8GSzH68qOrnLlvw&usqp=CAU" group-title="08-MUSICA juanpablo", JP:HTV
-http://latinchannel.tv:8080/anual050221/08521489412778/15744
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35025
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqhqjDEtFXS3nwzItBU4OePeQljd2KrhmsQ&usqp=CAU" group-title="08-MUSICA juanpablo", JP:BANDAMAX
-http://latinchannel.tv:8080/anual050221/08521489412778/109
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35012
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanbJojQSC5Ikbuo1bQfBXD28Z2JKO7QxZ2w&usqp=CAU" group-title="08-MUSICA juanpablo", JP:CONCERT CHANNEL
-http://latinchannel.tv:8080/anual050221/08521489412778/16000
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35022
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Zbq1R1R_M4ohU0DYicN_4KmPlK3iVTUQew&usqp=CAU" group-title="08-MUSICA juanpablo", JP:TELEHIT
-http://latinchannel.tv:8080/anual050221/08521489412778/103
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35022
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9yGAm0VFtuNoP3Mj5psdOQ9IlSjtg9ySWg&usqp=CAU" group-title="08-MUSICA juanpablo", JP:TOP LATINO
-http://latinchannel.tv:8080/anual050221/08521489412778/18035
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35012
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/210?cb=20191030180306" group-title="012-ENTRETENIMIENTO juanpablo", JP:MAS CHIC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
@@ -299,23 +276,15 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOu0UBCGLRBlSFipEnQCQTGeZMJlv3DdBbHQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28026
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOu0UBCGLRBlSFipEnQCQTGeZMJlv3DdBbHQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO
-http://latinchannel.tv:8080/anual050221/08521489412778/62
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOu0UBCGLRBlSFipEnQCQTGeZMJlv3DdBbHQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO
-http://latinchannel.tv:8080/anual050221/08521489412778/687
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34846
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiynU5XOyS9w6QOE-z_bS2zDPZ86uLaEkJWQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:NAT GEO WILD
 http://181.78.4.186:8000/play/a0qo/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNBdCKIpKE_CJw5VUOwh9yGUUFkUN28xHpA&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:PARAMOUNT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28030
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqHVOXntdYHt5-rkew7OXUawPfJtpRP7kkA&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:SONY
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
@@ -323,15 +292,14 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyhLzLzltWHn-uAHh28VRWc0P-KKUAiPX8nA&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:STUDIO UNIVERSAL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28034
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmZtNrKHlYNOGgf4CxXUj-_qfMkwUa5SYOA&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:SYFY
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28035
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmZtNrKHlYNOGgf4CxXUj-_qfMkwUa5SYOA&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:SYFY
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmZtNrKHlYNOGgf4CxXUj-_qfMkwUa5SYOA&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:SYFY
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302722
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="01-TV PREMIUM juanpablo", JP:TCM
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28036
@@ -353,14 +321,11 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28039
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdHwdGRwVpqpd2r6Eobw_TfiTc47fIIhghQ&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:TNT
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2G8iX6zqpzg57i0K3fphkxJ5Kp0odnZf_A&usqp=CAU" group-title="011-MEXICO juanpablo", JP:TELEMUNDO
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2G8iX6zqpzg57i0K3fphkxJ5Kp0odnZf_A&usqp=CAU" group-title="011-MEXICO juanpablo", JP:TELEMUNDO
-http://latinchannel.tv:8080/anual050221/08521489412778/111
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302728
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="012-ENTRETENIMIENTO juanpablo", JP:TRU TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28041
@@ -517,19 +482,19 @@ https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/chunklist_b2700000_vo.m3u8
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327657
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
 http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/3595
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
+http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7537.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/303969
+hhttp://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327778
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14020
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" #EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:TELEVEN
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43561
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORTS ARG
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
@@ -546,30 +511,47 @@ http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43431
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN1XFv-HNn8nW_I-xWlpmJxvmm44kC7ZhrQ&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN1XFv-HNn8nW_I-xWlpmJxvmm44kC7ZhrQ&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RxNFbqP2D6K9A7s1ACPnSJ_9MEhUkXh8Wg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34691
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN 1
-http://tv.nstvlatino.com:8080/yuk@xxx/z3cy936OG9/4178
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327637
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/88484
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21450
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN 2
-http://tv.nstvlatino.com:8080/yuk@xxx/z3cy936OG9/34608
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327635
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRiewh5IRJaGCy0sv3lk6LRntTGL1kn1LAg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN F1
-http://tv.nstvlatino.com:8080/yuk@xxx/z3cy936OG9/1143419
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34701
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRiewh5IRJaGCy0sv3lk6LRntTGL1kn1LAg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN F1
 http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1931
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
 http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34714
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34711
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318014
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_z-Rv01Dolr-XzFMsxHyZPCrnTuJx_fqWA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WWE
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34716
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Logo_Adrenalina-%2820q6%29.png/revision/latest/scale-to-width-down/300?cb=20230606232757" group-title="07-DEPORTES juanpablo", JP:ADRENALINA SPORT
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
@@ -607,6 +589,12 @@ https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="09-PUBLICOS juanpablo", JP:PELEAS PTV
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" #EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:TELEVEN
+http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43561
+
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" #EXTINF:-1 tvg-logo="" group-title="09-PUBLICOS juanpablo", JP:TELEVEN
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43561
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="09-PUBLICOS juanpablo", JP:VTV
 http://flowfhd.xyz:8080/Fausto/Fausto2022/90014
 
@@ -615,6 +603,9 @@ http://181.78.4.186:8000/play/a0r2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/184316_139025649498714_129204227147523_255123_5334064_n.jpg/revision/latest/scale-to-width-down/200?cb=20120513215506" group-title="09-PUBLICOS juanpablo", JP:VENEVISION
 http://181.78.4.186:8000/play/a0r0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/184316_139025649498714_129204227147523_255123_5334064_n.jpg/revision/latest/scale-to-width-down/200?cb=20120513215506" group-title="09-PUBLICOS juanpablo", JP:VENEVISION
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43563
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TVes_%282010%29.svg/revision/latest/scale-to-width-down/200?cb=20220415124146" group-title="09-PUBLICOS juanpablo", JP:TVES
 http://181.78.4.186:8000/play/a0r1/index.m3u8
@@ -685,9 +676,11 @@ http://redima.pro:8880/5555/5555/343
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="01-TV PREMIUM juanpablo", JP:STAR CHANNEL
 http://181.78.4.186:8000/play/a0dt/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156" group-title="01-TV PREMIUM juanpablo", JP:TNT NOVELAS
 http://181.78.4.186:8000/play/a0fn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156" group-title="01-TV PREMIUM juanpablo", JP:TNT NOVELAS
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313074
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8rTtN7MnBLQ3PTYGRgpfFj4aOWiJefiLOQ&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 1
 http://flowfhd.xyz:8080/Fausto/Fausto2022/65375
@@ -733,7 +726,7 @@ http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/3584
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14073
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiynU5XOyS9w6QOE-z_bS2zDPZ86uLaEkJWQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:NAT GEO WILD ESPANA
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1937
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327753
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiynU5XOyS9w6QOE-z_bS2zDPZ86uLaEkJWQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:NAT GEO WILD ESPANA
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21436
@@ -782,6 +775,9 @@ http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21430
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWWnGD-7tUzFh7KAAp3Db989h7go5mIAckQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:M ACCION
 http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1925
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:XTRM
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327785
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaL_DRaQDJS6jM7nSsishwSF6vf7oaz7e_Pw&usqp=CAU" group-title="09-PUBLICOS juanpablo", JP:PANAVISION
 http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/164931
