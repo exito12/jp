@@ -831,11 +831,39 @@ http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/164931
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE opc1
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjgCkYt4SxU245nIdmXAAGiR9SpvkssnBr5Q&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:COMO MATAR A MAMA SD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/29e20d2515720fdc3c41c90be55982dc/EP.0.2.v0.1691811725.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjgCkYt4SxU245nIdmXAAGiR9SpvkssnBr5Q&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:COMO MATAR A MAMA HD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/29e20d2515720fdc3c41c90be55982dc/EP.0.2.v0.1691811725.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFco21fU8UkoanouV1SgOpHEJQ6bpF3VxtKA&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:ZOEY 102 EL CASAMIENTO SD 2023
+https://pc-07.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/02daa060000ea7e96027e1857390b2a7/EP.0.2.v0.1691853329.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFco21fU8UkoanouV1SgOpHEJQ6bpF3VxtKA&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:ZOEY 102 EL CASAMIENTO HD 2023
+https://pc-07.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/02daa060000ea7e96027e1857390b2a7/EP.0.2.v0.1691853329.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE SD
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c369ee462e750fe42c54f4d391c9573b/EP.0.2.v0.1691854732.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE HD
+https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c369ee462e750fe42c54f4d391c9573b/EP.0.2.v0.1691854732.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE opc3
 https://s08.ll1.lat/0:/p/agente_stone_espanol_2023.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTwt5tHU1pEcnndGI6YYb-QHsOhaH3_Vgug&usqp=CAU" group-title="1-ACCION juanpablo", JP:AGENTE STONE opc2
-https://908509265.tapecontent.net/radosgw/269Q0bay4riZ4dg/ODBfLkSze35_qC52vkUAWls05EsklTTAn_wUflBS018vSitsbDI1GEAjiVW0ps2jAgwWAYXGhxlEsM_fR-K4CksrE_Z08M7EIsmGIllokIxamSBvBGP_ZeDPHYxSW7aB-v21CMgBNK_SI3ATZffPOAEp21ORGGzLGjRoF-uzRfypjv72buLEX1C_sR15MSrwkf8t3ytV0N7lt9Jk8aHjNxAXMtNgPyI7wC26eaeytelBtYL7t4LSFxXhvEcbXFMC2tDBPlM4bYJP5B6zLmeYIktXS6ot6x-tMNrFEC01GPIzHYjb4DDu6JoLJvY/Agente+Stone+%282023%29+Espanol.mkv.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxN2VjMjctMzQ1OS00NzI3LWIzNTQtNDQxNGVlMTllNzY3XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg" group-title="1-ACCION juanpablo", JP:JAGUN JAGUN THE WARRIOR SD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8fc8fde79de7f1a8e14a62c5fca3af56/EP.0.0.v0.1691862358.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxN2VjMjctMzQ1OS00NzI3LWIzNTQtNDQxNGVlMTllNzY3XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg" group-title="1-ACCION juanpablo", JP:JAGUN JAGUN THE WARRIOR HD
+https://pc-08.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8fc8fde79de7f1a8e14a62c5fca3af56/EP.0.0.v0.1691862358.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADd6rxtLHQZlqEsxz7zfKymR5RByg18CB5g&usqp=CAU" group-title="1-ACCION juanpablo", JP:ASEDIO SD
 https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b04c2b6e758f3b78f3dd8ad22a263a7/EP.0.2.v1.1690772318.360.m3u8
