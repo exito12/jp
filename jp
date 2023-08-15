@@ -691,29 +691,17 @@ http://181.78.4.186:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156" group-title="01-TV PREMIUM juanpablo", JP:TNT NOVELAS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313074
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8rTtN7MnBLQ3PTYGRgpfFj4aOWiJefiLOQ&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 1
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65375
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR916lv6Q6_5tehV9f0ug2fY0YEyJNAnNVw&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 2
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65376
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThKGyi_RTRApuucUWMXcJh83383AKADUyHsg&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 3
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65377
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8rTtN7MnBLQ3PTYGRgpfFj4aOWiJefiLOQ&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 4
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65378
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR916lv6Q6_5tehV9f0ug2fY0YEyJNAnNVw&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 5
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65379
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThKGyi_RTRApuucUWMXcJh83383AKADUyHsg&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 6
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65380
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8rTtN7MnBLQ3PTYGRgpfFj4aOWiJefiLOQ&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 7
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65381
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR916lv6Q6_5tehV9f0ug2fY0YEyJNAnNVw&usqp=CAU" group-title="014-LA CASA DE LOS FAMOSOS juanpablo", JP:CAM 8
-http://flowfhd.xyz:8080/Fausto/Fausto2022/65381
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WLQPiC8RwtsyVRMuWaOHkPg6N3mxrgLEgbcmU59fWw&s" group-title="03-ESPAÑA juanpablo", JP:A3SERIES
