@@ -262,22 +262,25 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="08-MUSICA juanpablo", JP:MTV
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35033
+https://sc.id-tv.kz/1hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJWlyGurgGOtGL-tT5-u8GSzH68qOrnLlvw&usqp=CAU" group-title="08-MUSICA juanpablo", JP:HTV
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35025
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="08-MUSICA juanpablo", JP:MTV
+http://195.24.89.82/VH1_SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqhqjDEtFXS3nwzItBU4OePeQljd2KrhmsQ&usqp=CAU" group-title="08-MUSICA juanpablo", JP:BANDAMAX
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35012
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanbJojQSC5Ikbuo1bQfBXD28Z2JKO7QxZ2w&usqp=CAU" group-title="08-MUSICA juanpablo", JP:CONCERT CHANNEL
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35022
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Zbq1R1R_M4ohU0DYicN_4KmPlK3iVTUQew&usqp=CAU" group-title="08-MUSICA juanpablo", JP:TELEHIT
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35022
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9yGAm0VFtuNoP3Mj5psdOQ9IlSjtg9ySWg&usqp=CAU" group-title="08-MUSICA juanpablo", JP:TOP LATINO
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35012
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/210?cb=20191030180306" group-title="012-ENTRETENIMIENTO juanpablo", JP:MAS CHIC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28065
