@@ -53,8 +53,6 @@ http://187.188.232.236:1021/play/a01q/index.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/A%26E_Network_%281995%29.svg/revision/latest/scale-to-width-down/185?cb=20200612173818" group-title="01-TV PREMIUM juanpablo", JP:A&E
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27969
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/A%26E_Network_%281995%29.svg/revision/latest/scale-to-width-down/185?cb=20200612173818" group-title="01-TV PREMIUM juanpablo", JP:A&E
@@ -83,17 +81,26 @@ http://191.97.55.241:8000/play/a04p/index.m3u8
 http://187.188.232.236:1021/play/a01g/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27971
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
+http://hidra.live:80/fmfukngo/Z395trjb2A/313127
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
-http://191.97.55.241:8000/play/a03v/index.m3u8
+http://187.188.232.236:1021/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/43
+http://hidra.live:80/fmfukngo/Z395trjb2A/34801
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
+http://hidra.live:80/kupnwxyh/56y0SsYae2/313127
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302608
@@ -333,7 +340,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28037
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdHwdGRwVpqpd2r6Eobw_TfiTc47fIIhghQ&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:TNT
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28039
+http://hidra.live:80/fmfukngo/Z395trjb2A/313063
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdHwdGRwVpqpd2r6Eobw_TfiTc47fIIhghQ&usqp=CAU" group-title="01-TV PREMIUM juanpablo", JP:TNT
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
@@ -345,7 +352,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/43189
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="012-ENTRETENIMIENTO juanpablo", JP:TRUTV
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28041
+http://hidra.live:80/fmfukngo/Z395trjb2A/313192
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="012-ENTRETENIMIENTO juanpablo", JP:TRUTV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/264
