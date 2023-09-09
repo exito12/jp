@@ -179,20 +179,8 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Logo_cinema.jpg/revision/latest?cb=20120104013215" group-title="01-TV PREMIUM juanpablo", JP:GOLDEN PLUS
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28016
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/270
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
-http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/4003
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313109
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34892
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/215.m3u8
@@ -200,29 +188,21 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/215.m3u8
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/1155794
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/313098
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34890
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302665
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://redima.pro:8880/5555/5555/335
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/250?cb=20200601164432" group-title="012-ENTRETENIMIENTO juanpablo", JP:HOLA TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28064
