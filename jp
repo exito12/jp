@@ -92,9 +92,6 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/313127
 http://187.188.232.236:1021/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
-http://hidra.live:80/fmfukngo/Z395trjb2A/34801
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
 http://hidra.live:80/kupnwxyh/56y0SsYae2/313127
 
 
@@ -102,15 +99,10 @@ http://hidra.live:80/kupnwxyh/56y0SsYae2/313127
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302608
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/3574
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
 http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/4108
@@ -236,10 +228,10 @@ http://187.188.232.236:1021/play/a00i/index.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28064
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_7igv1vCWtjVSDZNAxJyy-M7hRc_bu28NA&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HISTORY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28022
+http://hidra.live:80/fmfukngo/Z395trjb2A/302673
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_7igv1vCWtjVSDZNAxJyy-M7hRc_bu28NA&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HISTORY
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4486
+http://hidra.live:80/kupnwxyh/56y0SsYae2/302673
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_7igv1vCWtjVSDZNAxJyy-M7hRc_bu28NA&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HISTORY
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/44
@@ -247,17 +239,26 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/44
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g6-d243XbQPSFEUODbKG1ZAvVSFKk3JoKw&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY HOME AND HEALTH
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27986
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/302672
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
+http://hidra.live:80/kupnwxyh/56y0SsYae2/312820
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302672
+http://hidra.live:80/kupnwxyh/56y0SsYae2/302672
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
+http://hidra.live:80/fmfukngo/Z395trjb2A/302672
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:HGTV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="08-MUSICA juanpablo", JP:MTV ACAPULCO SHORE PTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=50f0540f-bfa5-43c7-9f5a-3a52a8e27527&deviceDNT=0&deviceModel=0
@@ -512,25 +513,26 @@ https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327657
+http://hidra.live:80/kupnwxyh/56y0SsYae2/334153
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/3595
+http://hidra.live:80/kupnwxyh/56y0SsYae2/334154
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://alfa.7057460.xyz:2095/live/Jaime638/DOKOHOUSE1985/7537.m3u8
+http://hidra.live:80/fmfukngo/Z395trjb2A/334153
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4427
+http://hidra.live:80/fmfukngo/Z395trjb2A/334154
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
-hhttp://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327778
+http://hidra.live:80/fmfukngo/Z395trjb2A/334491
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14020
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15221
+http://hidra.live:80/kupnwxyh/56y0SsYae2/334492
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORTS ARG
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
