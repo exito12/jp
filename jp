@@ -12,6 +12,9 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/239
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
 http://hidra.live:80/kamuujtc/RUBmat123/313095
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HDa
+http://187.188.232.236:1021/play/a019/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest/scale-to-width-down/300?cb=20091209212832" group-title="06-NOTICIAS juanpablo", JP:EURONEWS
 https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
 
@@ -43,6 +46,9 @@ http://181.78.24.67:8010/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboxtreme.png" group-title="0-HBO juanpablo", JP:HBO XTREME
 http://190.149.66.90:4000/play/a00a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboxtreme.png" group-title="0-HBO juanpablo", JP:HBO XTREME
+http://187.188.232.236:1021/play/a01q/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/A%26E_Network_%281995%29.svg/revision/latest/scale-to-width-down/185?cb=20200612173818" group-title="01-TV PREMIUM juanpablo", JP:A&E
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
 
@@ -57,6 +63,12 @@ http://191.97.55.241:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/A%26E_Network_%281995%29.svg/revision/latest/scale-to-width-down/185?cb=20200612173818" group-title="01-TV PREMIUM juanpablo", JP:A&E
 http://redima.pro:8880/5555/5555/357
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/A%26E_Network_%281995%29.svg/revision/latest/scale-to-width-down/185?cb=20200612173818" group-title="01-TV PREMIUM juanpablo", JP:A&E
+http://187.188.232.236:1021/play/a00z/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/AMC.svg/revision/latest/scale-to-width-down/250?cb=20220423224921" group-title="01-TV PREMIUM juanpablo", JP:AMC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27970
@@ -66,6 +78,10 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27972
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest/scale-to-width-down/250?cb=20201126072546" group-title="01-TV PREMIUM juanpablo", JP:AXN
 http://191.97.55.241:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest/scale-to-width-down/250?cb=20201126072546" group-title="01-TV PREMIUM juanpablo", JP:AXN
+http://187.188.232.236:1021/play/a01g/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6nnh2N0KOtjBDPaLgieb0V4s3-4szvNc0A&usqp=CAU" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:ANIMAL PLANET
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27971
@@ -94,6 +110,11 @@ http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/4108
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4253
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
+http://187.188.232.236:1021/play/a00y/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzHnjNmh/CINECANAL.jpg" group-title="01-TV PREMIUM juanpablo", JP:CINECANAL HD
 http://191.97.55.241:8000/play/a03k/index.m3u8
@@ -200,8 +221,8 @@ http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/1155794
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
 
-
-
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
+http://187.188.232.236:1021/play/a00i/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/250?cb=20200601164432" group-title="012-ENTRETENIMIENTO juanpablo", JP:HOLA TV
