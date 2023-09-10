@@ -820,34 +820,34 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:19_HD.smil/mani
 https://nodep002.service.openstream.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepXi3aEOnDrkj0AVfCld__jbG0vImLZE1hQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:#0 HD
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/356
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59722.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepXi3aEOnDrkj0AVfCld__jbG0vImLZE1hQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:#0 HD
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21429
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
-http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14002
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59781.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/3575
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59786.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1521
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139169.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15215
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWWnGD-7tUzFh7KAAp3Db989h7go5mIAckQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:M ACCION
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21430
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59748.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWWnGD-7tUzFh7KAAp3Db989h7go5mIAckQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:M ACCION
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1925
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59762.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWWnGD-7tUzFh7KAAp3Db989h7go5mIAckQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:M ACCION
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4441
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59768.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:XTRM
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327785
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139177.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaL_DRaQDJS6jM7nSsishwSF6vf7oaz7e_Pw&usqp=CAU" group-title="08-MUSICA juanpablo", JP:PANAVISION
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -855,10 +855,11 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="03-ESPAÑA juanpablo", JP:CANAL CUATRO
 http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59707.ts
 
+#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="03-ESPAÑA juanpablo", JP:CANAL CUATRO
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59708.ts
 
-
-
-
+#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="03-ESPAÑA juanpablo", JP:CANAL CUATRO
+http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139157.ts
 
 
 
