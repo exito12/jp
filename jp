@@ -814,13 +814,13 @@ http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1913
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21437
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0UEQJoJFXMm1mo5CsQfJNeShMqw7YVn2Qw&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:ENERGY
-http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139180.ts
+http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5603
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouS9PnekvryU3hSNhZfzyBdOri_4bc51y-g&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:BOM CINE
-https://nodep002.service.openstream.es/SVoriginOperatorEdge4/smil:97_HD.smil/manifest.m3u8
+http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5566
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepXi3aEOnDrkj0AVfCld__jbG0vImLZE1hQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:#0 HD
-http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139143.ts
+http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5546
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepXi3aEOnDrkj0AVfCld__jbG0vImLZE1hQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:#0 HD
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21429
@@ -846,6 +846,9 @@ http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139186.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:XTRM
 http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139177.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:XTRM
+http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5751
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaL_DRaQDJS6jM7nSsishwSF6vf7oaz7e_Pw&usqp=CAU" group-title="08-MUSICA juanpablo", JP:PANAVISION
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -858,8 +861,8 @@ http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59708.ts
 #EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="03-ESPAÑA juanpablo", JP:CANAL CUATRO
 http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59707.ts
 
-
-
+#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="03-ESPAÑA juanpablo", JP:CANAL CUATRO
+http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5588
 
 
 
