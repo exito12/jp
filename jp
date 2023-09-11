@@ -525,8 +525,8 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/334153
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
 http://hidra.live:80/fmfukngo/Z395trjb2A/334154
 
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
+http://best4u.biz:8000/topsat133820/O9ouV76k/50473
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
@@ -809,6 +809,9 @@ http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5546
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepXi3aEOnDrkj0AVfCld__jbG0vImLZE1hQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:#0 HD
 http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5546
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepXi3aEOnDrkj0AVfCld__jbG0vImLZE1hQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:#0 HD
+http://best4u.biz:8000/topsat133820/O9ouV76k/50418
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6hhDzDnGYQbZXQiBAYxyrB_t5fxwsVv3FQ&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:AXN WHITE
 http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59786.ts
 
@@ -833,6 +836,9 @@ http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/139177.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:XTRM
 http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5751
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtF4ANeb7Q51cBOZ3JLCu6MQXFXH9Bl7g6BA&usqp=CAU" group-title="03-ESPAÑA juanpablo", JP:XTRM
+http://best4u.biz:8000/topsat133820/O9ouV76k/50617
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaL_DRaQDJS6jM7nSsishwSF6vf7oaz7e_Pw&usqp=CAU" group-title="08-MUSICA juanpablo", JP:PANAVISION
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -848,7 +854,8 @@ http://f1.millenium-ott.com:25443/live/Douma/V8UQGPDWTT/59707.ts
 #EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="03-ESPAÑA juanpablo", JP:CANAL CUATRO
 http://test.geegas.cfd:8080/231670591922140062/8511670591922140/5588
 
-
+#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="03-ESPAÑA juanpablo", JP:CANAL CUATRO
+http://best4u.biz:8000/topsat133820/O9ouV76k/50460
 
 
 
