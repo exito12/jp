@@ -945,7 +945,11 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n9KLcgEcQkA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:PAPILLON LA GRAN FUGA SD 2018
+https://server03.mxcdnab.online/newhls/68421f3147102aa5ddda10f717c9350e/EP.0.1.v0.1677475527.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n9KLcgEcQkA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:PAPILLON LA GRAN FUGA HD 2018
+https://server03.mxcdnab.online/newhls/68421f3147102aa5ddda10f717c9350e/EP.0.1.v0.1677475527.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/amO6BhGJ4so/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:THE LESSON SD 2023
 https://server17.mxcdnab.online/newhls/25ef8946a8ce029f54d084d884f080dd/EP.0.2.v0.1695024434.360.m3u8
