@@ -945,6 +945,31 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9Y0GTdd_cNs/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:LA PUERTA MAGICA 2023 SD
+https://server25.mxcdnab.online/newhls/d63a1af637bbc4476c0d379466e84485/EP.0.1.v1.1695137686.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9Y0GTdd_cNs/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:LA PUERTA MAGICA 2023 HD
+https://server25.mxcdnab.online/newhls/d63a1af637bbc4476c0d379466e84485/EP.0.1.v1.1695137686.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3QDiIQgldJ8/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:ATRAPADA BURNING BRIGHT SD 2010
+https://server46.mxcdnab.online/newhls/e6e69bb572c8fd5b39fc23fd3373d213/EP.0.2.v0.1676581579.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3QDiIQgldJ8/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:ATRAPADA BURNING BRIGHT HD 2010
+https://server46.mxcdnab.online/newhls/e6e69bb572c8fd5b39fc23fd3373d213/EP.0.0.v0.1677232846.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IdmWSqBZnFU/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:ATRAPADA TRAPPED SD 2002
+https://server23.mxcdnab.online/newhls/4987b5c0036623a4c63e1f511aee07e4/EP.0.1.v0.1682075131.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IdmWSqBZnFU/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:ATRAPADA TRAPPED HD 2002
+https://server23.mxcdnab.online/newhls/4987b5c0036623a4c63e1f511aee07e4/EP.0.1.v0.1682075131.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7927dcd47882a5d6304b73b6eaa82a0a1d465ae93269c6369a1b05a5c3cadda8._UY500_UX667_RI_TTW_.jpg" group-title="2-SUSPENSO juanpablo", JP:ATRAPADA EN LA OSCURIDAD SD 2013
+https://server26.mxcdnab.online/newhls/baadfaea3cca69379cd50fd4a9a37702/EP.0.1.v0.1677677353.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9STd1dfKr5ZznpkzzsmlKSkCyEx4Yyibt_A&usqp=CAU" group-title="1-ACCION juanpablo", JP:BLUE BEETLE op2 2023
+https://s12.ll1.lat/0:/p/blue_beetle_espanol_2023.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n9KLcgEcQkA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:PAPILLON LA GRAN FUGA SD 2018
 https://server03.mxcdnab.online/newhls/68421f3147102aa5ddda10f717c9350e/EP.0.1.v0.1677475527.360.m3u8
 
