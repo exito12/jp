@@ -961,6 +961,36 @@ https://server27.mxcdnab.online/newhls/cc35f7a60f7b5edcdadc44dac9afa0e7/EP.0.2.v
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HrDTNAmO1aU/mqdefault.jpg" group-title="6-DRAMA juanpablo", JP:A MILLONES DE KILOMETROS HD 2023
 https://server27.mxcdnab.online/newhls/cc35f7a60f7b5edcdadc44dac9afa0e7/EP.0.2.v0.1695036893.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e2d85c374520e3b9828ca4c6b2716fb52ba65c166d9c4cef1b5c78ab9c025423._UY500_UX667_RI_TTW_.jpg" group-title="9-MISTERIO juanpablo", JP:THE TUTOR op2 2023
+https://s13.ll1.lat/0:/p/el_tutor_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e2d85c374520e3b9828ca4c6b2716fb52ba65c166d9c4cef1b5c78ab9c025423._UY500_UX667_RI_TTW_.jpg" group-title="9-MISTERIO juanpablo", JP:THE TUTOR SD 2023
+https://server13.mxcdnab.online/newhls/ef4eca5b02f7daec89b8feec834be798/EP.0.1.v1.1693974987.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e2d85c374520e3b9828ca4c6b2716fb52ba65c166d9c4cef1b5c78ab9c025423._UY500_UX667_RI_TTW_.jpg" group-title="9-MISTERIO juanpablo", JP:THE TUTOR HD 2023
+https://server13.mxcdnab.online/newhls/ef4eca5b02f7daec89b8feec834be798/EP.0.1.v1.1693974987.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.tvp.pl/images/d/1/9/uid_d19efd043bb545e9980e09451cd69183_width_1200_play_0_pos_0_gs_0_height_630.jpg" group-title="6-DRAMA juanpablo", JP:FILIP AL SERVICIO DEL REICH SD 2023
+https://server25.mxcdnab.online/newhls/64cdf5481b3d53e539c86269c7849cb3/EP.0.1.v0.1695223815.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.tvp.pl/images/d/1/9/uid_d19efd043bb545e9980e09451cd69183_width_1200_play_0_pos_0_gs_0_height_630.jpg" group-title="6-DRAMA juanpablo", JP:FILIP AL SERVICIO DEL REICH HD 2023
+https://server25.mxcdnab.online/newhls/64cdf5481b3d53e539c86269c7849cb3/EP.0.1.v0.1695223815.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p19303484_v_h8_ab.jpg" group-title="2-SUSPENSO juanpablo", JP:GHOST LIGTH 2021 SD
+https://server27.mxcdnab.online/newhls/81f716a5b543ebf88c56bc0d96799b0d/EP.0.2.v0.1695294143.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p19303484_v_h8_ab.jpg" group-title="2-SUSPENSO juanpablo", JP:GHOST LIGTH 2021 HD
+https://server27.mxcdnab.online/newhls/81f716a5b543ebf88c56bc0d96799b0d/EP.0.2.v0.1695294143.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p19303484_v_h8_ab.jpg" group-title="2-SUSPENSO juanpablo", JP:GHOST LIGTH 2021 FHD
+https://server27.mxcdnab.online/newhls/81f716a5b543ebf88c56bc0d96799b0d/EP.0.2.v0.1695294143.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GMcN1LV7DFE/mqdefault.jpg" group-title="6-DRAMA juanpablo", JP:EISMAYER SD 2022
+https://server21.mxcdnab.online/newhls/b986405622d3c335c4e09d8ef4adb64d/EP.0.1.v0.1695302109.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GMcN1LV7DFE/mqdefault.jpg" group-title="6-DRAMA juanpablo", JP:EISMAYER HD 2022
+https://server21.mxcdnab.online/newhls/b986405622d3c335c4e09d8ef4adb64d/EP.0.1.v0.1695302109.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9Y0GTdd_cNs/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:LA PUERTA MAGICA 2023 SD
 https://server25.mxcdnab.online/newhls/d63a1af637bbc4476c0d379466e84485/EP.0.1.v1.1695137686.360.m3u8
 
