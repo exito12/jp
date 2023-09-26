@@ -940,7 +940,41 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kitaKs6b8TA/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS 4 REBORN SD 2022
+https://server11.mxcdnab.online/newhls/9df8f6e7db83540e925f9cd76225de96/EP.0.2.v4.1693910112.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kitaKs6b8TA/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS 4 REBORN HD 2022
+https://server11.mxcdnab.online/newhls/9df8f6e7db83540e925f9cd76225de96/EP.0.2.v4.1693910112.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrR6Tup9J7yDML3hoEyhni1ZBReWRUcfm3sA&usqp=CAU" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS 3 SD 2017
+https://server02.mxcdnab.online/newhls/9ced69e4519c2f424887e2b4eeed1f97/EP.0.1.v0.1677342226.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrR6Tup9J7yDML3hoEyhni1ZBReWRUcfm3sA&usqp=CAU" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS 3 HD 2017
+https://server02.mxcdnab.online/newhls/9ced69e4519c2f424887e2b4eeed1f97/EP.0.1.v0.1677342226.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img14.tokyvideo.com/videos/274/274738/previews/previews_0012_custom_1686892042.6245.jpg" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS 2 SD 2003
+https://server25.mxcdnab.online/newhls/0ad974c5167a6c740ba6f3a0f0186050/EP.0.1.v0.1677375174.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://img14.tokyvideo.com/videos/274/274738/previews/previews_0012_custom_1686892042.6245.jpg" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS 2 HD 2003
+https://server25.mxcdnab.online/newhls/0ad974c5167a6c740ba6f3a0f0186050/EP.0.1.v0.1677375174.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7iLtMribJXE/mqdefault.jpg" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS SD 2001
+https://server13.mxcdnab.online/newhls/575837dc864eda558b8012bb791e4af3/EP.0.1.v0.1677582535.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7iLtMribJXE/mqdefault.jpg" group-title="3-TERROR juanpablo", JP:JEEPERS CREEPERS HD 2001
+https://server13.mxcdnab.online/newhls/575837dc864eda558b8012bb791e4af3/EP.0.1.v0.1677582535.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ARlVEepz2PA/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:EL HOMBRE DEL SACO SD 2023
+https://server09.mxcdnab.online/newhls/25c5e1776f09bba14d98bba952f95e0d/EP.0.1.v0.1695659429.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ARlVEepz2PA/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:EL HOMBRE DEL SACO HD 2023
+https://server09.mxcdnab.online/newhls/25c5e1776f09bba14d98bba952f95e0d/EP.0.1.v0.1695659429.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWfXO9sTzilJG1sEjUioqxgOKRM6jHhRR5g&usqp=CAU" group-title="10-CRIMEN juanpablo", JP:JOHNNY AND CLYDE SD 2023
+https://server08.mxcdnab.online/newhls/229be9ed57fb69387ada964a24268412/EP.0.0.v0.1695660500.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMWfXO9sTzilJG1sEjUioqxgOKRM6jHhRR5g&usqp=CAU" group-title="10-CRIMEN juanpablo", JP:JOHNNY AND CLYDE HD 2023
+https://server08.mxcdnab.online/newhls/229be9ed57fb69387ada964a24268412/EP.0.0.v0.1695660500.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0wd0alWZyIiNO_UU2lqXEbDwKjluMznrEQ&usqp=CAU" group-title="10-CRIMEN juanpablo", JP:EL SOSPECHOSO NUMERO 12 SD 2019
 https://server43.mxcdnab.online/newhls/d164fccace1804a01a277acb881f092e/EP.0.1.v0.1676377483.360.m3u8
