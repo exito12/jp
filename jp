@@ -943,6 +943,8 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://kinefilia.files.wordpress.com/2019/05/replicas-1.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:REPLICAS SD 2018
 https://server02.mxcdnab.online/newhls/24a1d8042797cacd91ec5c7419ea48f4/EP.0.1.v0.1677446835.360.m3u8
 
@@ -1080,6 +1082,15 @@ https://server12.mxcdnab.online/newhls/fb6e92510f0b253275803fc85bc3a9dd/EP.0.2.v
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuEA7Cy3AW3QQ6swTgAJUGllRf7FraMmg-g&usqp=CAU" group-title="9-MISTERIO juanpablo", JP:LA LIBRETA NEGRA 2023 HD
 https://server12.mxcdnab.online/newhls/fb6e92510f0b253275803fc85bc3a9dd/EP.0.2.v0.1695467205.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j0f3zseRfPM675EjxNmN4LfixZMKYJmz_Q&usqp=CAU" group-title="3-TERROR juanpablo", JP:HABLAME 2023 SD
+https://server16.mxcdnab.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.2.v2.1694513565.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j0f3zseRfPM675EjxNmN4LfixZMKYJmz_Q&usqp=CAU" group-title="3-TERROR juanpablo", JP:HABLAME 2023 HD
+https://server16.mxcdnab.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.2.v2.1694513565.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j0f3zseRfPM675EjxNmN4LfixZMKYJmz_Q&usqp=CAU" group-title="3-TERROR juanpablo", JP:HABLAME 2023 op2
+https://s12.ll1.lat/0:/p/hablame_espanol_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEMH_bEVzyvfrlHzKkV9wVj58tQ3BCJWHnA&usqp=CAU" group-title="3-TERROR juanpablo", JP:MEDUSA VENOM 2023 SD
 https://server13.mxcdnab.online/newhls/1ac620bda5c558f15999ad1dc3da23e0/EP.0.2.v0.1695470381.360.m3u8
@@ -1777,9 +1788,6 @@ https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tOvvSz1NslY/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:UN DIA Y MEDIO HD 2023
 https://pc-09.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/503c34b9a5ab5cf9a8c4afaa441e8b51/EP.0.2.v1.1693854448.720.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8j0f3zseRfPM675EjxNmN4LfixZMKYJmz_Q&usqp=CAU" group-title="3-TERROR juanpablo", JP:HABLAME 2023 op2
-https://s17.ll1.lat/0:/hablame_espanol_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cHBDyGwrIqo/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:HUESERA 2023 op2
 https://s00.ll1.lat/0:/p/huesera_espanol_2023.mp4
