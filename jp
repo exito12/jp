@@ -103,10 +103,8 @@ http://hidra.live:80/kupnwxyh/56y0SsYae2/313127
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
+http://hidra.live:80/fmfukngo/Z395trjb2A/335121.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
-http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/4108
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316" group-title="03-ESPAÑA juanpablo", JP:ANTENA 3
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4253
@@ -519,20 +517,13 @@ https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://hidra.live:80/kupnwxyh/56y0SsYae2/334153
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://hidra.live:80/kupnwxyh/56y0SsYae2/334154
+http://hidra.live:80/fmfukngo/Z395trjb2A/335167.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://hidra.live:80/fmfukngo/Z395trjb2A/334153
+http://hidra.live:80/fmfukngo/Z395trjb2A/335168.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://hidra.live:80/fmfukngo/Z395trjb2A/334154
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838" group-title="03-ESPAÑA juanpablo", JP:DMAX
-http://best4u.biz:8000/topsat133820/O9ouV76k/50473
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest/scale-to-width-down/220?cb=20171026161818" group-title="03-ESPAÑA juanpablo", JP:TOROS
