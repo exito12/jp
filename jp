@@ -146,23 +146,22 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27991
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRd8pU-84KsMoJlu5FsGwmPyYBKW_WmPUx-g&usqp=CAU" group-title="012-ENTRETENIMIENTO juanpablo", JP:E ENTRETENIMIENTO
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28069
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN ARG
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN ARG
-http://latintvec.com:43201/pedroperez/vBe949SYAY/166827
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN CL
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/157048
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN CL
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/21
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN CL
-http://201.219.247.118:8000/play/a07a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN MX
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN MX
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19
@@ -170,8 +169,6 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/19
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqxsFf6F/ESPN.jpg" group-title="07-DEPORTES juanpablo", JP:ESPN MX
 http://177.234.230.226:8010/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://laguia.tv/_nuxt/img/espn2_256.08d6401.png" group-title="07-DEPORTES juanpablo", JP:ESPN 2 MX
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
 
 #EXTINF:-1 tvg-logo="https://laguia.tv/_nuxt/img/espn2_256.08d6401.png" group-title="07-DEPORTES juanpablo", JP:ESPN 2 MX
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/1
@@ -179,11 +176,6 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34625
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3 CL
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34636
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3 CL
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/23
@@ -380,14 +372,17 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LMQrLq4/fmfusion.jpg" group-title="09-PUBLICOS juanpablo", JP:FM FUSION
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2 CL
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34633
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2 ARG
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34642
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyJjy67B/loco.jpg" group-title="09-PUBLICOS juanpablo", JP:LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -410,8 +405,14 @@ https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Primal_logo.jpeg/revision/latest/scale-to-width-down/300?cb=20190520202116" group-title="09-PUBLICOS juanpablo", JP:PRIMAL
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rSM7WB3/MADRID.jpg" group-title="07-DEPORTES juanpablo", JP:REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1920x1080.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66dhswFH/souparkpluto.jpg" group-title="09-PUBLICOS juanpablo", JP:SOUTH PARK PTV
 https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
@@ -470,24 +471,21 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/219.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Fox_%281994%29.svg/revision/latest/scale-to-width-down/200?cb=20200722000146" group-title="01-TV PREMIUM juanpablo", JP:FOX
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28003
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 1 MX
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS CL
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34630
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/69.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
 http://187.102.208.155:8000/play/a0ar/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/220?cb=20160817080029" group-title="012-ENTRETENIMIENTO juanpablo", JP:GLITZ
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28014
@@ -538,29 +536,15 @@ http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14020
 
 
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORTS ARG
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORTS 2 ARG
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34612
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORTS  CO
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43430
+
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT2 CO
 http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/43431
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN1XFv-HNn8nW_I-xWlpmJxvmm44kC7ZhrQ&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
-http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN1XFv-HNn8nW_I-xWlpmJxvmm44kC7ZhrQ&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4380
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN1XFv-HNn8nW_I-xWlpmJxvmm44kC7ZhrQ&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RxNFbqP2D6K9A7s1ACPnSJ_9MEhUkXh8Wg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS PLUS
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34691
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RxNFbqP2D6K9A7s1ACPnSJ_9MEhUkXh8Wg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS PLUS
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/24
@@ -578,37 +562,13 @@ http://190.149.66.90:4000/play/a00a/index.m3u8
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327637
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
-http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/88484
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21450
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327635
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4479
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRiewh5IRJaGCy0sv3lk6LRntTGL1kn1LAg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN F1
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34701
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRiewh5IRJaGCy0sv3lk6LRntTGL1kn1LAg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN F1
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15257
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
 http://cord-cutter.net:8080/Pdriver204@gmail.com/paul@2022/146291
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34714
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34711
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIJ6PJRiyDHbNnaFyh49_P5ZX3Xkf6aK12g&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:UFC
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318014
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_z-Rv01Dolr-XzFMsxHyZPCrnTuJx_fqWA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WWE
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34716
@@ -616,32 +576,18 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34716
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Logo_Adrenalina-%2820q6%29.png/revision/latest/scale-to-width-down/300?cb=20230606232757" group-title="07-DEPORTES juanpablo", JP:ADRENALINA SPORT
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 1
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/206.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 1
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1918
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 1
-http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14084
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 1
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21442
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 1
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1833
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 1
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4468
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 2
-http://obshd.tv:25461/live:kifa.sh/HABu7GgPZJTJ/1834
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 2
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/141.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 2
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4469
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="09-PUBLICOS juanpablo", JP:KANAL D DRAMA PTV
 https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
