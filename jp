@@ -906,8 +906,23 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKztsBHnVeso_vMNznP8CYzGN7ccMcSopFTQ&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:NO MOLESTAR 2023 DO NOT DISTURB 2023 SD
+https://server10.mxcdnab.online/newhls/00057ae47fa49156a90556dfae1bd177/EP.0.2.v0.1696068848.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKztsBHnVeso_vMNznP8CYzGN7ccMcSopFTQ&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:NO MOLESTAR 2023 DO NOT DISTURB 2023 HD
+https://server10.mxcdnab.online/newhls/00057ae47fa49156a90556dfae1bd177/EP.0.2.v0.1696068848.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d1S4KldJzTs/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:NOWHERE 2023 SD
+https://server09.mxcdnab.online/newhls/1ba0ea0bb65e505d9e003fa52577d499/EP.0.2.v0.1696068847.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d1S4KldJzTs/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:NOWHERE 2023 HD
+https://server09.mxcdnab.online/newhls/1ba0ea0bb65e505d9e003fa52577d499/EP.0.2.v0.1696068847.720.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.la-fm.es/wp-content/uploads/2023/09/5b49b05d-dede-11c9-2f48-3c69becb20bc.jpg" group-title="4-COMEDIA juanpablo", JP:FLORA E HIJO 2023 SD
+https://server13.mxcdnab.online/newhls/773e6dc9243b4bf8c512315bec69f1ce/EP.0.2.v0.1696065664.360.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.la-fm.es/wp-content/uploads/2023/09/5b49b05d-dede-11c9-2f48-3c69becb20bc.jpg" group-title="4-COMEDIA juanpablo", JP:FLORA E HIJO 2023 HD
+https://server13.mxcdnab.online/newhls/773e6dc9243b4bf8c512315bec69f1ce/EP.0.2.v0.1696065664.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://avanzada.mx/wp-content/uploads/2023/09/tcreatro.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:THE CREATOR RESISTENCIA 2023 SD
 https://server27.mxcdnab.online/newhls/cd2d56c8435fed3ed1570b1b6331d023/EP.0.2.v0.1696066970.360.m3u8
