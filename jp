@@ -170,9 +170,6 @@ http://177.234.230.226:8010/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://laguia.tv/_nuxt/img/espn2_256.08d6401.png" group-title="07-DEPORTES juanpablo", JP:ESPN 2
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/1
 
-#EXTINF:-1 tvg-logo="https://laguia.tv/_nuxt/img/espn2_256.08d6401.png" group-title="07-DEPORTES juanpablo", JP:ESPN 2
-http://179.51.163.250:8000/play/a016/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 
