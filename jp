@@ -176,6 +176,8 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3 CL
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/23
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBuBnjvSTUYacAMKPNdc1_4jJVPu_VIH0yw&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 3 CL
+http://181.119.67.75:16123/play/ch21
 
 
 
@@ -382,7 +384,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9DpwyC/FS1.png" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS 2
+http://200.24.204.242:6020/play/a0ay/index.m3u8
 
 
 
@@ -487,8 +490,8 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
 http://187.102.208.155:8000/play/a0ar/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/300?cb=20180810230802" group-title="07-DEPORTES juanpablo", JP:FOX SPORTS
+http://200.24.204.242:6020/play/a0a9/index.m3u8
 
 
 
@@ -538,16 +541,16 @@ http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14020
 
 
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT2 COa
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT
 http://hidra.live:80/fmfukngo/Z395trjb2A/121857.ts
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT2 COo
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT
 http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/244532
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT2 CO
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT
 http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/244537
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT2 CO
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="07-DEPORTES juanpablo", JP:DIRECTV SPORT
 http://hidra.live:80/fmfukngo/Z395trjb2A/123885.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN1XFv-HNn8nW_I-xWlpmJxvmm44kC7ZhrQ&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:WIN SPORTS
@@ -570,7 +573,7 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/34617.ts
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/196
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKu_ab3jk-LU1FpmE_alDv46FMjyao8AXbA&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4479
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/110232
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRiewh5IRJaGCy0sv3lk6LRntTGL1kn1LAg&usqp=CAU" group-title="07-DEPORTES juanpablo", JP:DAZN F1
 http://hidra.live:80/fmfukngo/Z395trjb2A/34701.ts
@@ -588,7 +591,8 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/302603.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/34709.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eurosport_1990s.svg/revision/latest/scale-to-width-down/250?cb=20180316071851" group-title="07-DEPORTES juanpablo", JP:EUROSPORT 2
-http://hidra.live:80/fmfukngo/Z395trjb2A/34710.ts
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/110165
+
 
 
 
