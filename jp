@@ -35,8 +35,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27993
 
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboxtreme.png" group-title="0-HBO juanpablo", JP:HBO XTREME
-http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/44341
-
+http://179.51.163.250:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboxtreme.png" group-title="0-HBO juanpablo", JP:HBO XTREME
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
@@ -199,7 +198,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28016
 
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/215.m3u8
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/49
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hboplus.png" group-title="0-HBO juanpablo", JP:HBO PLUS HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
@@ -211,7 +210,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
 
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
-http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/1155794
+http://179.51.163.250:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="0-HBO juanpablo", JP:HBO 2 HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
