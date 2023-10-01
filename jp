@@ -906,6 +906,22 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8orl0CukDiyuya5OoOP_ca_-rudeZYcGGHw&usqp=CAU" group-title="1-ACCION juanpablo", JP:THE CAPTAIN 2019 SD
+https://server09.mxcdnab.online/newhls/517583638df885ed4ba14e754e316dab/EP.0.2.v0.1679323496.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8orl0CukDiyuya5OoOP_ca_-rudeZYcGGHw&usqp=CAU" group-title="1-ACCION juanpablo", JP:THE CAPTAIN 2019 HD
+https://server09.mxcdnab.online/newhls/517583638df885ed4ba14e754e316dab/EP.0.2.v0.1679323496.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.theplaylist.net/wp-content/uploads/2021/06/14174946/gaia-trailer-750x400.jpg" group-title="3-TERROR juanpablo", JP:GAIA 2021 SD subt
+https://server36.mxcdnab.online/newhls/c574aea8943fa61259a1eb4ebc15a7db/EP.0.0.v0.1676862903.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.theplaylist.net/wp-content/uploads/2021/06/14174946/gaia-trailer-750x400.jpg" group-title="3-TERROR juanpablo", JP:GAIA 2021 HD subt
+https://server36.mxcdnab.online/newhls/c574aea8943fa61259a1eb4ebc15a7db/EP.0.0.v0.1676862903.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.theplaylist.net/wp-content/uploads/2021/06/14174946/gaia-trailer-750x400.jpg" group-title="3-TERROR juanpablo", JP:GAIA 2021 FHD subt
+https://server36.mxcdnab.online/newhls/c574aea8943fa61259a1eb4ebc15a7db/EP.0.0.v0.1676862903.1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKztsBHnVeso_vMNznP8CYzGN7ccMcSopFTQ&usqp=CAU" group-title="4-COMEDIA juanpablo", JP:NO MOLESTAR 2023 DO NOT DISTURB 2023 SD
 https://server10.mxcdnab.online/newhls/00057ae47fa49156a90556dfae1bd177/EP.0.2.v0.1696068848.360.m3u8
 
@@ -930,10 +946,10 @@ https://server27.mxcdnab.online/newhls/cd2d56c8435fed3ed1570b1b6331d023/EP.0.2.v
 #EXTINF:-1 tvg-logo="https://avanzada.mx/wp-content/uploads/2023/09/tcreatro.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:THE CREATOR RESISTENCIA 2023 HD
 https://server27.mxcdnab.online/newhls/cd2d56c8435fed3ed1570b1b6331d023/EP.0.2.v0.1696066970.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d1S4KldJzTs/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:NOWHERE 2023 SD opVL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d1S4KldJzTs/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:NOWHERE 2023 SD
 https://server09.mxcdnab.online/newhls/1ba0ea0bb65e505d9e003fa52577d499/EP.0.2.v0.1696068847.360.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d1S4KldJzTs/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:NOWHERE 2023 HD opVL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d1S4KldJzTs/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:NOWHERE 2023 HD
 https://server09.mxcdnab.online/newhls/1ba0ea0bb65e505d9e003fa52577d499/EP.0.2.v0.1696068847.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7xItsBc4DCI/maxresdefault.jpg" group-title="12-ANIMACION juanpablo", JP:GUARDIANES DEL MUSEO 2023 SD
