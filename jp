@@ -905,7 +905,29 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+#EXTINF:-1 tvg-logo="https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2019/04/26/ENTERRADOS-poster.jpg" group-title="6-DRAMA juanpablo", JP:ENTERRADOS SD 2019
+https://server16.mxcdnab.online/newhls/c8a8e5f4ef3be8490d2c216f6306aceb/EP.0.1.v0.1677481175.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2019/04/26/ENTERRADOS-poster.jpg" group-title="6-DRAMA juanpablo", JP:ENTERRADOS HD 2019
+https://server16.mxcdnab.online/newhls/c8a8e5f4ef3be8490d2c216f6306aceb/EP.0.1.v0.1677481175.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1eLbjMGA2IE/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:VANGUARD SD 2020
+https://server47.mxcdnab.online/newhls/b2a7e368f2554ef9de1397994f626547/EP.0.2.v0.1676532990.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1eLbjMGA2IE/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:VANGUARD HD 2020
+https://server47.mxcdnab.online/newhls/b2a7e368f2554ef9de1397994f626547/EP.0.2.v0.1676532990.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ShxYGbsmjw4/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:WARRIORS OF THE RAINBOW SEEDIQ BALE 2011 GUERREROS DEL ARCOIRIS SD
+https://server12.mxcdnab.online/newhls/ec391bf113d44b2335d6c9ba121823eb/EP.0.1.v0.1677266613.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ShxYGbsmjw4/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:WARRIORS OF THE RAINBOW SEEDIQ BALE 2011 GUERREROS DEL ARCOIRIS HD
+https://server12.mxcdnab.online/newhls/ec391bf113d44b2335d6c9ba121823eb/EP.0.1.v0.1677266613.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/493/8223/342f22f468f13371556f0c61-l.jpg" group-title="12-ANIMACION juanpablo", JP:ENREDADOS POR SIEMPRE SD 2012
+https://server22.mxcdnab.online/newhls/3f32b34cc2116b7f18b47a77bb6489e9/EP.0.1.v0.1696260685.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/493/8223/342f22f468f13371556f0c61-l.jpg" group-title="12-ANIMACION juanpablo", JP:ENREDADOS POR SIEMPRE HD 2012
+https://server22.mxcdnab.online/newhls/3f32b34cc2116b7f18b47a77bb6489e9/EP.0.1.v0.1696260685.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8orl0CukDiyuya5OoOP_ca_-rudeZYcGGHw&usqp=CAU" group-title="1-ACCION juanpablo", JP:THE CAPTAIN 2019 SD
 https://server09.mxcdnab.online/newhls/517583638df885ed4ba14e754e316dab/EP.0.2.v0.1679323496.360.m3u8
