@@ -841,11 +841,6 @@ http://best4u.biz:8000/topsat133820/O9ouV76k/50460
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mIm_QnxKEZA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:REPTILE 2023 opTemp
-https://n7.tg-drive.eu.org/b4fa4514fc9ae8115ff23805435094
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mIm_QnxKEZA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:REPTILE 2023 opTemp
-https://n7.tg-drive.eu.org/b4fa4514fc9ae8115ff23805435094
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/647e2213ca3bc34f02cfbc21bad9e9267ccf6e89e07ea33e2c2fa03e2ca762ca.jpg" group-title="6-DRAMA juanpablo", JP:CELOS QUE MATAN 2018 NO ONE WOULD TELL SD
 https://n0.tg-drive.eu.org/ea9cd02940789b3863857361419812
@@ -904,6 +899,23 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mIm_QnxKEZA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:REPTILES 2023 SD
+https://server08.mxcdnab.online/newhls/56c093ad83713ab6fb1a392677d4610d/EP.0.2.v0.1696067047.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mIm_QnxKEZA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:REPTILES 2023 HD
+https://server08.mxcdnab.online/newhls/56c093ad83713ab6fb1a392677d4610d/EP.0.2.v0.1696067047.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mIm_QnxKEZA/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:REPTILES 2023 FHD
+https://server08.mxcdnab.online/newhls/56c093ad83713ab6fb1a392677d4610d/EP.0.2.v0.1696067047.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EHzlTQ45ET4/mqdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:CHAOS WALKING SD CAOS EL INICIO 2021
+https://server05.mxcdnab.online/newhls/b6bba6ed242660dbe735c0f31899efeb/EP.0.2.v2.1676636697.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EHzlTQ45ET4/mqdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:CHAOS WALKING HD CAOS EL INICIO 2021
+https://server05.mxcdnab.online/newhls/b6bba6ed242660dbe735c0f31899efeb/EP.0.2.v2.1676636697.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2019/04/26/ENTERRADOS-poster.jpg" group-title="6-DRAMA juanpablo", JP:ENTERRADOS SD 2019
 https://server16.mxcdnab.online/newhls/c8a8e5f4ef3be8490d2c216f6306aceb/EP.0.1.v0.1677481175.360.m3u8
