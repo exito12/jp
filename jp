@@ -1254,6 +1254,15 @@ https://server02.mxcdnab.online/newhls/f6d95b8a09567d342a10253007863645/EP.0.0.v
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/875e58207937a3b1e272c5cc53b914f876d571a084e3438329416a2e5747efc6.jpg" group-title="31-WESTERN juanpablo", JP:HOSTILES 2017 HD subt
 https://server02.mxcdnab.online/newhls/f6d95b8a09567d342a10253007863645/EP.0.0.v0.1677580428.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets-adnradio-cl.cdn.ampproject.org/ii/w820/s/assets.adnradio.cl//2023/05/Haunted-Mansion-mansi%C3%B3n-embrujada-tr%C3%A1iler.jpg" group-title="3-TERROR juanpablo", JP:MANSION EMBRUJADA 2023 SD HAUNTED MANSION
+https://server27.mxcdnab.online/newhls/99775fb57c8ac8fe1322c4c7a47425d7/EP.0.2.v1.1690772492.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-adnradio-cl.cdn.ampproject.org/ii/w820/s/assets.adnradio.cl//2023/05/Haunted-Mansion-mansi%C3%B3n-embrujada-tr%C3%A1iler.jpg" group-title="3-TERROR juanpablo", JP:MANSION EMBRUJADA 2023 HD HAUNTED MANSION
+https://server27.mxcdnab.online/newhls/99775fb57c8ac8fe1322c4c7a47425d7/EP.0.2.v1.1690772492.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-adnradio-cl.cdn.ampproject.org/ii/w820/s/assets.adnradio.cl//2023/05/Haunted-Mansion-mansi%C3%B3n-embrujada-tr%C3%A1iler.jpg" group-title="3-TERROR juanpablo", JP:MANSION EMBRUJADA 2023 op2 HAUNTED MANSION
+https://s14.ll1.lat/0:/p/mansion_embrujada_espanol_2023.mp4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAlzMg-iQG5FcoKAOxuPw62gLyqYZNo440Q&usqp=CAU" group-title="3-TERROR juanpablo", JP:TEMBLORES SD 1990
 https://server46.mxcdnab.online/newhls/8bb006e414d9f49da2b6122aaf7c4f9a/EP.0.1.v0.1677548306.360.m3u8
 
@@ -1503,6 +1512,9 @@ https://server21.mxcdnab.online/newhls/8d6e2c4883fbcf5b172d0b4804bf6a7a/EP.0.2.v
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSm6MLHSPMyNzrikt7FJm4Jzsu47_dERmClQ&usqp=CAU" group-title="1-ACCION juanpablo", JP:INDESTRUCTIBLES 4 HD 2023
 https://server21.mxcdnab.online/newhls/8d6e2c4883fbcf5b172d0b4804bf6a7a/EP.0.2.v1.1695472293.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSm6MLHSPMyNzrikt7FJm4Jzsu47_dERmClQ&usqp=CAU" group-title="1-ACCION juanpablo", JP:INDESTRUCTIBLES 4 op2 2023
+https://s17.ll1.lat/0:/los_indestructibles_4_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSm6MLHSPMyNzrikt7FJm4Jzsu47_dERmClQ&usqp=CAU" group-title="1-ACCION juanpablo", JP:INDESTRUCTIBLES 4 cam 2023
 https://n4.tg-drive.eu.org/09b30d6d5f8d0b8e42aa56f2389972
