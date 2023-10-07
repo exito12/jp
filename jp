@@ -909,7 +909,14 @@ https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 
 
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6707/13c56519362e1cdaff4a19865b39a0e76c71d077_hq.jpg" group-title="12-ANIMACION juanpablo", JP:BAILARINA SD 2016
+https://server47.mxcdnab.online/newhls/fc684a7c7344febefa422f9bdf31f468/EP.0.1.v0.1677870374.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6707/13c56519362e1cdaff4a19865b39a0e76c71d077_hq.jpg" group-title="12-ANIMACION juanpablo", JP:BAILARINA HD 2016
+https://server47.mxcdnab.online/newhls/fc684a7c7344febefa422f9bdf31f468/EP.0.1.v0.1677870374.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nb62WzZw-xecPIEFQ0A5Fyq7xoFSZDLfOg&usqp=CAU" group-title="2-SUSPENSO juanpablo", JP:CEGUERA SD 2008
+https://server01.mxcdnab.online/newhls/352f4659ade2a2a08fb2b05ed5c1af15/EP.0.1.v0.1677298219.360.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTEwMTU1NTEtNjMyZi00M2Q2LTkwM2EtNGY3YjQzNzczZWFmXkEyXkFqcGdeQXVyMjM5Mzc1OTY@._V1_.jpg" group-title="2-SUSPENSO juanpablo", JP:US OR THEM 2023 SD
 https://server12.mxcdnab.online/newhls/4b25f6322a34bfdc8c4d4d11863fbc97/EP.0.2.v1.1696506427.360.m3u8
