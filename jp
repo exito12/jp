@@ -928,7 +928,11 @@ https://new2.edithxbase.eu.org/1758/free-2144648577
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2013/04/220964-trailer-elegidos-dark-skies-alienigenas.jpg" group-title="2-SUSPENSO juanpablo", JP:LOS ELEGIDOS SD DARK SKIES 2013
+https://server04.mxcdnab.online/newhls/0bd82091a62ab1521b0bbd11893f0a5c/EP.0.1.v0.1677243469.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2013/04/220964-trailer-elegidos-dark-skies-alienigenas.jpg" group-title="2-SUSPENSO juanpablo", JP:LOS ELEGIDOS HD DARK SKIES 2013
+https://server04.mxcdnab.online/newhls/0bd82091a62ab1521b0bbd11893f0a5c/EP.0.1.v0.1677243469.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/10/los-diamantes-de-la-discordia-1.jpg" group-title="6-DRAMA juanpablo", JP:LOS DIAMANTES DE LA DISCORDIA SD 2023
 https://server16.mxcdnab.online/newhls/ae403e3d8356cf30151437821362d3d8/EP.0.2.v0.1697288443.360.m3u8
