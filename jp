@@ -930,7 +930,29 @@ https://new2.edithxbase.eu.org/1758/free-2144648577
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.jns.org/uploads/2021/12/5kfe7rS-880x495.jpg" group-title="15-GUERRA juanpablo", JP:MISSION SKY 2021 SD PILOTOS DE GUERRA
+https://server31.peliscdn.online/newhls/e88eaee5b5966510a959bd2df0aeaa48/EP.0.2.v0.1675957134.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.jns.org/uploads/2021/12/5kfe7rS-880x495.jpg" group-title="15-GUERRA juanpablo", JP:MISSION SKY 2021 HD PILOTOS DE GUERRA
+https://server31.peliscdn.online/newhls/e88eaee5b5966510a959bd2df0aeaa48/EP.0.2.v0.1675957134.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0eJMrbNJjw8/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:SOLDADO VIRTUAL 2022 ONE MORE SHOT 2022 SD VIRTUAL FIGHTER
+https://server19.peliscdn.online/newhls/e4aae92d0c3d83840c4877db661e41fc/EP.0.1.v0.1697534972.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0eJMrbNJjw8/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:SOLDADO VIRTUAL 2022 ONE MORE SHOT 2022 HD VIRTUAL FIGHTER
+https://server19.peliscdn.online/newhls/e4aae92d0c3d83840c4877db661e41fc/EP.0.1.v0.1697534972.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/554d716032f793091e9a5200ce771c29fa22622936b3e86ce8ab6ac42d2396da.jpg" group-title="5-AVENTURA juanpablo", JP:TORMENTA DE METEORITOS 2010 SD METEOR STORM
+https://server22.peliscdn.online/newhls/401880f179933df8b04231a645a3827d/EP.0.2.v0.1697534616.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/554d716032f793091e9a5200ce771c29fa22622936b3e86ce8ab6ac42d2396da.jpg" group-title="5-AVENTURA juanpablo", JP:TORMENTA DE METEORITOS 2010 HD METEOR STORM
+https://server22.peliscdn.online/newhls/401880f179933df8b04231a645a3827d/EP.0.2.v0.1697534616.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://sharinglifesmoments.com/wp-content/uploads/2022/09/image.jpg" group-title="4-COMEDIA juanpablo", JP:LA MAYOR HERENCIA 2022 THE GREATEST INHERITANCE SD
+https://server18.peliscdn.online/newhls/825d07108a373ed99781aa60ff6c9205/EP.0.2.v0.1697533988.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://sharinglifesmoments.com/wp-content/uploads/2022/09/image.jpg" group-title="4-COMEDIA juanpablo", JP:LA MAYOR HERENCIA 2022 THE GREATEST INHERITANCE HD
+https://server18.peliscdn.online/newhls/825d07108a373ed99781aa60ff6c9205/EP.0.2.v0.1697533988.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE5MTY1NzEtZjllMC00YzFjLTkyZTYtZTQ3NDUwZjQ1ZmZmXkEyXkFqcGdeQXVyMjkwMjY1MjI@._V1_.jpg" group-title="2-SUSPENSO juanpablo", JP:PRESA DE UNA OBSEDION SD STALKER IS PREY 2017
 https://server30.mxcdnab.online/newhls/00b3048238294edab22b9562ab40af63/EP.0.1.v0.1677174760.360.m3u8
