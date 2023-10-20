@@ -942,6 +942,25 @@ https://new2.edithxbase.eu.org/1758/free-2144648577
 
 
 
+
+#EXTINF:-1 tvg-logo="https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2020/10/p17741216_v_h8_ad-scaled.jpg" group-title="1-ACCION juanpablo", JP:ASHFALL SD 2019
+https://server02.peliscdn.online/newhls/b72acc7d0ff521331359945a49b6b28b/EP.0.2.v1.1676602989.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2020/10/p17741216_v_h8_ad-scaled.jpg" group-title="1-ACCION juanpablo", JP:ASHFALL HD 2019
+https://server02.peliscdn.online/newhls/b72acc7d0ff521331359945a49b6b28b/EP.0.2.v1.1676602989.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2020/10/p17741216_v_h8_ad-scaled.jpg" group-title="5-AVENTURA juanpablo", JP:ASHFALL SD 2019
+https://server28.peliscdn.online/newhls/905ba6a4a0277e5a64e8f3a3e916420f/EP.0.2.v0.1676428209.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2020/10/p17741216_v_h8_ad-scaled.jpg" group-title="5-AVENTURA juanpablo", JP:ASHFALL FHD 2019
+https://server02.peliscdn.online/newhls/b72acc7d0ff521331359945a49b6b28b/EP.0.2.v1.1676602989.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/r8eU7z1obPM/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:CUENTOS TENEBROSOS 2020 SD
+https://server25.peliscdn.online/newhls/43bdbf698b080394085b4e0e1e1bfaac/EP.0.2.v0.1697781826.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/r8eU7z1obPM/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:CUENTOS TENEBROSOS 2020 HD
+https://server25.peliscdn.online/newhls/43bdbf698b080394085b4e0e1e1bfaac/EP.0.2.v0.1697781826.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tDsYIHz6jkk/mqdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:AFTERLIFE 2009 DESPUES DE LA VIDA SD
 https://server41.peliscdn.online/newhls/6fd8edbeafa59f6ed03582c9a2b61b55/EP.0.1.v0.1677320764.360.m3u8
 
