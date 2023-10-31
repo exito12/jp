@@ -13608,3 +13608,38 @@ https://server02.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.1.1.
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X2 BAJO EL DOMO SD 2013
 https://server03.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.2.1.v0.1677860141.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X3 BAJO EL DOMO HD 2013
+https://server04.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.3.1.v0.1677616941.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X4 BAJO EL DOMO HD 2013
+https://server05.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.4.1.v0.1678278819.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X5 BAJO EL DOMO HD 2013
+https://server06.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.5.1.v0.1678364958.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X6 BAJO EL DOMO HD 2013
+https://server13.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.6.1.v0.1679700719.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X7 BAJO EL DOMO HD 2013
+https://server14.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.7.1.v0.1679764213.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X8 BAJO EL DOMO HD 2013
+https://server15.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.8.1.v0.1679683203.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X9 BAJO EL DOMO HD 2013
+https://server16.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.9.1.v0.1679719434.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X10 BAJO EL DOMO HD 2013
+https://bd4cultg5t.sw-cdnstream.com/hls2/01/00946/t0m95u3eruqa_o/index-v1-a1.m3u8?t=o7Pe2xsacHxwvvA1olRTe69x0HQTN2Td58YGvmHrc1w&s=1698786678&e=129600&f=4731548&srv=rcteeblptxvr&i=0.4&sp=500&p1=rcteeblptxvr&p2=rcteeblptxvr&asn=8048
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X11 BAJO EL DOMO HD 2013
+https://server12.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.11.1.v0.1677617834.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X12 BAJO EL DOMO HD 2013
+https://server13.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.12.1.v0.1677722512.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuN_96z-4PE/mqdefault.jpg" group-title="Z58-BAJO EL DOMO juanpablo", JP:1X13 BAJO EL DOMO HD 2013
+https://server14.peliscdn.online/newhls/fef14eff5fabb6300e6a901518291390/EP.13.1.v0.1677664364.720.m3u8
+
+
+
