@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2023/09/welcome-al-norte-carrusel.jpg" group-title="4-COMEDIA juanpablo", JP:WELCOME AL NORTE 2023 linktemporal
-http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRgNGVgxTAwYFBANQAAkFV1NRUAFRAQQBAgsBBwMEUA1SX1cRGUNEF0FXU1w6UVZDD1UBAQgAA04RR0ZVFDoLUEYDRgUMWQFUER4QRQxVV0MPVQAOCAEEVwACAxxEFQtQRgNGAgJXDloRHhBUHUxXE1sFWmhUXUQLUFcXCkRHThYLVztXUAxWDVcQCBNVGh5DXBdGFQpWRw5fHhdSDxEQVRBcRgkXUwRVBxAeEwZXRw9BFk8VChpkJxEeF1UeEQdaF1ALXRdbFQ5YRBAdR1FBPkcBRUNCXVMPVkAXCkRVQBhGVAVLagJYDV1XUUUMV1wSF14UBBIUEA9cXFxECRc9RA1dRglbFFsPTg==
-
-#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2023/09/welcome-al-norte-carrusel.jpg" group-title="4-COMEDIA juanpablo", JP:WELCOME AL NORTE 2023 linktemporal
-http://kp-thebestiptv.com:8080/movie/mariog/WdWRD5eHj9/176881.mkv
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq9LBaF4mxfSDwwEgfLzZQIdej4R3ZyKIuIK-GYfNDg-yHtnF-1mXvXL4pzGINNlNbyc&usqp=CAU" group-title="0-HBO juanpablo", JP:HBO HD
@@ -850,7 +841,11 @@ http://best4u.biz:8000/topsat133820/O9ouV76k/50460
 
 
 
+#EXTINF:-1 tvg-logo="https://cadenanoticias.com/assets/article/00150400/20230913_wlXO8PH5V4.jpg" group-title="4-COMEDIA juanpablo", JP:WELCOME AL NORTE 2023 linktemporal
+http://kp-thebestiptv.com:8080/movie/mariog/WdWRD5eHj9/176881.mkv
 
+#EXTINF:-1 tvg-logo="https://cadenanoticias.com/assets/article/00150400/20230913_wlXO8PH5V4.jpg" group-title="4-COMEDIA juanpablo", JP:WELCOME AL NORTE 2023 linktemporal
+http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRgNGVgxTAwYFBANQAAkFV1NRUAFRAQQBAgsBBwMEUA1SX1cRGUNEF0FXU1w6UVZDD1UBAQgAA04RR0ZVFDoLUEYDRgUMWQFUER4QRQxVV0MPVQAOCAEEVwACAxxEFQtQRgNGAgJXDloRHhBUHUxXE1sFWmhUXUQLUFcXCkRHThYLVztXUAxWDVcQCBNVGh5DXBdGFQpWRw5fHhdSDxEQVRBcRgkXUwRVBxAeEwZXRw9BFk8VChpkJxEeF1UeEQdaF1ALXRdbFQ5YRBAdR1FBPkcBRUNCXVMPVkAXCkRVQBhGVAVLagJYDV1XUUUMV1wSF14UBBIUEA9cXFxECRc9RA1dRglbFFsPTg==
 
 
 
