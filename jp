@@ -855,6 +855,42 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlkNGNmZTMtM2U1MS00OWY2LWE0ZTMtYmNkOGViMGI4OTI1XkEyXkFqcGdeQXVyNjY0MjA2ODg@._V1_.jpg" group-title="4-COMEDIA juanpablo", JP:QUASI 2023 SD
+https://server15.peliscdn.online/newhls/47f5dbeb0175f5abcc054ccac43c3e61/EP.0.2.v0.1682653928.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlkNGNmZTMtM2U1MS00OWY2LWE0ZTMtYmNkOGViMGI4OTI1XkEyXkFqcGdeQXVyNjY0MjA2ODg@._V1_.jpg" group-title="4-COMEDIA juanpablo", JP:QUASI 2023 HD
+https://server15.peliscdn.online/newhls/47f5dbeb0175f5abcc054ccac43c3e61/EP.0.2.v0.1682653928.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://boundingintocomics.com/wp-content/uploads/2022/06/2022.06.15-08.01-boundingintocomics-62a991d09437f.jpg" group-title="31-WESTERN juanpablo", JP:TERROR ON THE PRAIRIE 2022 HD subtitulada
+https://server18.peliscdn.online/newhls/d98e465cd5d77ecff8431290d9d691f7/EP.0.0.v0.1679284067.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://boundingintocomics.com/wp-content/uploads/2022/06/2022.06.15-08.01-boundingintocomics-62a991d09437f.jpg" group-title="31-WESTERN juanpablo", JP:TERROR ON THE PRAIRIE 2022 FHD subtitulada
+https://server18.peliscdn.online/newhls/d98e465cd5d77ecff8431290d9d691f7/EP.0.0.v0.1679284067.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20231006/imag/foto_0000000220231006181848/16-9.jpg" group-title="6-DRAMA juanpablo", JP:EL RAPTO 2023 opc2
+https://s15.ll1.lat/0:/p/el_rapto_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRkNmI5ODAtOGVjOS00MDA5LWIzMjctZDcyNDQ5OWQ3N2NjXkEyXkFqcGdeQXVyNDQwMTQ5ODk@._V1_.jpg" group-title="9-MISTERIO juanpablo", JP:ENCIERRO 2023 LOCKED IN opc2
+https://s17.ll1.lat/0:/p/encierro_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VuUvKmbNAZw/mqdefault.jpg" group-title="10-CRIMEN juanpablo", JP:LOCKED IN 2021 SD
+https://server35.peliscdn.online/newhls/09ae6c2ac2716e1c8baf19aca8a71d12/EP.0.2.v1.1676333624.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VuUvKmbNAZw/mqdefault.jpg" group-title="10-CRIMEN juanpablo", JP:LOCKED IN 2021 HD
+https://server35.peliscdn.online/newhls/09ae6c2ac2716e1c8baf19aca8a71d12/EP.0.2.v1.1676333624.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JZrAsw7cYjo/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:RESURRECTED 2023 opc2
+https://s17.ll1.lat/0:/p/resurrected_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8VCSTyx6dMs/mqdefault.jpg" group-title="9-MISTERIO juanpablo", JP:LA IRA DE DIOS 2022 HD
+https://server14.peliscdn.online/newhls/bca07ff787512e25df3f8985f2d3c264/EP.0.2.v2.1679271335.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8VCSTyx6dMs/mqdefault.jpg" group-title="9-MISTERIO juanpablo", JP:LA IRA DE DIOS 2022 HD
+https://server14.peliscdn.online/newhls/bca07ff787512e25df3f8985f2d3c264/EP.0.2.v2.1679271335.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8VCSTyx6dMs/mqdefault.jpg" group-title="9-MISTERIO juanpablo", JP:LA IRA DE DIOS 2022 opc2
+https://s00.ll1.lat/0:/p/la_ira_de_dios_espanol_2022.mp4
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ekK_xaKUa8w/XaTZAqfWQOI/AAAAAAAAAvM/DwQQyibdAI0jR9Uhl2RuZ7XqjASz-kKBACLcBGAsYHQ/s640/Multimedia_-Downsizing-poster-landscape.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:DOWNSIZING PEQUEÑA GRAN VIDA UNA VIDA A LO GRANDE 2017 SD
 https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/19dca7c4a4b841d8f67dc67940cbcd98/EP.0.1.v0.1679714662.360.m3u8
 
