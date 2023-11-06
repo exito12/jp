@@ -859,7 +859,17 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuupU6khhig/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:CONTIGO A MUERTE SD 2021 RIDE OR DIE
+https://server22.peliscdn.online/newhls/0758553dc8d649665f390a86d2d1b016/EP.0.2.v0.1676413953.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuupU6khhig/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:CONTIGO A MUERTE HD 2021 RIDE OR DIE
+https://server22.peliscdn.online/newhls/0758553dc8d649665f390a86d2d1b016/EP.0.2.v0.1676413953.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://worldscreenevents.com/wp-content/uploads/2022/05/LeftforDead-Cineflix-522.jpg" group-title="6-DRAMA juanpablo", JP:DADA POR MUERTA 2021 LEFT FOR DEAD SD
+https://server38.peliscdn.online/newhls/3c779b8b634fb1415dacce3f6529349c/EP.0.2.v0.1676161557.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://worldscreenevents.com/wp-content/uploads/2022/05/LeftforDead-Cineflix-522.jpg" group-title="6-DRAMA juanpablo", JP:DADA POR MUERTA 2021 LEFT FOR DEAD HD
+https://server38.peliscdn.online/newhls/3c779b8b634fb1415dacce3f6529349c/EP.0.2.v0.1676161557.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.moviementarios.com/wp-content/uploads/2023/08/mi-soledad-tiene-alas-1080x500.jpg" group-title="6-DRAMA juanpablo", JP:MI SOLEDAD TIENE ALAS 2023 SD
 https://server12.peliscdn.online/newhls/c114ecf44e510ef4571b1c3d8e06e7c0/EP.0.1.v1.1697981576.360.m3u8
