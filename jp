@@ -859,6 +859,15 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.voicesfromthebalcony.com/wp-content/uploads/2023/05/Organ-Trail-Banner.jpg" group-title="31-WESTERN juanpablo", JP:ORGAN TRAIL 2023 SD subtitulada
+https://server10.peliscdn.online/newhls/eb9fa2d6c4ac3c1460dbdbb7d7bf03b0/EP.0.0.v0.1684716929.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.voicesfromthebalcony.com/wp-content/uploads/2023/05/Organ-Trail-Banner.jpg" group-title="31-WESTERN juanpablo", JP:ORGAN TRAIL 2023 HD subtitulada
+https://server10.peliscdn.online/newhls/eb9fa2d6c4ac3c1460dbdbb7d7bf03b0/EP.0.0.v0.1684716929.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kuupU6khhig/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:CONTIGO A MUERTE SD 2021 RIDE OR DIE
 https://server22.peliscdn.online/newhls/0758553dc8d649665f390a86d2d1b016/EP.0.2.v0.1676413953.360.m3u8
 
