@@ -862,6 +862,47 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+#EXTINF:-1 tvg-logo="https://www.playinone.com/wp-content/uploads/2022/05/The-Takedown-1130x580.jpg" group-title="1-ACCION juanpablo", JP:THE TAKEDOWN 2022 SD
+https://server44.peliscdn.online/newhls/6cb7d25c3a5bf0d99782042aabec0f35/EP.0.2.v0.1676215036.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.playinone.com/wp-content/uploads/2022/05/The-Takedown-1130x580.jpg" group-title="1-ACCION juanpablo", JP:THE TAKEDOWN 2022 HD
+https://server44.peliscdn.online/newhls/6cb7d25c3a5bf0d99782042aabec0f35/EP.0.2.v0.1676215036.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://playmax.xyz/img/cv/full/418/1680556117/208697.jpg" group-title="2-SUSPENSO juanpablo", JP:DARKER SHADES OF SUMMER 2023 SD
+https://server21.peliscdn.online/newhls/6524f8f445cc9a435a2556e4821696da/EP.0.2.v0.1683951869.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://playmax.xyz/img/cv/full/418/1680556117/208697.jpg" group-title="2-SUSPENSO juanpablo", JP:DARKER SHADES OF SUMMER 2023 HD
+https://server21.peliscdn.online/newhls/6524f8f445cc9a435a2556e4821696da/EP.0.2.v0.1683951869.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2022/09/deep-fear-2022-horror-review.jpg" group-title="3-TERROR juanpablo", JP:DEEP FEAR 2022 SD subtitulada
+https://server47.peliscdn.online/newhls/ae112a71b1c8f27dfb10b6880c40baf7/EP.0.0.v0.1676231014.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2022/09/deep-fear-2022-horror-review.jpg" group-title="3-TERROR juanpablo", JP:DEEP FEAR 2022 HD subtitulada
+https://server47.peliscdn.online/newhls/ae112a71b1c8f27dfb10b6880c40baf7/EP.0.0.v0.1676231014.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dosismedia.com/wp-content/uploads/2018/12/venganza-cold-pursuit-trailer.jpg" group-title="6-DRAMA juanpablo", JP:VENGANZA 2019 COLD PURSUIT SD subtitulada
+https://server28.peliscdn.online/newhls/a03fd1a45f5e6a13dedf42f4ce01314e/EP.0.0.v0.1677450164.360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.dosismedia.com/wp-content/uploads/2018/12/venganza-cold-pursuit-trailer.jpg" group-title="6-DRAMA juanpablo", JP:VENGANZA 2019 COLD PURSUIT HD subtitulada
+https://server28.peliscdn.online/newhls/a03fd1a45f5e6a13dedf42f4ce01314e/EP.0.0.v0.1677450164.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://kinefilia.files.wordpress.com/2019/06/venganza-bajo-cero-1.jpg" group-title="1-ACCION juanpablo", JP:COLD PURSUIT 2019 VENGANZA BAJO CERO SD
+https://server34.peliscdn.online/newhls/7ef98769a35cbf9658f2640755d29eb4/EP.0.1.v0.1677416402.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://kinefilia.files.wordpress.com/2019/06/venganza-bajo-cero-1.jpg" group-title="1-ACCION juanpablo", JP:COLD PURSUIT 2019 VENGANZA BAJO CERO opc2
+https://s00.ll2.lat/0:/p/venganza_bajo_cero_2019.mp4
+
+#EXTINF:-1 tvg-logo="https://kinefilia.files.wordpress.com/2019/06/venganza-bajo-cero-1.jpg" group-title="1-ACCION juanpablo", JP:COLD PURSUIT 2019 VENGANZA BAJO CERO opc2
+https://s00.ll1.lat/0:/p/venganza_bajo_cero_2019.mp4
+
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/83726ed7/dms3rep/multi/Polar+2019+thumb.jpg" group-title="10-CRIMEN juanpablo", JP:POLAR 2019 SD
+https://server07.peliscdn.online/newhls/ca953a9196a0f59a995e888758f796a7/EP.0.1.v0.1679738439.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/83726ed7/dms3rep/multi/Polar+2019+thumb.jpg" group-title="10-CRIMEN juanpablo", JP:POLAR 2019 HD
+https://server07.peliscdn.online/newhls/ca953a9196a0f59a995e888758f796a7/EP.0.1.v0.1679738439.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.voicesfromthebalcony.com/wp-content/uploads/2023/05/Organ-Trail-Banner.jpg" group-title="31-WESTERN juanpablo", JP:ORGAN TRAIL 2023 SD subtitulada
 https://server10.peliscdn.online/newhls/eb9fa2d6c4ac3c1460dbdbb7d7bf03b0/EP.0.0.v0.1684716929.360.m3u8
 
