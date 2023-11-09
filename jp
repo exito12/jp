@@ -71,15 +71,20 @@ http://187.188.232.236:1021/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/AMC.svg/revision/latest/scale-to-width-down/250?cb=20220423224921" group-title="01-TV PREMIUM juanpablo", JP:AMC
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27970
 
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest/scale-to-width-down/250?cb=20201126072546" group-title="01-TV PREMIUM juanpablo", JP:AXN
+http://proiptvdigic.com:8080/pandconv3/HTVFuZ5PePNG/104
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest/scale-to-width-down/250?cb=20201126072546" group-title="01-TV PREMIUM juanpablo", JP:AXN
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27972
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest/scale-to-width-down/250?cb=20201126072546" group-title="01-TV PREMIUM juanpablo", JP:AXN
-http://191.97.55.241:8000/play/a04p/index.m3u8
+http://201.139.174.68:8001/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest/scale-to-width-down/250?cb=20201126072546" group-title="01-TV PREMIUM juanpablo", JP:AXN
-http://187.188.232.236:1021/play/a01g/index.m3u8
-
+http://svtv.xyz:8080/RamiroO/X6CF5Np/31033
 
 
 
