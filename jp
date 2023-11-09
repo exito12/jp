@@ -862,6 +862,27 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+#EXTINF:-1 tvg-logo="https://www.walkdenentertainment.com/wp-content/uploads/2020/05/Backtrace-Banner.jpg" group-title="1-ACCION juanpablo", JP:BACKTRACE 2017 SD
+https://server33.peliscdn.online/newhls/97c8cf6a535c4b6855e53bcf1821984c/EP.0.1.v1.1677182997.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://img8.tokyvideo.com/videos/115/115686/previews/previews_0012_custom_1638855039.6556.jpg" group-title="2-SUSPENSO juanpablo", JP:THE BABYSITTER 2017 LA NIÑERA SD
+https://server25.peliscdn.online/newhls/3b039a14394ae2e975c6ac0c0a635207/EP.0.1.v0.1677409178.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://img8.tokyvideo.com/videos/115/115686/previews/previews_0012_custom_1638855039.6556.jpg" group-title="2-SUSPENSO juanpablo", JP:THE BABYSITTER 2017 LA NIÑERA HD
+https://server25.peliscdn.online/newhls/3b039a14394ae2e975c6ac0c0a635207/EP.0.1.v0.1677409178.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gsmdigital.ir/wp-content/uploads/2020/10/The-Babysitter-Killer-Queen-2020-min.jpg" group-title="2-SUSPENSO juanpablo", JP:THE BABYSITTER KILLER QUEEN 2020 SD
+https://server06.peliscdn.online/newhls/9c829ca626c0b9dd7c10a40663eff805/EP.0.2.v0.1676631665.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gsmdigital.ir/wp-content/uploads/2020/10/The-Babysitter-Killer-Queen-2020-min.jpg" group-title="2-SUSPENSO juanpablo", JP:THE BABYSITTER KILLER QUEEN 2020 HD
+https://server06.peliscdn.online/newhls/9c829ca626c0b9dd7c10a40663eff805/EP.0.1.v0.1676972026.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2021/09/18/614668cc69e5a61cb53052d6.jpg" group-title="1-ACCION juanpablo", JP:THE MARKSMAN EL PROTECTOR 2021 SD
+https://server04.peliscdn.online/newhls/cb494ce53acb28b0494e56736b57e3eb/EP.0.2.v2.1676427847.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2021/09/18/614668cc69e5a61cb53052d6.jpg" group-title="1-ACCION juanpablo", JP:THE MARKSMAN EL PROTECTOR 2021 HD
+https://server04.peliscdn.online/newhls/cb494ce53acb28b0494e56736b57e3eb/EP.0.2.v2.1676427847.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.playinone.com/wp-content/uploads/2022/05/The-Takedown-1130x580.jpg" group-title="1-ACCION juanpablo", JP:THE TAKEDOWN 2022 SD
 https://server44.peliscdn.online/newhls/6cb7d25c3a5bf0d99782042aabec0f35/EP.0.2.v0.1676215036.360.m3u8
 
