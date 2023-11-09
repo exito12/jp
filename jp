@@ -860,7 +860,15 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C9ToxwkWAAUk4eG.jpg" group-title="1-ACCION juanpablo", JP:PROTEGIENDO AL ENEMIGO SD 2012
+https://server24.peliscdn.online/newhls/93fbb686588ec45a09d6647ffaee1e06/EP.0.1.v0.1677258524.360.m3u8
 
+#EXTINF:-1 tvg-logo="movizark.files.wordpress.com/2014/10/not-safe.jpg" group-title="2-SUSPENSO juanpablo", JP:TRABAJO MORTAL 2014 HD
+https://server22.peliscdn.online/newhls/d4f59938e7d4b0bb55b1093b009172af/EP.0.1.v0.1677517162.720.m3u8
+
+#EXTINF:-1 tvg-logo="movizark.files.wordpress.com/2014/10/not-safe.jpg" group-title="2-SUSPENSO juanpablo", JP:TRABAJO MORTAL 2014 FHD
+#EXTINF:-1 tvg-logo="movizark.files.wordpress.com/2014/10/not-safe.jpg" group-title="2-SUSPENSO juanpablo", JP:TRABAJO MORTAL 2014 HD
+https://server22.peliscdn.online/newhls/d4f59938e7d4b0bb55b1093b009172af/EP.0.1.v0.1677517162.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.walkdenentertainment.com/wp-content/uploads/2020/05/Backtrace-Banner.jpg" group-title="1-ACCION juanpablo", JP:BACKTRACE 2017 SD
 https://server33.peliscdn.online/newhls/97c8cf6a535c4b6855e53bcf1821984c/EP.0.1.v1.1677182997.360.m3u8
