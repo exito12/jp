@@ -867,6 +867,16 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17236606_v_h10_aa.jpg" group-title="1-ACCION juanpablo", JP:THE MONGOLIAN CONNECTION 2019 SD subtitulada
+https://server16.peliscdn.online/newhls/3ee2371b25e878b43afae8e2b5d5aba9/EP.0.0.v0.1677636890.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17236606_v_h10_aa.jpg" group-title="1-ACCION juanpablo", JP:THE MONGOLIAN CONNECTION 2019 HD subtitulada
+https://server16.peliscdn.online/newhls/3ee2371b25e878b43afae8e2b5d5aba9/EP.0.0.v0.1677636890.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L_Ld_ykimrE/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:EL COMPLOT MONGOL 2019 HD
+https://server01.peliscdn.online/newhls/f32e539df99f3c696777988396f004a1/EP.0.1.v0.1677182526.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://film.ua/uploads/news/2017/12/14/311bc9631e1d0e3f106e587575c37cd9764add44.jpg" group-title="12-ANIMACION juanpablo", JP:LA PRINCESA ENCANTADA 2018 SD
 https://server19.peliscdn.online/newhls/3b43cd4ee4183a7503cbd12f736e6a33/EP.0.1.v0.1677278360.360.m3u8
 
