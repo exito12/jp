@@ -864,7 +864,8 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/cf704ad663ede42c776180af1820ef6465ef2f072a3e5364d7c745a1fe519a25.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:LA CAJA 2009
+https://server25.peliscdn.online/newhls/774c1559cbfdd11b33b538e2e5d8d4cb/EP.0.2.v0.1676505361.360.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/lkRP51bVOt73JzSVsHoGW2oeeFa.jpg" group-title="1-ACCION juanpablo", JP:THE KILLER 2022 HD
 https://server07.peliscdn.online/newhls/3a7a5738c1174dc21cffc8bd663f5dda/EP.0.2.v1.1692267804.720.m3u8
@@ -14024,5 +14025,67 @@ https://server03.peliscdn.online/newhls/4f5ef5de43a0eea466304ad1422e7e07/EP.12.1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AyLSGQyBc5E/maxresdefault.jpg" group-title="Z63-EL RECLUSO juanpablo", JP:1X13 EL RECLUSO
 https://server04.peliscdn.online/newhls/4f5ef5de43a0eea466304ad1422e7e07/EP.13.1.v0.1676803105.360.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X1 VAGABOND HD
+https://server08.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.1.1.v0.1679767580.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X2 VAGABOND HD
+https://server09.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.2.1.v0.1679916661.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X3 VAGABOND HD
+https://server11.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.3.1.v0.1677146587.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X4 VAGABOND HD
+https://server12.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.4.1.v0.1677238195.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X5 VAGABOND HD
+https://server13.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.5.1.v0.1677334909.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X6 VAGABOND HD
+https://server14.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.6.1.v0.1677323740.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X7 VAGABOND HD
+https://server15.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.7.1.v0.1677247560.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X8 VAGABOND
+https://server16.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.8.1.v0.1677589839.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X9 VAGABOND HD
+https://server20.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.9.1.v1.1677165902.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X10 VAGABOND HD
+https://server21.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.10.1.v0.1677252331.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X11 VAGABOND
+https://server14.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.11.1.v0.1677287589.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X12 VAGABOND HD
+https://server15.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.12.1.v0.1677219263.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X13 VAGABOND HD
+https://server16.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.13.1.v0.1677560244.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X14 VAGABOND HD
+https://server17.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.14.1.v0.1677202205.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X15 VAGABOND HD
+https://server18.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.15.1.v0.1676552293.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X16 VAGABOND HD
+https://server19.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.16.1.v0.1677298426.720.m3u8
+
 
 
