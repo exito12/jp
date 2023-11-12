@@ -866,7 +866,8 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/lkRP51bVOt73JzSVsHoGW2oeeFa.jpg" group-title="1-ACCION juanpablo", JP:THE KILLER 2022 HD
+https://server07.peliscdn.online/newhls/3a7a5738c1174dc21cffc8bd663f5dda/EP.0.2.v1.1692267804.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17236606_v_h10_aa.jpg" group-title="1-ACCION juanpablo", JP:THE MONGOLIAN CONNECTION 2019 SD subtitulada
 https://server16.peliscdn.online/newhls/3ee2371b25e878b43afae8e2b5d5aba9/EP.0.0.v0.1677636890.360.m3u8
