@@ -868,6 +868,18 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+#EXTINF:-1 tvg-logo="https://img41.tokyvideo.com/videos/397/397935/previews/previews_0012_custom_1700061100.0001.jpg" group-title="5-AVENTURA juanpablo", JP:UNICA SUPERVIVIENTE 2022 THE ONE HD
+https://server19.peliscdn.online/newhls/03d265f66bdb945a96c560e7596c17a2/EP.0.1.v0.1700275151.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://img41.tokyvideo.com/videos/397/397935/previews/previews_0012_custom_1700061100.0001.jpg" group-title="5-AVENTURA juanpablo", JP:UNICA SUPERVIVIENTE 2022 THE ONE FHD
+https://server19.peliscdn.online/newhls/03d265f66bdb945a96c560e7596c17a2/EP.0.1.v0.1700275151.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/10/GiveMeYourEyes_KA_HR.jpg.webp" group-title="2-SUSPENSO juanpablo", JP:GIVE ME YOUR EYES 2022 HD
+https://server16.peliscdn.online/newhls/9961b7bb8e8c2a0d4c7546b83995161d/EP.0.2.v0.1700114228.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ivoEgYtRGhw2i2pfM2bbLOj9G0G.jpg" group-title="7-DOCUMENTAL juanpablo", JP:A TRIP TO INFINITY  2022 HD
+https://server44.peliscdn.online/newhls/ec33e1f5db5cba98ce6f3814aa486846/EP.0.2.v0.1676079254.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://fugitives.com/wp-content/uploads/2023/06/Believer-Ending-Explained-2018-Korean-Action-Film-1-696x391.jpg" group-title="10-CRIMEN juanpablo", JP:CREYENTE 2018 BELIEVER HD
 https://server45.peliscdn.online/newhls/7aecf04946982fab66c3058e1fc7768f/EP.0.2.v1.1677073178.720.m3u8
 
