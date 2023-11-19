@@ -868,6 +868,30 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ychmEOJss1M/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:LA LEYENDA DE LA VIUDA 2020
+https://server18.peliscdn.online/newhls/d9c030cca35821ec108a6e0f7af44ec7/EP.0.2.v0.1700267055.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cinemablind.com/wp-content/uploads/2023/11/Best-Christmas-Ever-Featured-1110x624.jpg" group-title="16-NAVIDAD juanpablo", JP:BEST CHRISTMAS EVER 2023 HD
+https://server23.peliscdn.online/newhls/1f671774e11efc952f61778be0efa78f/EP.0.2.v0.1700198521.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/3eca1a89993178d4bb60ca216883ddd869482a6cb4a77c6cc9b08a259f74b943.jpg" group-title="6-DRAMA juanpablo", JP:CONFESSION 2022 HD
+https://server26.peliscdn.online/newhls/bb0f13a51485c89e7ceccb09299b79de/EP.0.2.v0.1700192527.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/tCDyKf0kUrS3h2pQFKD4DV9JMx6.jpg" group-title="16-NAVIDAD juanpablo", JP:LA MAGIA DE LA NAVIDAD 2023 HD
+https://server24.peliscdn.online/newhls/0a638557b6d3dbd4c85559c852ba194f/EP.0.2.v0.1700335630.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://estrenos.lat/wp-content/uploads/2023/11/creyente-2-netflix.jpg" group-title="10-CRIMEN juanpablo", JP:CREYENTE II 2023 HD
+https://server21.peliscdn.online/newhls/085485b68240e61ebea0c7c455c3ea80/EP.0.2.v0.1700340209.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cuevana-3.id/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrQLwcuKZYjqADTbQedJMvQZ4wgC.jpg&w=3840&q=75" group-title="16-NAVIDAD juanpablo", JP:UNA NAVIDAD ESCANDALOSA 2023 HD
+https://server27.peliscdn.online/newhls/61c435e63ee5b006bfcbdcb79d6e7703/EP.0.2.v0.1700342084.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.filmvandaag.nl/api/og-image/movie/133815-nouveaux-riches.jpg" group-title="11-ROMANCE juanpablo", JP: NUEVOS RICOS 2023 NOUVEAUX RICHES HD
+https://server22.peliscdn.online/newhls/e986d649fe66be34627a74f274f9789c/EP.0.2.v0.1700338617.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h_gqs2tuSyE/maxresdefault.jpg" group-title="7-DOCUMENTAL juanpablo", JP:THE DADS 2023 HD
+https://server23.peliscdn.online/newhls/4140b9aedfdf69a019300ae86109da62/EP.0.2.v0.1700335105.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EaMahhnZMog/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:SANTUARIO 2023 HD
 https://server22.peliscdn.online/newhls/543e9d6f96bd4b636a8b203aa943f8de/EP.0.1.v0.1699874146.720.m3u8
 
