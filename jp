@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UxR3l4PMzD8/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:EL BUFON. 2023 THE JESTER HD
-https://gy51qnnk6ihg1lrf.lions-vidcdn.com/hls2/01/00734/lcya5zsjun4f_n/index-v1-a1.m3u8?t=ftgDv027gxl4MNNvD9YgEGfs5AsYtGJdzXYXmg-rLU0&s=1700430853&e=129600&f=3674360&srv=zef623c4ow4j&i=0.4&sp=1500&p1=zef623c4ow4j&p2=zef623c4ow4j&asn=209854
-
 
 
 
@@ -872,6 +869,24 @@ http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRg
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ps8hL7qRXUE/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:PROYECTO LAZARO HD 2016
+https://server20.peliscdn.online/newhls/b57bc4a4eb320f1d628c76dacc1d456e/EP.0.1.v0.1677371012.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Sd7Sg-K_iWc/mqdefault.jpg" group-title="31-WESTERN juanpablo", JP:EL DESAFIO DEL BUFALO BLANCO 1977 HD
+https://server42.peliscdn.online/newhls/baa43c265e07aeea2def69c58a1a1101/EP.0.1.v0.1677904789.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JVMzsgIvAgw/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:EL DESAFIO 1997 THE EDGE SD
+https://server35.peliscdn.online/newhls/6af77ad7725c9f546540b18749eb95c3/EP.0.1.v1.1676653953.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/uploads/sites/6/2020/04/I1b.jpg" group-title="14-BIBLIA juanpablo", JP:LA RESURRECCION DE CRISTO 2016 HD
+https://server44.peliscdn.online/newhls/72978e46cc8549d25b876d704a09172f/EP.0.1.v0.1677290597.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jyROzSS_6cM/mqdefault.jpg" group-title="14-BIBLIA juanpablo", JP:LA HISTORIA DE JESUS PARA NIÑOS 2000 HD
+https://server12.peliscdn.online/newhls/dbd38fed546f7655b2fc5688b8a24ca9/EP.0.1.v0.1677138314.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ef359b114f134dca2135cef9b905de7b7b38807ab76a13badf678b6fbc015661.jpg" group-title="14-BIBLIA juanpablo", JP: SALOMON Y LA REINA DE SABA 1959
+https://server15.peliscdn.online/newhls/03a1842a4462b4626258db4de629046d/EP.0.1.v1.1677159229.360.m3u8
 
 #EXTINF:-1 tvg-logo="https://img41.tokyvideo.com/videos/397/397935/previews/previews_0012_custom_1700061100.0001.jpg" group-title="5-AVENTURA juanpablo", JP:UNICA SUPERVIVIENTE 2022 THE ONE HD
 https://server19.peliscdn.online/newhls/03d265f66bdb945a96c560e7596c17a2/EP.0.1.v0.1700275151.720.m3u8
