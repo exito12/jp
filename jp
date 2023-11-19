@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X1 ADN
-https://server13.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.1.2.v0.1700045203.720.m3u8
-
 
 
 
@@ -14159,6 +14156,37 @@ https://server18.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.15.1
 
 #EXTINF:-1 tvg-logo="https://photos.hancinema.net/photos/fullsizephoto1098492.jpg" group-title="Z65-VAGABOND juanpablo", JP:1X16 VAGABOND HD
 https://server19.peliscdn.online/newhls/c22fceff6b0eada8c4e669f2c5d4b531/EP.16.1.v0.1677298426.720.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X1 ADN
+https://server13.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.1.2.v0.1700045203.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X2 ADN
+https://server14.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.2.2.v0.1700047291.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X3 ADN
+https://server09.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.3.2.v0.1700047001.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X4 ADN
+https://server10.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.4.2.v0.1700050518.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X5 ADN si este capítulo falla notificarle a juanpabloo para que lo active
+https://ragrehgtrahd.sw-cdnstream.com/hls2/01/02278/63k44yh1od4s_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=X6MMAmBgpYeK-fV-vIMAxAzwAxHF8nHcD9IDC83BSCQ&s=1700364227&e=129600&f=11393876&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8048
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X6 ADN
+https://server12.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.6.2.v0.1700045970.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X7 ADN
+https://server08.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.7.2.v0.1700048749.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/fHQYKk17sJ17FSuLl596YE3oqzE=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/S5CGL7ILMFBTVNW6BLN22DNYIU.png" group-title="Z67-EL ADN DEL DELITO CRIMINAL CODE juanpablo", JP:1X8 ADN
+https://server22.peliscdn.online/newhls/2028a147c52f343cc327f1e5b423e915/EP.8.2.v0.1700058665.720.m3u8
 
 
 
