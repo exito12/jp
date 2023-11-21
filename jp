@@ -857,8 +857,26 @@ http://best4u.biz:8000/topsat133820/O9ouV76k/50460
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/na_rVBYL4sY/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:MISION A MARTE HD 2000
+https://server16.peliscdn.online/newhls/bd5ab597b9adf476475563951d5dd92e/EP.0.1.v0.1677599716.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5fa548384c12503ca0b26d3d5c7af072/images/gracenote/assets/p10951037_v_h10_ab.jpg" group-title="4-COMEDIA juanpablo", JP:QUE LE DIJISTE A DIOS 2014 SD
+https://server17.peliscdn.online/newhls/6fba8dc291ba23c6fc10e0f7175e16f7/EP.0.1.v0.1677471404.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b461e316972af3e8187473ef7b27fb52bc4373339ea70108bb64114a666e34c3._UY500_UX667_RI_TTW_.jpg" group-title="5-AVENTURA juanpablo", JP:PELIGROSAMENTE INFILTRADA 2012 SD
+https://server42.peliscdn.online/newhls/8924160e9fc9e26123e43357576d973c/EP.0.1.v0.1677252903.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LJlE80mdBnw/maxresdefault.jpg" group-title="20-INFANTILES juanpablo", JP:TROLLS 3 SE ARMO LA BANDA 2023 HD
+https://server14.peliscdn.online/newhls/445615197a5f3fe3faddca5819602301/EP.0.2.v0.1700505601.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tv2VTlPVs4A/maxresdefault.jpg" group-title="20-INFANTILES juanpablo", JP:TROLLS 2 GIRA MUNDIAL 2020 HD
+https://server21.peliscdn.online/newhls/1ee05e88fea1d08ad9467dfd62502348/EP.0.2.v1.1679362151.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m_RzEK-9i_U/mqdefault.jpg" group-title="20-INFANTILES juanpablo", JP:TROLLS  2016 HD
+https://server06.peliscdn.online/newhls/d542842c1495f5058b2070d9295cbd6a/EP.0.2.v1.1676817353.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://cadenanoticias.com/assets/article/00150400/20230913_wlXO8PH5V4.jpg" group-title="4-COMEDIA juanpablo", JP:WELCOME AL NORTE 2023 HD
+https://server13.peliscdn.online/newhls/b5a281f1f69666b35dd3c579bec3800c/EP.0.2.v0.1700507730.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://cadenanoticias.com/assets/article/00150400/20230913_wlXO8PH5V4.jpg" group-title="4-COMEDIA juanpablo", JP:WELCOME AL NORTE 2023 linktemporal
 http://kp-thebestiptv.com:8080/movie/mariog/WdWRD5eHj9/176881.mkv
@@ -866,13 +884,17 @@ http://kp-thebestiptv.com:8080/movie/mariog/WdWRD5eHj9/176881.mkv
 #EXTINF:-1 tvg-logo="https://cadenanoticias.com/assets/article/00150400/20230913_wlXO8PH5V4.jpg" group-title="4-COMEDIA juanpablo", JP:WELCOME AL NORTE 2023 linktemporal
 http://148.113.159.237:25461/movie/mariog/WdWRD5eHj9/176881.mkv?token=ThIOBBFcRgNGVgxTAwYFBANQAAkFV1NRUAFRAQQBAgsBBwMEUA1SX1cRGUNEF0FXU1w6UVZDD1UBAQgAA04RR0ZVFDoLUEYDRgUMWQFUER4QRQxVV0MPVQAOCAEEVwACAxxEFQtQRgNGAgJXDloRHhBUHUxXE1sFWmhUXUQLUFcXCkRHThYLVztXUAxWDVcQCBNVGh5DXBdGFQpWRw5fHhdSDxEQVRBcRgkXUwRVBxAeEwZXRw9BFk8VChpkJxEeF1UeEQdaF1ALXRdbFQ5YRBAdR1FBPkcBRUNCXVMPVkAXCkRVQBhGVAVLagJYDV1XUUUMV1wSF14UBBIUEA9cXFxECRc9RA1dRglbFFsPTg==
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e9e9ec0fd9a0cb5f9e4c17dcf7f356b76694a91b30c5d9bb3b955f8acff3856a.jpg" group-title="4-COMEDIA juanpablo", JP:FBI FEOS BOBOS E INGENUOS 2023 HD
+https://server09.peliscdn.online/newhls/fa5852b9d79f2d31e641e3c2bc09e862/EP.0.2.v0.1700466741.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e2111bcb32711b937cd8f37ec2bae36ebb992f372d6029a8785526b4285dc295._RI_TTW_SX720_FMjpg_.jpg" group-title="15-GUERRA juanpablo", JP: CORAJE SIN LIMITES 2019 HD
+https://server08.peliscdn.online/newhls/c9a7d79b2c3d813097fdb14d40b2a0cf/EP.0.2.v0.1700472711.720.m3u8
 
+#EXTINF:-1 tvg-logo="i.ytimg.com/vi/giTI79gsq30/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:EL CONDE DE MONTECRISTO HD 2002
+https://server12.peliscdn.online/newhls/541751cfa2d494f98c1ae888a351d597/EP.0.2.v0.1700510459.720.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b4e320d7628902b59e28af2a3dd9d18579b7352b95e2f1d3debee771539c58f4._UY500_UX667_RI_TTW_.jpg" group-title="6-DRAMA juanpablo", JP:KANIBARU 2019 HD
+https://server10.peliscdn.online/newhls/bbed4f36087e5f5bb3468e1d60baf49e/EP.0.2.v0.1700458646.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ps8hL7qRXUE/maxresdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:PROYECTO LAZARO HD 2016
 https://server20.peliscdn.online/newhls/b57bc4a4eb320f1d628c76dacc1d456e/EP.0.1.v0.1677371012.720.m3u8
