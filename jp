@@ -867,6 +867,13 @@ http://best4u.biz:8000/topsat133820/O9ouV76k/50460
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JYnNrAV9Ung/mqdefault.jpg" group-title="12-ANIMACION juanpablo", JP:WISH EL PODER DE LOS DESEOS 2023 HD
+https://server12.peliscdn.online/newhls/9ab2d87bed2352340617531031045a3e/EP.0.2.v0.1700872315.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.voicesfromthebalcony.com/wp-content/uploads/2023/05/HITMEN-Banner.jpg" group-title="4-COMEDIA juanpablo", JP:HITMEN 2023 HD subt
+https://server22.peliscdn.online/newhls/f9e321667e96e37fda50f42c1b685024/EP.0.0.v0.1700790680.720.m3u8
+
 #EXTINF:-1 tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/11/el-asesino-the-killer-netflix-1080x609.jpg" group-title="10-CRIMEN juanpablo", JP:EL ASESINO la ejecución lo es todo 2023 THE KILLER opc2
 https://s18.ll1.lat/0:/p/el_asesino_espanol_2023.mp4
 
@@ -14304,5 +14311,36 @@ https://s25.ll1.lat/0:/s/el_juego_del_calamar_el_desafio/el_juego_del_calamar_el
 #EXTINF:-1 tvg-logo="https://blob.luznoticias.mx/images/2023/11/23/juego-del-calamar-focus-0-0-966-544.jpg" group-title="Z69-EL JUEGO DEL CALAMAR EL DESAFIO juanpablo", JP:1X5 EL DESAFIO
 https://s25.ll1.lat/0:/s/el_juego_del_calamar_el_desafio/el_juego_del_calamar_el_desafio_1x05.mp4
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.scannain.com/media/into-the-badlands_casting.jpg" group-title="Z70-INTO THE BADLANDS juanpablo", JP:1X1 BADLANDS SD
+https://server02.peliscdn.online/newhls/158783cc7f517c757318e6e28997376e/EP.1.1.v0.1677603777.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.scannain.com/media/into-the-badlands_casting.jpg" group-title="Z70-INTO THE BADLANDS juanpablo", JP:1X2 BADLANDS SD
+https://server04.peliscdn.online/newhls/158783cc7f517c757318e6e28997376e/EP.2.1.v0.1677575613.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.scannain.com/media/into-the-badlands_casting.jpg" group-title="Z70-INTO THE BADLANDS juanpablo", JP:1X3 BADLANDS SD
+https://server06.peliscdn.online/newhls/158783cc7f517c757318e6e28997376e/EP.3.1.v0.1678288727.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.scannain.com/media/into-the-badlands_casting.jpg" group-title="Z70-INTO THE BADLANDS juanpablo", JP:1X4 BADLANDS SD
+https://server25.peliscdn.online/newhls/158783cc7f517c757318e6e28997376e/EP.4.1.v0.1679812432.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.scannain.com/media/into-the-badlands_casting.jpg" group-title="Z70-INTO THE BADLANDS juanpablo", JP:1X5 BADLANDS SD
+https://server07.peliscdn.online/newhls/158783cc7f517c757318e6e28997376e/EP.5.1.v0.1679996378.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.scannain.com/media/into-the-badlands_casting.jpg" group-title="Z70-INTO THE BADLANDS juanpablo", JP:1X6 BADLANDS SD
+https://server13.peliscdn.online/newhls/158783cc7f517c757318e6e28997376e/EP.6.1.v0.1677702151.360.m3u8
 
 
