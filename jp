@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/aed8d758772d693d599b1ad4bf3cafcbc57d6f7451bf48e2a19ba973740d6322._UY500_UX667_RI_TTW_.jpg" group-title="6-DRAMA juanpablo", JP:LA ESCAFANDRA Y LA MARIPOSA linktemp
-https://new3.edithxbase.eu.org/17426/free1-2144648577
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UxR3l4PMzD8/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:EL BUFON 2023 THE JESTER HD
-https://new3.edithxbase.eu.org/17434/free1-2144648577
 
 
 
@@ -852,7 +847,20 @@ http://best4u.biz:8000/topsat133820/O9ouV76k/50460
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pow39v-1xAw/maxresdefault.jpg" group-title="4-COMEDIA juanpablo", JP:THE END OF SEX 2023 HD
+https://server22.peliscdn.online/newhls/0c49ae7fa8e31ff82a0ba6949506d690/EP.0.1.v0.1701242936.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pow39v-1xAw/maxresdefault.jpg" group-title="4-COMEDIA juanpablo", JP:THE END OF SEX 2023 FHD
+https://server22.peliscdn.online/newhls/0c49ae7fa8e31ff82a0ba6949506d690/EP.0.1.v0.1701242936.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://canvas-bridge02.tubitv.com/MMbSIZd4JtqkKhRnIJ0ZrN6uEec=/448x252/smart/img.adrise.tv/47427c9c-5914-46e2-8f06-44b76a12c2e4.jpg" group-title="3-TERROR juanpablo", JP:LA CASA SANGRIENTA 2014 HD
+https://server21.peliscdn.online/newhls/d05b8705bd485842134d0fc613fa9a5d/EP.0.2.v0.1701000239.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X1jaNGVXZoc/maxresdefault.jpg" group-title="16-NAVIDAD juanpablo", JP:ELIA Y EL ELFO 2023 HD
+https://server27.peliscdn.online/newhls/122bb70ed5cdabf69634f358569e5784/EP.0.2.v0.1701005413.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uuzyLvINfOw/maxresdefault.jpg" group-title="31-WESTERN juanpablo", JP:NO NAME AND DYNAMITE 2022 HD SIN NOMBRE Y DINAMITA
+https://server07.peliscdn.online/newhls/e5bcfbf9b1f5cc7454b75a3ff1aa1bd9/EP.0.1.v0.1701458878.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/4lfS4u8YNAMDFbTGIXwmh6kV6nc=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/V4ES442PWJBJZDLW45LG3SAZXY.png" group-title="11-ROMANCE juanpablo", JP: ULTIMA LLAMADA PARA ESTAMBUL 2023 HD
 https://server11.peliscdn.online/newhls/38bac9ac59fd7ca9636916c0670b615f/EP.0.2.v0.1701046351.720.m3u8
