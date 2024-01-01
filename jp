@@ -238,7 +238,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
 
 
 
-#EXTINF:-1 tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/HBO-2-HD-NL-900x0.png" group-title="0-HBO juanpablo", JP:HBO2 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/liLYGv5VDVE/maxresdefault.jpg" group-title="0-HBO juanpablo", JP:HBO2 HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/176
 
 
@@ -375,10 +375,8 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2G8iX6zqpzg57i0K3fphkxJ5Kp0odnZf_A&usqp=CAU" group-title="011-MEXICO juanpablo", JP:TELEMUNDO
 http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/43189
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="012-ENTRETENIMIENTO juanpablo", JP:TRUTV
-http://hidra.live:80/fmfukngo/Z395trjb2A/313192
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="012-ENTRETENIMIENTO juanpablo", JP:TRUTV
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/04/trutv-rebrand-2020.jpg" group-title="012-ENTRETENIMIENTO juanpablo", JP:TRUTV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/264
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYDbqPf5/WARNER.jpg" group-title="01-TV PREMIUM juanpablo", JP:WARNER
