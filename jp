@@ -147,13 +147,10 @@ http://191.97.55.241:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaoJqlAHXW9Y1CDs3-JpJOjcFGX0JlvbzNQ&usqp=CAU" group-title="06-NOTICIAS juanpablo", JP:CNN EN ESPANOL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jQx76F4-Tqw/maxresdefault.jpg" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27984
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
-http://tv.thepremiummedia.com:8080/Mitv2462/p85aSK4ubB/56304
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jQx76F4-Tqw/maxresdefault.jpg" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY CHANNEL
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/42
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/LOGOID2016.png/revision/latest/scale-to-width-down/200?cb=20191225135753&path-prefix=es" group-title="02-DISCOVERY Y CULTURA juanpablo", JP:DISCOVERY ID
