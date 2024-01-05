@@ -924,8 +924,11 @@ https://s20.ll1.lat/0:/p/el_bufon_espanol_2023.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1D2_MPcJHPM/mqdefault.jpg" group-title="1-ACCION juanpablo", JP:HITMAN AGENT JUN 2020 HD
 https://server12.peliscdn.online/newhls/84c9bdea00364e40402519eb77c34d1a/EP.0.0.v0.1679396747.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KiKMjY7pSZE/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:REBEL MOON PARTE UNO LA NIÑA DEL FUEGO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KiKMjY7pSZE/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:REBEL MOON PARTE UNO LA NIÑA DEL FUEGO opc2 español
 https://s20.ll1.lat/0:/p/rebel_moon_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KiKMjY7pSZE/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:REBEL MOON PARTE UNO LA NIÑA DEL FUEGO opc2 subtitulada
+https://s20.ll1.lat/0:/p/rebel_moon_english_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://animatedtimes.com/wp-content/uploads/2021/11/Army-of-Thieves-Zack-Snyder-Has-Slipped-A-Superhero-Into-The-Movie.jpg" group-title="10-CRIMEN juanpablo", JP:ARMY OF THIEVES 2021 EJERCITO DE LADRONES HD
 https://server07.peliscdn.online/newhls/9e90731db841e9792092d0d2545092ad/EP.0.2.v1.1679394227.720.m3u8
