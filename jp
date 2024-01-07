@@ -834,7 +834,17 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+#EXTINF:-1 tvg-logo="https://media-front.elmostrador.cl/2020/06/112639056_cartel.jpg" group-title="7-DOCUMENTAL juanpablo", JP:1 JEFFREY EPSTEIN ASQUEROSAMENTE RICO 2020 SD
+https://server05.peliscdn.online/newhls/bc815bc44a08708f90448e2d00749a37/EP.1.1.v0.1677162243.360.m3u8
 
+#EXTINF:-1 tvg-logo="https://media-front.elmostrador.cl/2020/06/112639056_cartel.jpg" group-title="7-DOCUMENTAL juanpablo", JP:2 JEFFREY EPSTEIN ASQUEROSAMENTE RICO 2020 HD
+https://server06.peliscdn.online/newhls/bc815bc44a08708f90448e2d00749a37/EP.2.1.v0.1677102298.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-front.elmostrador.cl/2020/06/112639056_cartel.jpg" group-title="7-DOCUMENTAL juanpablo", JP:3 JEFFREY EPSTEIN ASQUEROSAMENTE RICO 2020 HD
+https://server22.peliscdn.online/newhls/bc815bc44a08708f90448e2d00749a37/EP.3.1.v0.1682149113.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-front.elmostrador.cl/2020/06/112639056_cartel.jpg" group-title="7-DOCUMENTAL juanpablo", JP:4 JEFFREY EPSTEIN ASQUEROSAMENTE RICO 2020 SD
+https://server23.peliscdn.online/newhls/bc815bc44a08708f90448e2d00749a37/EP.4.1.v0.1682188200.360.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/7BLhzGw56Z4Js36nEevavOQMGrU.jpg" group-title="6-DRAMA juanpablo", JP:EL JUEGO PERFECTO 2009 SD
 https://server21.peliscdn.online/newhls/fa6e1376f0969fca7f5504fb805d5c56/EP.0.1.v0.1677116101.360.m3u8
