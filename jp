@@ -18,7 +18,10 @@ https://stream.urlsopen.net/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EOWPvhrW4AAm0RG.jpg" group-title="0-HBO juanpablo", JP:HBO HD
-https://i.mjh.nz/PlutoTV/15e972a21ad709d00074195ba-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=sam
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EOWPvhrW4AAm0RG.jpg" group-title="0-HBO juanpablo", JP:HBO HD
 https://i.mjh.nz/PlutoTV/161b793ccf571b80007b7a610-alt.m3u8
