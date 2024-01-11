@@ -851,6 +851,15 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+#EXTINF:-1 tvg-logo="https://www.filminquiry.com/wp-content/uploads/2017/05/Unlocked-Feature.jpg" group-title="1-ACCION juanpablo", JP:UNLOCKED CODIGO ABIERTO  HD 2017
+https://server40.peliscdn.online/newhls/47a4c72ce1bf6258701a2be0d754c17e/EP.0.1.v0.1677544833.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.filminquiry.com/wp-content/uploads/2017/05/Unlocked-Feature.jpg" group-title="1-ACCION juanpablo", JP:UNLOCKED CODIGO ABIERTO  opc2 2017
+https://s00.ll1.lat/0:/p/codigo_abierto_2017.mp4
+
+#EXTINF:-1 tvg-logo="https://www.filminquiry.com/wp-content/uploads/2017/05/Unlocked-Feature.jpg" group-title="1-ACCION juanpablo", JP:UNLOCKED CODIGO ABIERTO  opc22 2017
+https://s00.ll2.lat/0:/p/codigo_abierto_2017.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/p/i/t/pitch-black-2182_SPA-62.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:PITCH BLACK 2000 HD
 https://server33.peliscdn.online/newhls/0520ce2995a0d1fa3da5b8cb3592f623/EP.0.1.v0.1677361296.720.m3u8
 
