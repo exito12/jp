@@ -840,11 +840,6 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1keSRyipyac/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:VIERNES NEGRO 2023 THANKSGIVING linktemporal
-http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/4947/231977_a8b71021_a555_4a6a_bd05_3f9020a36569_ntzq_1955644_1fichier.mp4?hash=3f5ca95249606b08eee9a8d9ceb98f77183ccf0df5f47ae74b76bd46e1eddb9
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NjMJwewmcfA/maxresdefault.jpg" group-title="6-DRAMA juanpablo", JP:NAPOLEON 2023 linktemp
-http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/4949/v.mp4?hash=a42eacd4b677d4ebc62bc080c8bca2c71d31ecde55f2c0300b86061ab98f2bc
 
 
 
@@ -855,6 +850,18 @@ http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/4949/v.mp4?hash=a42eacd4b677d4e
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KR3taWK8LEQ/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:EL PUÑO DEL CONDOR 2023 opc2
+https://s01.ll1.lat/0:/p/el_puno_del_condor_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KR3taWK8LEQ/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:EL PUÑO DEL CONDOR 2023 HD
+https://server17.peliscdn.online/newhls/62a8a1f29259c3fa644f4c307d42b974/EP.0.2.v0.1685097717.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CvJ3APCrOH0/WRTBaHwWF9I/AAAAAAAANTI/efus7KEYQ887of6d9te7_XFWVehwoUZUQCLcB/s640/z-la-ciudad-perdida-salvando-al-soldado-ryan-blog.jpg" group-title="5-AVENTURA juanpablo", JP:LA CIUDAD PERDIDA DE Z 2016 THE LOST CITY OF Z HD
+https://server42.peliscdn.online/newhls/3442c67ea3e56cd84955a886ce170544/EP.0.1.v0.1677511484.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/q-AUdY4g-JI/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:CAZADORES EN TIERRA INHOSPITA 2024 opc2
 https://s22.ll1.lat/0:/p/cazadores_en_tierra_inhospita_espanol_2024.mp4
