@@ -853,6 +853,14 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/doas8MKXhQ1LqQYu3IEQlDRv6tj.jpg" group-title="10-CRIMEN juanpablo", JP:DOBLE VIDA 2023 HD
+https://server11.peliscdn.online/newhls/6435cf97a6be43f01964fdeb39cf139f/EP.0.2.v0.1700054697.1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://movies.doodido.com/wp-content/uploads/2020/09/The-Witch-Part-1-The-Subversion-Review-800x445.jpg" group-title="1-ACCION juanpablo", JP:THE WITCH EL EXPERIMENTO THE SUBVERSION 2018 HD
+https://server10.peliscdn.online/newhls/d0d3976f31a625f85b20ee9f68c18ca2/EP.0.2.v1.1690264951.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://hisnameisdeath.files.wordpress.com/2016/04/witch0.jpg" group-title="3-TERROR juanpablo", JP:LA BRUJA 2016
+https://server19.peliscdn.online/newhls/8143df836277dfcffebf0b48ec0ffd33/EP.0.1.v0.1677539125.1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FNh9_HxRIl8/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:AGUAS SINIESTRAS 2024 NIGHT SWIM opc2
 https://s23.ll1.lat/0:/p/la_piscina_aguas_siniestras_espanol_2024.mp4
