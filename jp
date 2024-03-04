@@ -849,13 +849,20 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/ba23a9/thumb-1920-1166940/1366_2000.jpg" group-title="5-AVENTURA juanpablo", JP:DUNE 2021 opc2
+https://s00.ll1.lat/0:/p/dune_espanol_2021.mp4
 
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2024/01/pobres-criaturas.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:POBRES CRIATURAS 2023 opc2
+https://s23.ll1.lat/0:/p/pobres_criaturas_espanol_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3sefJjahyeZLWgqlfe_WOWUjVMyvsIhHtHg&usqp=CAU" group-title="1-ACCION juanpablo", JP:CODIGO 8 RENEGADOS 2024 opc2
 https://s23.ll1.lat/0:/p/codigo_8_renegados_2_espanol_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://www.rublog.cl/wp-content/uploads/2021/05/codigo8.jpg" group-title="1-ACCION juanpablo", JP:CODIGO 8 RENEGADOS 2019 opc2
 https://s00.ll1.lat/0:/p/code_8_renegados_2019.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/a/c/t/xactos-de-venganza-567652_SPA-29.jpg.pagespeed.ic.kT6u1UxOGk.jpg" group-title="1-ACCION juanpablo", JP: ACTOS DE VENGANZA 2017 opc2
+https://s23.ll1.lat/0:/p/actos_de_venganza_espanol_2017.mp4
 
 #EXTINF:-1 tvg-logo="https://oyedigital.mx/wp-content/uploads/2024/01/PORTADA-NOTAS-2024-01-26T113203.750.jpg" group-title="4-COMEDIA juanpablo", JP:CON TODOS MENOS CONTIGO 2023 opc2
 https://s23.ll1.lat/0:/p/con_todos_menos_contigo_espanol_2023.mp4
