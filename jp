@@ -863,7 +863,11 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wqkgGwyn8Ig/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:MADAME WEB 2024 opc2
+https://s24.ll1.lat/0:/Madame_web_2024.mp4
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eudJOqjZbBM/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:DAMSEL 2024 opc2
+https://s31.ll1.lat/0:/p/damsel_espanol_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://media.vandalsports.com/i/640x360/2-2024/20242279551_1.jpg" group-title="5-AVENTURA juanpablo", JP:DUNE 2DA PARTE 2024 opc2
 https://s24.ll1.lat/0:/Dune_2_2024.mp4
