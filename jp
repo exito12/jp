@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wptXbH5p1jI/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:MONOLITH 2016 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/18679/Monolith.2016.720p.WEBRip.x264.AAC.mkv?hash=11af5d858797dd51319ce2256c21aa5c62d6fa5316fa7a6923cff4a991e2114
 
 #EXTINF:-1 tvg-logo="https://sm.ign.com/ign_latam/screenshot/default/pelicula-semana_svvj.jpg" group-title="31-WESTERN juanpablo", JP:FRONTERA CANIBAL 2015 linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/16265/9852-Bone+Tomahawk+%282015%29+720p+D+S+spa+eng+por+fre+v.mkv?hash=d31d5736055bbecee39950db2f5241fca19932d72d449d4b73866163ed17ce5d5736055bbecee39950db2f5241fca19932d72d449d4b73866163ed17ce5
@@ -862,6 +864,29 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19620189_v_h8_aa.jpg" group-title="10-CRIMEN juanpablo", JP:LOCKED IN 2021 HD
+https://cache015.peliscdn.online/newhls/09ae6c2ac2716e1c8baf19aca8a71d12/EP.0.2.v1.1709395689.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1b0ZBB-2ZSA/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:KIN EL LEGADO 2018 opc2
+https://s00.ll1.lat/0:/p/kin_el_legado_2018.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i8koxOxjokU/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:FEAST 2005 ATRAPADOS SD
+https://cache003.peliscdn.online/newhls/464cf7f82092c39f84bc3d20d53763c8/EP.0.1.v0.1709384111.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i8koxOxjokU/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:FEAST II 2008 ATRAPADOS II SD
+https://cache006.peliscdn.online/newhls/87371c60fab906c6f76a6da2bbf2c310/EP.0.0.v0.1709603009.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/i8koxOxjokU/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:FEAST III 2009 ATRAPADOS III SD
+https://cache005.peliscdn.online/newhls/8795297066936878f394c5fba21dbc22/EP.0.0.v0.1709902775.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ntNS-ANoMyM/maxresdefault.jpg" group-title="5-AVENTURA juanpablo", JP:EL LIBRO DE CLARENCE 2024 opc2
+https://s32.ll1.lat/0:/p/el_libro_de_clarence_espanol_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VOX0SfsY9Jw/mqdefault.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:KILL MODE 2019 HD
 https://cache003.peliscdn.online/newhls/4cd149aa5845d936d2291d6a36924b44/EP.0.2.v1.1708818960.720.m3u8
