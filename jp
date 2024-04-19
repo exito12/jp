@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-Tx9Op945bQ/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:POSSESSIONS 2024 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/21576/254059_4b040985_28ce_4dd5_961a_c707c7c4cd1e_fqzg_2226991_filemoon.mp4?hash=c6d4d8d8f7683ebe2eb07eaabd845bf035534f1ac0a7f7c58b28bde3df40704
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vPD87a7reTM/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:REUNION 2024 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/21566/video-2024-04-19_22-35-14.mp4?hash=5416153c0e7e74e289e52248f7d17aea7e1961422268a6a3702976b40226b02
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cDW-5tC0PUc/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:COLT MEAT 2024 SANGRE FRIA linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/21570/video-2024-04-19_22-48-12.mp4?hash=a0226be1bf13dd2166702fd7a29c64bbaff0cf6ec01aa0440ceced4bd35659a
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vPD87a7reTM/maxresdefault.jpg" group-title="10-CRIMEN juanpablo", JP:CLASS OF 1984 linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/19491/Curso.1984.720.BDrip.cast.mp4?hash=bfa7573b8fc8f0dc65e5de4bb882ced2f864778b39ebba3f882d90bd8be9c3c
 
@@ -878,6 +888,25 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFPLOtUv0N0IvdTSZn4pbdnOqjh2CQ_ndyg&usqp=CAU" group-title="2-SUSPENSO juanpablo", JP:EDEN LAKE 2008 SILENCIO EN EL LAGO HD
+https://cache001.peliscdn.online/newhls/f98b3d7d1370f62bff56da66e89ee89e/EP.0.1.v0.1709223073.720.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdT8DcAY7ioFWlZqoJT5CY7ZpM-cnxtR8ug&usqp=CAU" group-title="5-AVENTURA juanpablo", JP:LA FORTALEZA THE OUTPOST 2018 SD
+https://cache020.peliscdn.online/newhls/527574143988cde085fa55c40e15911c/EP.1.1.v0.1710110482.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6422445af2ca4573eb3d23cdb46e6497d24fa2c009845667f614c3662f85e4e6._SX1080_FMjpg_.jpg" group-title="2-SUSPENSO juanpablo", JP:THE BLACKOUT 2019 AVANPOST SD
+https://cache017.peliscdn.online/newhls/e66b124d86460bceef33519d1d61112d/EP.0.1.v1.1708907978.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyouCt308ltVfijG3doz4kVimFn6RXnx8RCw&usqp=CAU" group-title="5-AVENTURA juanpablo", JP:REBEL MOON 2023 opc2
+https://s20.ll1.lat/0:/p/rebel_moon_espanol_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFOKzdAWL6n8LYm_cXNGiRooNdrGWCXmsu0g&usqp=CAU" group-title="5-AVENTURA juanpablo", JP:REBEL MOON II 2024 opc2
+https://s33.ll1.lat/0:/p/rebel_moon_2_espanol_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4dinai8AxClEF4z5_iyYMcfHkfcvkZlWLQ&usqp=CAU" group-title="10-CRIMEN juanpablo", JP:RECUERDOS MORTALES 2024 opc2
+https://s32.ll1.lat/0:/p/recuerdos_mortales_espanol_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19620189_v_h8_aa.jpg" group-title="10-CRIMEN juanpablo", JP:LOCKED IN 2021 HD
 https://cache015.peliscdn.online/newhls/09ae6c2ac2716e1c8baf19aca8a71d12/EP.0.2.v1.1709395689.720.m3u8
