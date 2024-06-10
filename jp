@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e5147354c4729a1c4f1b83314c900c84f7a3ba99e55412a33a6a753770be22b6.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:TIMELINE 2003 RESCATE EN EL TIEMPO linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/33320?hash=c87382a7051d09fad713fb0af1e5a61f
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZF1JqTFfZ7U/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:LA JUSTICIA DEL NINJA  linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/33321?hash=3899c265ba13da41aca048f211af573b
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-Tx9Op945bQ/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:POSSESSIONS 2024 linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/32105?hash=f07b65cee0de2a203676d632e837293a
@@ -44,6 +49,14 @@ http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/16265/9852-Bone+Tomahawk+%28201
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GYJV2g3M-t4/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:THE CONFESSION 2010 linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/16263/THE+CONFESSION+-+Oscar+nominated+short+film_FHD_DOWNLOAD.mkv?hash=8ffebf5581c3b5c37b4cd6938c369ae4c939ab2414981bcf4ff1720b71960aa
+
+
+
+
+
+
+
+
 
 
 
@@ -904,6 +917,12 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qbjaYOLO1ys/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:LOS EXTRAÑOS CAPITULO1 opc2
+https://s34.1ll.lat/0:/p/los_extranos_capitulo_1_espanol_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iwG53PkD3rY/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:INMACULADA LIBRALA DEL MAL 2024 opc2
+https://s03.1ll.lat/0:/p/inmaculada_espanol_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ySlAxWTHWzs/maxresdefault.jpg" group-title="3-TERROR juanpablo", JP:LA PRIMERA PROFECIA 2024 opc2
 https://s34.1ll.lat/0:/p/la_primera_profecia_espanol_2024.mp4
