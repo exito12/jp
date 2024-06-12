@@ -23,7 +23,7 @@ http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/32399?hash=1323430ace103
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/32756?hash=bca081d2765e57a06def40fa915cf591
 
 #EXTINF:-1 tvg-logo="https://areajugones.sport.es/wp-content/uploads/2024/04/materia-oscura-serie-de-apple-tv.jpg" group-title="1-ACCION juanpablo", JP:MATERIA OSCURA 2024 POR CAPÍTULOS linktemp
-http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/32785?hash=3c87dc225889fdadd624ed1f33961178
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/33548?hash=fedf4e3226034ef43cba700162961654
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AISIh_Z31cs/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:57 SEGUNDOS 2023 linktemp
@@ -49,6 +49,15 @@ http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/16265/9852-Bone+Tomahawk+%28201
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GYJV2g3M-t4/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:THE CONFESSION 2010 linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/16263/THE+CONFESSION+-+Oscar+nominated+short+film_FHD_DOWNLOAD.mkv?hash=8ffebf5581c3b5c37b4cd6938c369ae4c939ab2414981bcf4ff1720b71960aa
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8BaJSB0TNYxJwFKI4x7Q2shkQ7T.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:MOON MAN 2022 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/33535?hash=e6d6c78f99489bbd235da6816ae39052
+
+#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2011/05/critica-sangriento-dia-madres-1024x559.jpg" group-title="2-SUSPENSO juanpablo", JP:SANGRIENTO DIA DE LAS MADRES 2010 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/33536?hash=c8b366f76f21cfeb2fb85b82b2b9d54b
+
+
+
 
 
 
