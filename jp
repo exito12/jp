@@ -1,6 +1,17 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RjQ-SUKohy0/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:LADY BLOODFIGHT 2016 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/34080?hash=3d9740f077bb5c2b4ba340574847f6d0
+
+#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2011/05/critica-sangriento-dia-madres-1024x559.jpg" group-title="2-SUSPENSO juanpablo", JP:SANGRIENTO DIA DE LAS MADRES 2010 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/34081?hash=c8b366f76f21cfeb2fb85b82b2b9d54b
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8BaJSB0TNYxJwFKI4x7Q2shkQ7T.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:MOON MAN 2022 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/34082?hash=e6d6c78f99489bbd235da6816ae39052
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e5147354c4729a1c4f1b83314c900c84f7a3ba99e55412a33a6a753770be22b6.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:TIMELINE 2003 RESCATE EN EL TIEMPO linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/33320?hash=c87382a7051d09fad713fb0af1e5a61f
 
