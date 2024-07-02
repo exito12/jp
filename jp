@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xiC2iXTXHxw/sddefault.jpg" group-title="12-ANIMACION juanpablo", JP: INTENSAMENTE 2024 linktemporal
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/36376?hash=a61c0a19b99f7f98c03de5e9bad6a7ad
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RjQ-SUKohy0/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:LADY BLOODFIGHT 2016 linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/34080?hash=3d9740f077bb5c2b4ba340574847f6d0
@@ -937,6 +938,15 @@ http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/336722
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M9GnnGwbh2Y/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:BAD BOYS 2024 HASTA LA MUERTE Opc2
+https://s39.1ll.lat/0:/bad_boys_4_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9JsSg_Oypbw/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:MONKEY MAN 2024 EL DESPERTAR DE LA BESTIA Opc2
+https://s23.1ll.lat/0:/p/monkey_man_el_despertar_de_la_bestia_espanol_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qbjaYOLO1ys/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:LOS EXTRAÑOS CAPITULO1 opc2
 https://s34.1ll.lat/0:/p/los_extranos_capitulo_1_espanol_2024.mp4
