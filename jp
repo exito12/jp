@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/S_UrR5d3xm0/maxresdefault.jpg" group-title="2-SUSPENSO juanpablo", JP:UN LUGAR EN SILENCIO 3 DIA UNO linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/36442?hash=b8a6e2a790a5f91640d3c995d7b5162c
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xiC2iXTXHxw/sddefault.jpg" group-title="12-ANIMACION juanpablo", JP: INTENSAMENTE 2da PARTE 2024 linktemporal
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/36376?hash=a61c0a19b99f7f98c03de5e9bad6a7ad
