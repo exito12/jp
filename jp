@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/115ecba736f2a721e6bfb944499330dc8283aab8fc5127f7a33f76ce45cfc641.jpg" group-title="9-MISTERIO juanpablo", JP:THE SUPERDEEP 2020 linktemp
+http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/36948?hash=32f04815d09e8098a2e84c6db18ca7d9
+
 #EXTINF:-1 tvg-logo="https://los40cl-digitalproserver.prisa.media/wp-content/uploads/2024/05/Mi-villano-favorito-4.jpg" group-title="12-ANIMACION juanpablo", JP:4 MI VILLANO FAVORITO 4 linktemporal
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/36449?hash=17281e1da7f874c78982ec4237ed63d5
 
