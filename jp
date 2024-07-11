@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://images.ecestaticos.com/Ll7Zmk6_HODNzFMWs2InbuxttSY=/141x2:1225x609/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d6%2F131%2F9b6%2F7d61319b65164c96c724327ed153e793.jpg" group-title="9-MISTERIO juanpablo", JP:VIENE DE NOCHE 2017 SD
+https://cache005.peliscdn.online/newhls/7bbf36e52e433491faad0223ee039bf6/EP.0.1.v0.1709669911.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ecestaticos.com/Ll7Zmk6_HODNzFMWs2InbuxttSY=/141x2:1225x609/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d6%2F131%2F9b6%2F7d61319b65164c96c724327ed153e793.jpg" group-title="9-MISTERIO juanpablo", JP:VIENE DE NOCHE 2017 HD
+https://cache005.peliscdn.online/newhls/7bbf36e52e433491faad0223ee039bf6/EP.0.1.v0.1709669911.720.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mt67ZY4s_Dc/maxresdefault.jpg" group-title="9-MISTERIO juanpablo", JP:OBSERVADOS 2024 linktemp
 http://x.aaaaaaaaaaaaaaaaaaaaaaaaaaa.workers.dev/stream/37331?hash=d68d773573c7096d9e1e1151bc678635
 
