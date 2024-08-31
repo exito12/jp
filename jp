@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/5c8fb97847d5698c659726d7d3297e63.jpg" group-title="1-ACCION juanpablo", JP:CRAKK 2024 linktemp
+https://new6.edithxbase.eu.org/35060/free5-2144648577
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nLNg2ZhvbRc/maxresdefault.jpg" group-title="1-ACCION juanpablo", JP:BORDERLANDS 2024 opc2
+https://s40.1ll.lat/0:/p/borderlands_el_destino_del_universo_esta_en_juego_espanol_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://img.aullidos.com/imagenes/noticias/tw-40466.jpg" group-title="10-CRIMEN juanpablo", JP:LA TRAMPA 2024 opc2
+https://s40.1ll.lat/0:/p/la_trampa_espanol_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/84dc4b72-331c-4c71-b125-eb731b3fb191_16-9-discover-aspect-ratio_default_0.jpg" group-title="1-ACCION juanpablo", JP:EL CUERVO 2024 opc2
+https://s41.1ll.lat/0:/el_cuervo_2024_cam.mp4
+
 #EXTINF:-1 tvg-logo="https://themarckoguy.wordpress.com/wp-content/uploads/2024/08/alienromulus.jpg" group-title="8-CIENCIA FICCION juanpablo", JP:ALIENS ROMULUS 2024 opc2
 https://s40.1ll.lat/0:/alien_romulus_2024_720p_espanol_cam.mp4
 
